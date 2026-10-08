@@ -38,6 +38,7 @@ var pages = map[string]string{
 }
 
 var bracketSpeciesRE = regexp.MustCompile(`\[([^\]]{3,120})\]`)
+var speciesShapeRE = regexp.MustCompile(`^(?:[A-Z][a-z]+|[a-z][a-z]+)\s+(?:[a-z][A-Za-z-]+|sp\.?|cf\.?|aff\.?)\b`)
 
 func main() {
 	out := flag.String("out", "p450phgo.pgd", "output PGD path")
@@ -202,7 +203,7 @@ func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
 			lineSpecies := label
 			if m := bracketSpeciesRE.FindStringSubmatch(line); len(m) == 2 {
 				candidate := strings.TrimSpace(strings.ReplaceAll(m[1], "_", " "))
-				if !strings.Contains(strings.ToLower(candidate), "predicted") && !strings.Contains(strings.ToLower(candidate), "cytochrome") {
+				if speciesShapeRE.MatchString(candidate) && !strings.ContainsAny(candidate[:minInt(len(candidate), 80)], "0123456789") && !strings.Contains(strings.ToLower(candidate), "predicted") && !strings.Contains(strings.ToLower(candidate), "cytochrome") {
 					lineSpecies = candidate
 				}
 			}
@@ -225,6 +226,13 @@ func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
 		}
 	}
 	return out, nil
+}
+
+func minInt(a, b int) int {
+	if a < b {
+		return a
+	}
+	return b
 }
 
 func aggregateResource(category, label string) bool {
