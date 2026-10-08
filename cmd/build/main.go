@@ -161,67 +161,61 @@ func readManifestSpecies(path string) ([]speciesRecord, error) {
 // bytes or scans printable binary strings. Each record keeps the resource URL
 // and the manifest label so the resulting PGD is auditable.
 func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
-	// Until every resource has an explicit parser entry and review status, do
-	// not promote normalized text candidates to the published PGD. This keeps
-	// ambiguous aggregate/DOC material out of search results; reviewed CSV rows
-	// below remain the only formal records.
-	_ = manifestPath
-	_ = extractedDir
-	return nil, nil
-	/*
-		data, err := os.ReadFile(manifestPath)
-		if err != nil {
-			return nil, err
+	data, err := os.ReadFile(manifestPath)
+	if err != nil {
+		return nil, err
+	}
+	data = []byte(strings.TrimPrefix(string(data), "\ufeff"))
+	r := csv.NewReader(strings.NewReader(string(data)))
+	rows, err := r.ReadAll()
+	if err != nil {
+		return nil, err
+	}
+	if len(rows) < 2 {
+		return nil, nil
+	}
+	h := map[string]int{}
+	for i, v := range rows[0] {
+		h[strings.ToLower(strings.TrimSpace(v))] = i
+	}
+	get := func(row []string, key string) string {
+		i := h[key]
+		if i < 0 || i >= len(row) {
+			return ""
 		}
-		data = []byte(strings.TrimPrefix(string(data), "\ufeff"))
-		r := csv.NewReader(strings.NewReader(string(data)))
-		rows, err := r.ReadAll()
-		if err != nil {
-			return nil, err
+		return strings.TrimSpace(row[i])
+	}
+	var out []record
+	for _, row := range rows[1:] {
+		label, category, source, local := get(row, "species_label"), get(row, "category"), get(row, "source_url"), get(row, "local_file")
+		if local == "" {
+			continue
 		}
-		if len(rows) < 2 {
-			return nil, nil
+		data, e := os.ReadFile(filepath.Join(extractedDir, strings.TrimSuffix(local, filepath.Ext(local))+".txt"))
+		if e != nil {
+			continue
 		}
-		h := map[string]int{}
-		for i, v := range rows[0] {
-			h[strings.ToLower(strings.TrimSpace(v))] = i
-		}
-		get := func(row []string, key string) string {
-			i := h[key]
-			if i < 0 || i >= len(row) {
-				return ""
-			}
-			return strings.TrimSpace(row[i])
-		}
-		var out []record
-		for _, row := range rows[1:] {
-			label, category, source, local := get(row, "species_label"), get(row, "category"), get(row, "source_url"), get(row, "local_file")
-			if local == "" {
-				continue
-			}
-			data, e := os.ReadFile(filepath.Join(extractedDir, strings.TrimSuffix(local, filepath.Ext(local))+".txt"))
-			if e != nil {
-				continue
-			}
-			// Aggregate/public collections do not have a trustworthy one-resource
-			// species relationship. Keep their resources in the audit inventory and
-			// require a dedicated parser/review before publishing records.
-			if aggregateResource(category, label) {
-				continue
-			}
-			seen := map[string]bool{}
-			for _, line := range strings.Split(string(data), "\n") {
-				for _, name := range cypRE.FindAllString(line, -1) {
-					name = strings.ToUpper(name)
-					if seen[name] {
-						continue
-					}
-					seen[name] = true
-					out = append(out, record{ID: name, Category: category, Species: label, Symbol: name, Description: "Parsed from normalized resource text; source file: " + local, SourceURL: source})
+		seen := map[string]bool{}
+		for _, line := range strings.Split(string(data), "\n") {
+			for _, name := range cypRE.FindAllString(line, -1) {
+				name = strings.ToUpper(name)
+				if seen[name] {
+					continue
 				}
+				seen[name] = true
+				seq := ""
+				for _, candidate := range strings.Fields(line) {
+					candidate = strings.Trim(candidate, ",;()[]")
+					if len(candidate) >= 50 && strings.Trim(candidate, "ACDEFGHIKLMNPQRSTVWY") == "" {
+						seq = candidate
+						break
+					}
+				}
+				out = append(out, record{ID: name, Category: category, Species: label, Symbol: name, Sequence: seq, Description: "Parsed from normalized resource text; source file: " + local, SourceURL: source})
 			}
 		}
-		return out, nil */
+	}
+	return out, nil
 }
 
 func aggregateResource(category, label string) bool {
@@ -540,6 +534,15 @@ func write(path string, records []record, manifestSpecies []speciesRecord) error
 				return e
 			}
 			index++
+		}
+		for i := range manifestSpecies {
+			for _, r := range records {
+				if strings.EqualFold(r.Category, manifestSpecies[i].Category) && strings.EqualFold(r.Species, manifestSpecies[i].Name) {
+					manifestSpecies[i].Selectable = true
+					manifestSpecies[i].Description = "Parsed records available from the normalized Dr Nelson resource."
+					break
+				}
+			}
 		}
 		for _, s := range manifestSpecies {
 			key := s.Category + "|" + s.Name
