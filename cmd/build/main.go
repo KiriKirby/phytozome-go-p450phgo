@@ -21,6 +21,12 @@ import (
 type record struct {
 	ID, Category, Species, Symbol, Description, Sequence, SourceURL string
 }
+type speciesRecord struct {
+	Name        string `json:"name"`
+	Category    string `json:"category"`
+	Selectable  bool   `json:"selectable"`
+	Description string `json:"description"`
+}
 
 var pages = map[string]string{
 	"animals":  "https://drnelson.uthsc.edu/animals/",
@@ -118,6 +124,28 @@ func write(path string, records []record) error {
 			if e = b.Put([]byte(fmt.Sprintf("%08d", i)), v); e != nil {
 				return e
 			}
+		}
+		speciesBucket, e := tx.CreateBucket([]byte("species"))
+		if e != nil {
+			return e
+		}
+		seen := map[string]bool{}
+		index := 0
+		for _, r := range records {
+			key := r.Category + "|" + r.Species
+			if strings.TrimSpace(r.Species) == "" || seen[key] {
+				continue
+			}
+			seen[key] = true
+			s := speciesRecord{Name: r.Species, Category: r.Category, Selectable: true, Description: r.Description}
+			v, e := json.Marshal(s)
+			if e != nil {
+				return e
+			}
+			if e = speciesBucket.Put([]byte(fmt.Sprintf("%08d", index)), v); e != nil {
+				return e
+			}
+			index++
 		}
 		return nil
 	})
