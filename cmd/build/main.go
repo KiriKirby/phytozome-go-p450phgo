@@ -13,6 +13,7 @@ import (
 	"regexp"
 	"sort"
 	"strings"
+	"sync"
 	"time"
 
 	bolt "go.etcd.io/bbolt"
@@ -55,7 +56,7 @@ func collect(ctx context.Context) ([]record, error) {
 	linkRE := regexp.MustCompile(`(?is)<a[^>]+href=["']([^"']+)["'][^>]*>(.*?)</a>`)
 	stripRE := regexp.MustCompile(`(?is)<[^>]+>`)
 	seen := map[string]bool{}
-	var records []record
+	var links []record
 	for category, page := range pages {
 		req, _ := http.NewRequestWithContext(ctx, http.MethodGet, page, nil)
 		resp, err := client.Do(req)
@@ -90,9 +91,12 @@ func collect(ctx context.Context) ([]record, error) {
 			if id == "." || id == "" {
 				id = label
 			}
-			records = append(records, record{ID: id, Category: category, Species: label, Symbol: label, Description: label, SourceURL: ref.String()})
+			if ext := strings.ToLower(filepath.Ext(ref.Path)); ext == ".doc" || ext == ".xlsx" || ext == ".txt" || ext == ".fasta" || ext == ".fa" {
+				links = append(links, record{ID: id, Category: category, Species: label, Symbol: label, Description: label, SourceURL: ref.String()})
+			}
 		}
 	}
+	records := fetchResources(ctx, client, links)
 	sort.Slice(records, func(i, j int) bool {
 		if records[i].Category != records[j].Category {
 			return records[i].Category < records[j].Category
@@ -100,6 +104,86 @@ func collect(ctx context.Context) ([]record, error) {
 		return records[i].ID < records[j].ID
 	})
 	return records, nil
+}
+
+var cypRE = regexp.MustCompile(`(?i)\bCYP[0-9]{1,4}[A-Z]{1,4}[0-9]{1,4}(?:\.[0-9]+)?\b`)
+
+func fetchResources(ctx context.Context, client *http.Client, links []record) []record {
+	workers := 12
+	if len(links) < workers {
+		workers = len(links)
+	}
+	jobs := make(chan record)
+	out := make(chan []record, len(links))
+	var wg sync.WaitGroup
+	for i := 0; i < workers; i++ {
+		wg.Add(1)
+		go func() {
+			defer wg.Done()
+			for link := range jobs {
+				out <- fetchResource(ctx, client, link)
+			}
+		}()
+	}
+	go func() {
+		for _, l := range links {
+			jobs <- l
+		}
+		close(jobs)
+		wg.Wait()
+		close(out)
+	}()
+	var records []record
+	for batch := range out {
+		records = append(records, batch...)
+	}
+	return records
+}
+func fetchResource(ctx context.Context, client *http.Client, link record) []record {
+	req, _ := http.NewRequestWithContext(ctx, http.MethodGet, link.SourceURL, nil)
+	resp, err := client.Do(req)
+	if err != nil {
+		return []record{link}
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode >= 400 {
+		return []record{link}
+	}
+	data, err := io.ReadAll(io.LimitReader(resp.Body, 64<<20))
+	if err != nil {
+		return []record{link}
+	}
+	text := extractPrintable(data)
+	names := cypRE.FindAllString(text, -1)
+	if len(names) == 0 {
+		return []record{link}
+	}
+	seen := map[string]bool{}
+	out := make([]record, 0, len(names))
+	for _, name := range names {
+		key := strings.ToUpper(name)
+		if seen[key] {
+			continue
+		}
+		seen[key] = true
+		out = append(out, record{ID: key, Category: link.Category, Species: link.Species, Symbol: key, Description: link.Description, SourceURL: link.SourceURL})
+	}
+	return out
+}
+func extractPrintable(data []byte) string {
+	var b strings.Builder
+	b.Grow(len(data))
+	space := false
+	for _, c := range data {
+		if c >= 32 && c <= 126 {
+			b.WriteByte(c)
+			space = false
+		} else if !space {
+			b.WriteByte(' ')
+			space = true
+		}
+	}
+	return b.String()
 }
 
 func write(path string, records []record) error {
