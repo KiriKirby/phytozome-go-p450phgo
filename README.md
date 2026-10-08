@@ -5,3 +5,5 @@ This repository publishes the read-only `p450phgo.pgd` bbolt database consumed b
 The application downloads the release asset on first CYP selection and stores it beside the executable as `p450phgo.pgd`. Set `PHGO_CYP_PGD_URL` during testing to point at a release asset or raw file.
 
 The generator and source-analysis documentation belong here, alongside the generated PGD. Keep the generated database immutable between releases and publish a checksum/manifest with each update.
+
+The current GitHub release asset is consumed through `manifest.json`; PHgo verifies both its byte length and SHA-256 before atomically replacing the installed database.
