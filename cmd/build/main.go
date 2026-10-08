@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"encoding/csv"
 	"encoding/json"
 	"flag"
 	"fmt"
@@ -38,17 +39,317 @@ var pages = map[string]string{
 
 func main() {
 	out := flag.String("out", "p450phgo.pgd", "output PGD path")
+	sources := flag.String("sources", "sources", "reviewed structured source directory")
+	docs := flag.String("species-docs", "docs/species", "generated per-species audit documentation")
+	extracted := flag.String("extracted", "extracted-v4", "Office-normalized resource text directory")
+	resources := flag.String("resource-index", "sources/resources.csv", "resource manifest CSV")
 	flag.Parse()
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
+	_, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
 	defer cancel()
-	records, err := collect(ctx)
+	// Resource text is retained for audit and parser development. Formal
+	// records are emitted only by resource-specific parsers plus reviewed CSV.
+	records, err := parseExtracted(*resources, *extracted)
 	if err != nil {
 		panic(err)
 	}
-	if err := write(*out, records); err != nil {
+	reviewed, err := readReviewedSources(*sources)
+	if err != nil {
+		panic(err)
+	}
+	records = mergeRecords(records, reviewed)
+	allSpecies, err := readManifestSpecies(*resources)
+	if err != nil {
+		panic(err)
+	}
+	if err := write(*out, records, allSpecies); err != nil {
+		panic(err)
+	}
+	if err := writeSpeciesDocs(*docs, records); err != nil {
+		panic(err)
+	}
+	if err := writeResourceAuditDocs(*resources, filepath.Join(filepath.Dir(*docs), "resources")); err != nil {
 		panic(err)
 	}
 	fmt.Printf("wrote %d records to %s\n", len(records), *out)
+}
+
+func writeResourceAuditDocs(manifestPath, root string) error {
+	data, err := os.ReadFile(manifestPath)
+	if err != nil {
+		return err
+	}
+	data = []byte(strings.TrimPrefix(string(data), "\ufeff"))
+	rows, err := csv.NewReader(strings.NewReader(string(data))).ReadAll()
+	if err != nil {
+		return err
+	}
+	if len(rows) < 2 {
+		return nil
+	}
+	h := map[string]int{}
+	for i, v := range rows[0] {
+		h[strings.ToLower(strings.TrimSpace(v))] = i
+	}
+	get := func(row []string, k string) string {
+		i := h[k]
+		if i < 0 || i >= len(row) {
+			return ""
+		}
+		return strings.TrimSpace(row[i])
+	}
+	if err := os.MkdirAll(root, 0o755); err != nil {
+		return err
+	}
+	for _, row := range rows[1:] {
+		label, cat, local, source := get(row, "species_label"), get(row, "category"), get(row, "local_file"), get(row, "source_url")
+		if label == "" {
+			continue
+		}
+		slug := regexp.MustCompile(`[^A-Za-z0-9._-]+`).ReplaceAllString(strings.ToLower(cat+"-"+label), "-")
+		slug = strings.Trim(slug, "-")
+		body := fmt.Sprintf("# Resource audit: %s\n\n- Category: `%s`\n- Resource: `%s`\n- URL: %s\n- Parser status: `pending resource-specific review`\n- Formal PGD records: `not published`\n\nThis resource was downloaded and normalized with Office COM. It is intentionally excluded from the searchable PGD until its species relationship, identifier fields, sequence handling, and parser validation are documented. Aggregate resources require separate per-species extraction.\n", label, cat, local, source)
+		if err := os.WriteFile(filepath.Join(root, slug+".md"), []byte(body), 0o644); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func readManifestSpecies(path string) ([]speciesRecord, error) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil, err
+	}
+	data = []byte(strings.TrimPrefix(string(data), "\ufeff"))
+	rows, err := csv.NewReader(strings.NewReader(string(data))).ReadAll()
+	if err != nil {
+		return nil, err
+	}
+	if len(rows) < 2 {
+		return nil, nil
+	}
+	h := map[string]int{}
+	for i, v := range rows[0] {
+		h[strings.ToLower(strings.TrimSpace(v))] = i
+	}
+	get := func(row []string, k string) string {
+		i := h[k]
+		if i < 0 || i >= len(row) {
+			return ""
+		}
+		return strings.TrimSpace(row[i])
+	}
+	seen := map[string]bool{}
+	out := []speciesRecord{}
+	for _, row := range rows[1:] {
+		name, cat := get(row, "species_label"), get(row, "category")
+		if name == "" {
+			continue
+		}
+		key := cat + "|" + name
+		if seen[key] {
+			continue
+		}
+		seen[key] = true
+		out = append(out, speciesRecord{Name: name, Category: cat, Selectable: false, Description: "Listed by Dr Nelson resource; record requires resource-specific review."})
+	}
+	return out, nil
+}
+
+// parseExtracted parses only normalized Office text produced by
+// scripts/extract-office.ps1. It deliberately never reads the original DOC/XLSX
+// bytes or scans printable binary strings. Each record keeps the resource URL
+// and the manifest label so the resulting PGD is auditable.
+func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
+	// Until every resource has an explicit parser entry and review status, do
+	// not promote normalized text candidates to the published PGD. This keeps
+	// ambiguous aggregate/DOC material out of search results; reviewed CSV rows
+	// below remain the only formal records.
+	_ = manifestPath
+	_ = extractedDir
+	return nil, nil
+	/*
+		data, err := os.ReadFile(manifestPath)
+		if err != nil {
+			return nil, err
+		}
+		data = []byte(strings.TrimPrefix(string(data), "\ufeff"))
+		r := csv.NewReader(strings.NewReader(string(data)))
+		rows, err := r.ReadAll()
+		if err != nil {
+			return nil, err
+		}
+		if len(rows) < 2 {
+			return nil, nil
+		}
+		h := map[string]int{}
+		for i, v := range rows[0] {
+			h[strings.ToLower(strings.TrimSpace(v))] = i
+		}
+		get := func(row []string, key string) string {
+			i := h[key]
+			if i < 0 || i >= len(row) {
+				return ""
+			}
+			return strings.TrimSpace(row[i])
+		}
+		var out []record
+		for _, row := range rows[1:] {
+			label, category, source, local := get(row, "species_label"), get(row, "category"), get(row, "source_url"), get(row, "local_file")
+			if local == "" {
+				continue
+			}
+			data, e := os.ReadFile(filepath.Join(extractedDir, strings.TrimSuffix(local, filepath.Ext(local))+".txt"))
+			if e != nil {
+				continue
+			}
+			// Aggregate/public collections do not have a trustworthy one-resource
+			// species relationship. Keep their resources in the audit inventory and
+			// require a dedicated parser/review before publishing records.
+			if aggregateResource(category, label) {
+				continue
+			}
+			seen := map[string]bool{}
+			for _, line := range strings.Split(string(data), "\n") {
+				for _, name := range cypRE.FindAllString(line, -1) {
+					name = strings.ToUpper(name)
+					if seen[name] {
+						continue
+					}
+					seen[name] = true
+					out = append(out, record{ID: name, Category: category, Species: label, Symbol: name, Description: "Parsed from normalized resource text; source file: " + local, SourceURL: source})
+				}
+			}
+		}
+		return out, nil */
+}
+
+func aggregateResource(category, label string) bool {
+	l := strings.ToLower(label)
+	if category == "bacteria" {
+		return true
+	}
+	for _, token := range []string{"public", "all named", "lepidoptera", "environmental", "taxonomic group", "partial collection"} {
+		if strings.Contains(l, token) {
+			return true
+		}
+	}
+	return false
+}
+
+func readReviewedSources(root string) ([]record, error) {
+	matches, err := filepath.Glob(filepath.Join(root, "*.csv"))
+	if err != nil {
+		return nil, err
+	}
+	var out []record
+	for _, path := range matches {
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return nil, err
+		}
+		data = []byte(strings.TrimPrefix(string(data), "\ufeff"))
+		rows, err := csv.NewReader(strings.NewReader(string(data))).ReadAll()
+		if err != nil {
+			return nil, fmt.Errorf("%s: %w", path, err)
+		}
+		if len(rows) < 2 {
+			continue
+		}
+		header := map[string]int{}
+		for i, v := range rows[0] {
+			header[strings.ToLower(strings.TrimSpace(v))] = i
+		}
+		required := []string{"category", "species", "symbol", "source_url", "source_note"}
+		valid := true
+		for _, name := range required {
+			if _, ok := header[name]; !ok {
+				valid = false
+				break
+			}
+		}
+		if !valid {
+			continue // non-record audit CSVs share this directory
+		}
+		for _, row := range rows[1:] {
+			get := func(name string) string {
+				i := header[name]
+				if i >= len(row) {
+					return ""
+				}
+				return strings.TrimSpace(row[i])
+			}
+			symbol := get("symbol")
+			species := get("species")
+			if symbol == "" || species == "" {
+				continue
+			}
+			out = append(out, record{ID: first(get("id"), symbol), Category: get("category"), Species: species, Symbol: symbol, Description: get("source_note"), Sequence: get("sequence"), SourceURL: get("source_url")})
+		}
+	}
+	return out, nil
+}
+func first(values ...string) string {
+	for _, v := range values {
+		if strings.TrimSpace(v) != "" {
+			return strings.TrimSpace(v)
+		}
+	}
+	return ""
+}
+func mergeRecords(groups ...[]record) []record {
+	seen := map[string]int{}
+	var out []record
+	for _, group := range groups {
+		for _, r := range group {
+			k := strings.ToLower(strings.Join([]string{r.Category, r.Species, r.Symbol, r.ID, r.SourceURL}, "|"))
+			if i, ok := seen[k]; ok {
+				if out[i].Description == "" {
+					out[i].Description = r.Description
+				}
+				if out[i].Sequence == "" {
+					out[i].Sequence = r.Sequence
+				}
+				continue
+			}
+			seen[k] = len(out)
+			out = append(out, r)
+		}
+	}
+	sort.Slice(out, func(i, j int) bool {
+		return strings.ToLower(out[i].Species+"|"+out[i].Symbol) < strings.ToLower(out[j].Species+"|"+out[j].Symbol)
+	})
+	return out
+}
+func writeSpeciesDocs(root string, records []record) error {
+	if err := os.MkdirAll(root, 0o755); err != nil {
+		return err
+	}
+	bySpecies := map[string][]record{}
+	for _, r := range records {
+		if strings.TrimSpace(r.Species) != "" {
+			bySpecies[r.Species] = append(bySpecies[r.Species], r)
+		}
+	}
+	for species, rows := range bySpecies {
+		name := regexp.MustCompile(`[^A-Za-z0-9._-]+`).ReplaceAllString(strings.ToLower(species), "-")
+		name = strings.Trim(name, "-")
+		if name == "" {
+			continue
+		}
+		var b strings.Builder
+		fmt.Fprintf(&b, "# %s\n\nCategory: `%s`\n\nRecords: %d\n\n| CYP / ID | Description | Source |\n|---|---|---|\n", species, rows[0].Category, len(rows))
+		for _, r := range rows {
+			fmt.Fprintf(&b, "| %s | %s | %s |\n", md(r.Symbol), md(r.Description), md(r.SourceURL))
+		}
+		if err := os.WriteFile(filepath.Join(root, name+".md"), []byte(b.String()), 0o644); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+func md(s string) string {
+	return strings.ReplaceAll(strings.ReplaceAll(strings.TrimSpace(s), "|", "\\|"), "\n", " ")
 }
 
 func collect(ctx context.Context) ([]record, error) {
@@ -186,7 +487,7 @@ func extractPrintable(data []byte) string {
 	return b.String()
 }
 
-func write(path string, records []record) error {
+func write(path string, records []record, manifestSpecies []speciesRecord) error {
 	if err := os.MkdirAll(filepath.Dir(path), 0o755); err != nil && filepath.Dir(path) != "." {
 		return err
 	}
@@ -222,6 +523,21 @@ func write(path string, records []record) error {
 			}
 			seen[key] = true
 			s := speciesRecord{Name: r.Species, Category: r.Category, Selectable: true, Description: r.Description}
+			v, e := json.Marshal(s)
+			if e != nil {
+				return e
+			}
+			if e = speciesBucket.Put([]byte(fmt.Sprintf("%08d", index)), v); e != nil {
+				return e
+			}
+			index++
+		}
+		for _, s := range manifestSpecies {
+			key := s.Category + "|" + s.Name
+			if seen[key] {
+				continue
+			}
+			seen[key] = true
 			v, e := json.Marshal(s)
 			if e != nil {
 				return e

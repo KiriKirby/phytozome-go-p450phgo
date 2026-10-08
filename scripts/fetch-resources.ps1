@@ -1,0 +1,6 @@
+param([string]$RawDir="raw",[string]$Manifest="sources/resources.csv")
+$ErrorActionPreference="Stop";New-Item -ItemType Directory -Force $RawDir,(Split-Path $Manifest)|Out-Null
+$pages=[ordered]@{animals='animals';plants='plants';fungi='fungal-genomes';bacteria='bacteria'};$rows=@()
+foreach($category in $pages.Keys){$page="https://drnelson.uthsc.edu/$($pages[$category])/";$html=(Invoke-WebRequest $page -UseBasicParsing).Content;$matches=[regex]::Matches($html,'<a[^>]+href=["'']([^"'']+\.(?:docx?|xlsx|txt|fasta|fa))["''][^>]*>(.*?)</a>','IgnoreCase');foreach($match in $matches){$label=([regex]::Replace($match.Groups[2].Value,'<[^>]+>',' ') -replace '\s+',' ').Trim();$uri=[uri]::new([uri]$page,$match.Groups[1].Value).AbsoluteUri;$name=('{0}-{1}' -f $category,[IO.Path]::GetFileName(([uri]$uri).LocalPath));$path=Join-Path $RawDir $name;if(!(Test-Path $path)){Invoke-WebRequest $uri -OutFile $path -UseBasicParsing};$rows+=[pscustomobject]@{category=$category;species_label=$label;source_url=$uri;local_file=$name;format=[IO.Path]::GetExtension($name).TrimStart('.').ToLowerInvariant();parser='office-text';status='downloaded'}}}
+$rows|Export-Csv $Manifest -NoTypeInformation -Encoding utf8
+Write-Output "Downloaded/audited $($rows.Count) resources."
