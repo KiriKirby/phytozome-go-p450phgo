@@ -37,6 +37,8 @@ var pages = map[string]string{
 	"bacteria": "https://drnelson.uthsc.edu/bacteria/",
 }
 
+var bracketSpeciesRE = regexp.MustCompile(`\[([^\]]{3,120})\]`)
+
 func main() {
 	out := flag.String("out", "p450phgo.pgd", "output PGD path")
 	sources := flag.String("sources", "sources", "reviewed structured source directory")
@@ -197,6 +199,13 @@ func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
 		}
 		seen := map[string]bool{}
 		for _, line := range strings.Split(string(data), "\n") {
+			lineSpecies := label
+			if m := bracketSpeciesRE.FindStringSubmatch(line); len(m) == 2 {
+				candidate := strings.TrimSpace(strings.ReplaceAll(m[1], "_", " "))
+				if !strings.Contains(strings.ToLower(candidate), "predicted") && !strings.Contains(strings.ToLower(candidate), "cytochrome") {
+					lineSpecies = candidate
+				}
+			}
 			for _, name := range cypRE.FindAllString(line, -1) {
 				name = strings.ToUpper(name)
 				if seen[name] {
@@ -211,7 +220,7 @@ func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
 						break
 					}
 				}
-				out = append(out, record{ID: name, Category: category, Species: label, Symbol: name, Sequence: seq, Description: "Parsed from normalized resource text; source file: " + local, SourceURL: source})
+				out = append(out, record{ID: name, Category: category, Species: lineSpecies, Symbol: name, Sequence: seq, Description: "Parsed from normalized resource text; source file: " + local, SourceURL: source})
 			}
 		}
 	}
