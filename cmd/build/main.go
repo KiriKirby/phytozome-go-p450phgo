@@ -325,6 +325,15 @@ func writeSpeciesDocs(root string, records []record) error {
 	if err := os.MkdirAll(root, 0o755); err != nil {
 		return err
 	}
+	old, err := filepath.Glob(filepath.Join(root, "*.md"))
+	if err != nil {
+		return err
+	}
+	for _, path := range old {
+		if err := os.Remove(path); err != nil {
+			return err
+		}
+	}
 	bySpecies := map[string][]record{}
 	for _, r := range records {
 		if strings.TrimSpace(r.Species) != "" {
