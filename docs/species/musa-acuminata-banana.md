@@ -4,135 +4,141 @@ Category: `plants`
 
 Records: 130
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP701A11 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP703A17 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP704A3 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP704A89 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP704A90 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP704A95 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP704B3 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP706C6 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP707A103 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP707A40 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP707A79 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP707A88 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP709C15 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP709C2 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP709F3 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP710A18 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP710A43 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP711A14 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP711A22 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP714B7 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP714C2 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP715A18 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP715A3 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71AH2 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71AU4 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71AX3 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71BB1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71BE6 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71BG6 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71C101 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71C74 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71CE1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71CM7 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71D55 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71D8 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71D98 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71J1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP71W1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP720A6 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP721B5 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP722A6 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP724B1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP724C1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP727A7 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP727B6 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP727D1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP728B25 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP72A16 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP72A21 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP72A227 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP72A235 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP72A24 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP72A286 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP73A103 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP73A104 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP73A120 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP73A39 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP73A57 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP74A19 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP74B18 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP75A11 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP75A12 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP75A20 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP75A52 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP75B75 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP76F53 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP77A18 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP77B2 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP78A1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP78A15 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP78A36 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP78A84 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP78A85 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP78A90 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81B25 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81B27 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81B49 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81B54 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81B63 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81M4 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81Q19 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP81Q35 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP83F37 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP84A15 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP84A38 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP86A35 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP86A9 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP86B13 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP86B21 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP86C12 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP87A43 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP87A7 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP88A31 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP88A40 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP89A100 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP89A118 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP89A138 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP89B3 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP90A19 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP90A28 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP90D2 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP90D20 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP90D25 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP90D30 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP92A71 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP92A9 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP92A92 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP93A16 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94B21 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94C33 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94C34 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94C58 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94C71 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94D11 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94D25 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94D37 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94D48 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP94E8 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP96A30 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP96A57 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP96B18 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP96B3 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP97B15 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP97C21 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP98A44 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
-| CYP98A49 | Parsed from normalized resource text; source file: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+Sequence audit: `0/130` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP701A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP703A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP704A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP704A89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP704A90 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP704A95 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP704B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP706C6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP707A103 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP707A40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP707A79 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP707A88 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP709C15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP709C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP709F3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP710A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP710A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP711A14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP711A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP714B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP714C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP715A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP715A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71AH2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71AU4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71AX3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71BB1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71BE6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71BG6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71C101 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71C74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71CE1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71CM7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71D55 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71D98 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP71W1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP720A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP721B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP722A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP724B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP724C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP727A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP727B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP727D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP728B25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP72A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP72A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP72A227 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP72A235 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP72A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP72A286 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP733A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP73A103 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP73A104 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP73A120 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP73A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP73A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP74A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP74B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP75A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP75A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP75A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP75A52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP75B75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP76F53 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP77A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP77B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP78A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP78A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP78A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP78A84 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP78A85 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP78A90 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81B25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81B27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81B49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81B54 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81B63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81M4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81Q19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP81Q35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP83F37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP84A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP84A38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP85A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP86A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP86A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP86B13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP86B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP86C12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP87A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP87A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP88A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP88A40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP89A100 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP89A118 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP89A138 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP89B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP90A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP90A28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP90D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP90D20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP90D25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP90D30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP92A71 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP92A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP92A92 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP93A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94C33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94C34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94C58 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94C71 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94D11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94D25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94D37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94D48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP94E8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP96A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP96A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP96B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP96B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP97B15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP97C21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP98A44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |
+| CYP98A49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Musa.acuminata.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Musa.acuminata.xlsx |

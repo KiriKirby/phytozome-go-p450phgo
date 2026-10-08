@@ -4,168 +4,174 @@ Category: `plants`
 
 Records: 163
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP701A12 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP703A20 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP704A10 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP704A23 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP704A80 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP704A9 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP704A93 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP704G9 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP706B3 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP706C27 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP706C36 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP706G1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP707A10 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP707A13 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP707A15 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP707A97 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP710A18 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP711A42 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP712D1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP714A10 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP714A3 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP714E16 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP714E24 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP714J4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP714M4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP715A31 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716A16 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716A49 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716A57 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716A67 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716A73 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716A86 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716C1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716C4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP716C9 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP718A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AH3 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AH4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AH8 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AN1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AN3 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AN33 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AP5 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AU4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AU5 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71AX20 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BE42 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BE45 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BE5 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BE6 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BE7 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BF7 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BF9 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71BQ4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP71D160 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP721A35 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP721A36 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP722C1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP724A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP724B20 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP727A12 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP728B12 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP728B18 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP728D5 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP728G1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP728H1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP729A3 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A127 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A153 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A304 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A321 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A322 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A89 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A95 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72A99 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72D10 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP72D6 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP734A26 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP735A27 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP736A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP736A101 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP736A26 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP73A104 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP73A78 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP749A15 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP749A28 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP749A4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP749A6 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP749A9 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP74B18 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP74B7 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP74C5 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP76A27 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP76F3 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP76F4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP76G6 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP77A10 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP77B19 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP78A122 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP78A84 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP78A88 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP78A99 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP79A26 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP79D26 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81B63 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81B64 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81E22 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81Q19 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81Q23 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81Q35 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81Q44 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81S18 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP81T1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82C33 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82C5 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82C9 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82D10 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82D13 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82D4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82D76 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82J1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP82S9 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP84A15 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP84A51 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP86A29 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP86A74 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP86A75 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP86B14 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP87A37 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP87D11 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP88A50 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP89A100 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP89A18 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP89A39 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP89A98 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP90A35 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP90B12 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP90C18 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP90D30 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP92A39 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP92A84 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP93A4 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP93B1 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP93B10 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP93B11 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP93B18 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP93B22 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP94A40 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP94A48 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP94B38 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP94B39 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP94C39 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP94C58 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP94D46 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP97A34 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP97B15 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP97C27 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
-| CYP98A79 | Parsed from normalized resource text; source file: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+Sequence audit: `0/163` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP701A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP703A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP704A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP704A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP704A80 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP704A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP704A93 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP704G9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP706B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP706C27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP706C36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP706G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP707A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP707A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP707A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP707A97 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP710A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP711A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP712D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP714A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP714A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP714E16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP714E24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP714J4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP714M4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP715A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716A49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716A67 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716A73 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716A86 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP716C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP718A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AH3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AH4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AH8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AN1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AN3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AN33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AP5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AU4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AU5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71AX20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BE42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BE45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BE5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BE6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BE7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BF7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BF9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71BQ4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP71D160 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP720A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP721A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP721A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP722A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP722C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP724A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP724B20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP727A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP728B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP728B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP728D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP728G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP728H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP729A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A127 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A153 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A304 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A321 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A322 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A95 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72A99 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72D10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP72D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP733A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP734A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP735A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP736A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP736A101 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP736A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP73A104 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP73A78 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP749A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP749A28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP749A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP749A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP749A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP74B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP74B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP74C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP76A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP76F3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP76F4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP76G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP77A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP77B19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP78A122 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP78A84 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP78A88 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP78A99 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP79A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP79D26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81B63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81B64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81E22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81Q19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81Q23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81Q35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81Q44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81S18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP81T1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82C33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82D10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82D13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82D76 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP82S9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP84A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP84A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP85A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP86A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP86A74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP86A75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP86B14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP87A37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP87D11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP88A50 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP89A100 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP89A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP89A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP89A98 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP90A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP90B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP90C18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP90D30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP92A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP92A84 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP93A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP93B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP93B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP93B11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP93B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP93B22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP94A40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP94A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP94B38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP94B39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP94C39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP94C58 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP94D46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP97A34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP97B15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP97C27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |
+| CYP98A79 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Fragaria.vesca.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Fragaria.vesca.xlsx |

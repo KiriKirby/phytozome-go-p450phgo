@@ -4,176 +4,182 @@ Category: `plants`
 
 Records: 171
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP701A3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP702A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP702A6 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP703A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP704A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP704B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A15 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A16 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A18 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A21 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A24 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A25 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A32 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A33 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP705A8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP706A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP706A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP706A4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP706A6 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP706A7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP707A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP707A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP707A3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP707A4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP708A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP708A4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP709B2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP709B3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP710A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP710A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP711A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP712A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP712B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP714A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP715A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP716A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP718A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71A12 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71A13 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71A23 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71A25 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71A26 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71A28 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B10 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B11 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B13 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B14 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B19 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B20 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B21 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B22 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B23 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B26 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B28 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B29 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B35 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B37 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B38 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B5 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B6 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP71B9 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP721A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP724A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP72A13 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP72A15 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP72A7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP72A8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP72A9 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP72C1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP734A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP735A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP735A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP73A5 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP74B2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP75B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP76C1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP76C2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP76C3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP76C4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP76C5 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP76C7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP76G1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP77A4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP77A6 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP77A7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP77B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP78A10 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP78A5 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP78A6 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP78A7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP78A8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP78A9 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP79A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP79B2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP79B3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP79C2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D11 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D22 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D5 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81D8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81F1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81F2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81F3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81F4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81G1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81H1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP81K1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP82C4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP82F1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP82G1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP83A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP83B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP84A25 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP84A51 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP85A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86A4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86A7 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86A8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86B2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86C1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86C2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86C3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP86C4 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP87A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP88A3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP89A3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP89A6 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP89A9 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP90A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP90B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP90C1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP90D1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP93D1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP94B1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP94B2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP94B3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP94C1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP94D2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A10 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A11 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A12 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A15 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A2 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A5 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP96A9 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP97A3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP97B3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP97C1 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP98A3 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP98A8 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
-| CYP98A9 | Parsed from normalized resource text; source file: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+Sequence audit: `0/171` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP701A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP702A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP702A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP703A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP704A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP704B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP705A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP706A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP706A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP706A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP706A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP706A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP707A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP707A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP707A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP707A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP708A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP708A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP709B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP709B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP710A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP710A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP711A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP712A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP712B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP714A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP715A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP716A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP718A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71A28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP71B9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP720A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP721A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP722A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP724A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP72A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP72A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP72A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP72A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP72A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP72C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP734A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP735A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP735A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP73A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP74B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP75B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP76C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP76C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP76C3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP76C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP76C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP76C7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP76G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP77A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP77A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP77A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP77B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP78A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP78A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP78A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP78A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP78A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP78A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP79A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP79B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP79B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP79C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81F3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81F4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP81K1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP82C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP82F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP82G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP83A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP83B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP84A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP84A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP85A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP85A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86C3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP86C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP87A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP88A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP89A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP89A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP89A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP90A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP90B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP90C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP90D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP93D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP94B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP94B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP94B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP94C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP94D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP96A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP97A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP97B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP97C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP98A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP98A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |
+| CYP98A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Boechera.stricta.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Boechera.stricta.xlsx |

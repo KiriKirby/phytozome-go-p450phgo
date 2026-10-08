@@ -1,0 +1,60 @@
+local_file,review_status,container,record_layout,sequence_rule,notes
+plants-potato.P450s.doc,reviewed,word,annotated CYP blocks,header-bounded protein lines,Reviewed as Word CYP report; accept only sequence lines within each named block
+plants-Capsicum.annuum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook has CYP-name table; no inferred sequence column
+plants-Thellungiella.parvula.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Eutrema.salsugineum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Capsella.grandiflora.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook contains terminal sequence values
+plants-Capsella.rubella.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Brassica.rapa.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Boechera.stricta.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-papaya.doc,reviewed,word,FASTA-like CYP blocks,terminal-star bounded protein,Headers and sequences separated by coordinates and similarity notes
+plants-Mimulus.guttatus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Theobroma.cacao.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Gossypium.raimondii.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Eucalyptus.grandis.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than sign is part of row identifier not multiline FASTA
+plants-Cucumis.sativus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Header explicitly names sequence
+plants-Citrulus.lanatus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Sequence stored in final table field
+plants-Prunus.persica.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Updated peach workbook
+plants-Prunus.persica.P450s.doc,reviewed,word,annotated CYP blocks,header-bounded protein lines,Older peach report retained separately
+plants-Prunus.mume.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Malus.domestica.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Fragaria.ananassa.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than-prefixed identifiers remain table rows
+plants-Fragaria.vesca.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Cannabis.sativa.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-soybean.doc,reviewed,word,mixed annotated CYP blocks,terminal-star bounded protein,Contains GenBank and Phytozome additions
+plants-medicago.seqs.doc,reviewed,word,mixed sequence pieces,CYP-header bounded protein,Includes duplicates and other-species assembly helpers; exact CYP blocks only
+plants-Lotus.japonicus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Cicer.arietinum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook includes incomplete models; retain literal sequence only
+plants-Cajanus.cajanifolius.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Jatropha.P450s.2012.doc,reviewed,word,genomic-contig CYP report,CYP-header bounded protein,Do not treat genomic coordinates as protein
+plants-Ricinus.communis.doc,reviewed,word,GenPept-derived CYP blocks,terminal-star bounded protein,Accept literal protein only
+plants-Manihot.esculenta.seqs.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Linum.usitatissimum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-vitis.doc,reviewed,word,mixed GenPept and gene-model blocks,terminal-star bounded protein,Contains CAN accessions and predicted models
+plants-Lotus.P450s.Oct31.2012.xlsx,reviewed,excel,annotation table,no sequence unless explicit sequence column,Annotation workbook paired with separate sequence document
+plants-Lotus.P450.set.doc,reviewed,word,FASTA-like sequence set,terminal-star bounded protein,Primary sacred-lotus sequence source; redundant contigs noted by source
+plants-Aquilegia.coerulea.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Aquilegia.P450s.doc,reviewed,word,older annotated blocks,CYP-header bounded protein,Old version retained as separate provenance
+plants-zea.doc,reviewed,word,EST family report,explicit CYP block fragments only,EST fragments are never labelled complete
+plants-Oryza.brachyantha.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than-prefixed IDs are table rows
+plants-Brachypodium.FASTA.doc,reviewed,word,canonical FASTA,terminal-star or next-header bounded protein,Direct FASTA resource
+plants-Setaria.italica.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Panicum.virgatum.xlsx,reviewed,excel,length-sorted sequence table,explicit sequence column only,Header explicitly contains gene ID length and sequence
+plants-Triticum.aestivum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-sorghum.doc,reviewed,word,gene-bin CYP report,CYP-header bounded protein,Ampersand-separated gene bins require literal block boundaries
+plants-lolium.doc,reviewed,word,HTML-preformatted report,CYP-header bounded protein,Ignore HTML tags and descriptive text
+plants-Musa.acuminata.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than-prefixed identifiers remain table rows
+plants-Phoenix.dactylifera.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Amborella.doc,reviewed,word,pre-name annotation report,CYP-header bounded protein,Old sequence file; only assigned CYP blocks are publishable
+plants-Pinus.P450.doc,reviewed,word,accession and legacy sequence report,CYP-header bounded protein,Old conifer collection with external link notes
+plants-ferns.doc,reviewed,word,sparse named CYP report,CYP-header bounded protein,Several taxa may occur; retain source header relationship
+plants-Selaginella.P450s.doc,reviewed,word,evolutionary annotation plus CYP blocks,CYP-header bounded protein,Introductory prose is not sequence
+plants-moss.doc,reviewed,word,sequence pieces and pseudogenes,CYP-header bounded protein,Other-species assembly helpers excluded unless exact header relationship
+plants-liverwort.doc,reviewed,word,EST-derived CYP report,explicit CYP block fragments only,Most entries are EST fragments and must remain marked as such
+plants-chlamydomonas.doc,reviewed,word,gene-model exon report,terminal-star bounded assembled protein,Coordinate/exon lines cannot be concatenated as amino acids
+plants-volvox.doc,reviewed,word,annotated CYP blocks,terminal-star bounded protein,Volvox comparison annotations excluded
+plants-Chlorella.vulgaris.doc,reviewed,word,inline FamAln report,CYP-header bounded protein,Header and sequence may share normalized paragraphs
+plants-Chlorella.variabilis.doc,reviewed,word,inline FamAln report,CYP-header bounded protein,Header and sequence may share normalized paragraphs
+plants-ostreococcus.doc,reviewed,word,multi-species CYP report,CYP-header bounded protein,Three Ostreococcus species occur in one resource
+plants-micromonas.doc,reviewed,word,multi-species CYP report,CYP-header bounded protein,RCC299 and CCMP1545 occur in one resource
+plants-red.algae.index.doc,reviewed,word,multi-genome index and CYP blocks,CYP-header bounded protein,Species must follow each source header rather than the page label

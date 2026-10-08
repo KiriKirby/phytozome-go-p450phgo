@@ -2,94 +2,17 @@
 
 Category: `animals`
 
-Records: 87
+Records: 4
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP15C1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP18A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP301A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP301B1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP302A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP303A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP304F2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP304F6 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP305B1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP305B2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP306A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP307A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP313A4 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP314A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP315A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP321A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP321C1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP321C2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP324A2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP324A3 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP332A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP333B11 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP333B3 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP337A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP337B1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP337C5 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP337D1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP338A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP339A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP340N1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP340Q2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP340R4 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP340R5 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP341A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP341A2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP354A6 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP365A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP366A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP367A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP367B2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP379A2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP405A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP405A2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP421A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP49A1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4AC1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4AU1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4AU2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4AU3 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4C39 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4CG4 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4D21 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4G48 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4G71 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4G74 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4G9 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4L22 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4L4 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4L5 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4M15 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4M25 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4M27 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4M5 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4S1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP4S17 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB15 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB21 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB25 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB3 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB4 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB5 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB7 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AB8 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AE35 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AN1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AN13 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AN5 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AW2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6AX1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6CT1 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6D2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP6FA2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP9A41 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP9F2 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP9G7 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
-| CYP9G9 | Parsed from normalized resource text; source file: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
+Sequence audit: `0/4` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP304F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
+| CYP379A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
+| CYP4G48 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |
+| CYP6CT1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Monarch.butterfly.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Monarch.butterfly.doc |

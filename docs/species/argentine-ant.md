@@ -4,138 +4,144 @@ Category: `animals`
 
 Records: 133
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP12K1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP12K2 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP15A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP18A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP302A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP303A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP305D1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP306A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP307B1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP314A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP315A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP334A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A15 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A16 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A17 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A19 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A20 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A21 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A4 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A5 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A7 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP336A8 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP340F1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP342A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP343A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP369A1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB15 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB2 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB25 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB26 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB27 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB30 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB32 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB36 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB44 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB45 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB46 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB47 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB48 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB49 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB50 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB51 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB52 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB53 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB56 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB57 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB60 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB61 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB67 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB68 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB69 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AB70 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AV1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AV7 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4AV8 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4BW6 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4BW7 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4BW8 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4C13 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4CA1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4CX9 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4CY2 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4CY3 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4DC1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4DC2 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4DC3 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4G11 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4G65 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4G71 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4M27 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP4M8 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AQ10 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AQ14 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AQ15 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AQ16 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AQ17 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AQ18 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS42 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS52 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS55 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS59 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS60 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS61 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS62 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS63 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS64 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6AS65 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BC3 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BC4 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BD4 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BD5 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BD7 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BD8 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BD9 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BE1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6BE6 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6EL2 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6EL7 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6ES1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6ES2 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP6ES3 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9AS1 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9AS14 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9AS4 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9AS5 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9AS6 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9AS8 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P11 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P12 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P15 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P16 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P17 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P18 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P19 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9P9 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R10 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R13 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R14 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R18 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R19 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R20 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R21 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R26 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R27 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R29 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R30 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R31 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R32 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R6 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R7 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R8 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
-| CYP9R9 | Parsed from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+Sequence audit: `55/133` records have an accepted sequence; short records (<100 aa): `1`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP12K1 | present (352 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP12K2 | present (190 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP15A1 | present (259 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP18A1 | present (524 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP302A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP303A1 | present (469 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP305D1 | present (164 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP306A1 | present (488 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP307B1 | present (505 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP314A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP315A1 | present (157 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP334A1 | present (331 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A15 | present (501 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A16 | present (501 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A17 | present (501 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A19 | present (498 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A20 | present (158 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A21 | present (174 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP336A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP340F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP342A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP343A1 | present (474 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP369A1 | present (471 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB15 | present (213 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB2 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB25 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB26 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB27 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB30 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB32 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB36 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB44 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB45 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB46 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB47 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB48 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB49 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB50 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB51 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB52 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB53 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB56 | present (361 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB57 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB60 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB61 | present (49 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB67 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB68 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB69 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AB70 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AV1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AV7 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4AV8 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4BW6 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4BW7 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4BW8 | present (180 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4C13 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4CA1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4CX9 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4CY2 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4CY3 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4DC1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4DC2 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4DC3 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4G11 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4G65 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4G71 | present (294 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4M27 | present (254 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP4M8 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AQ10 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AQ14 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AQ15 | present (504 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AQ16 | present (503 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AQ17 | present (514 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AQ18 | present (291 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS42 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS52 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS55 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS59 | present (390 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS60 | present (499 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS61 | present (176 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS62 | present (498 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS63 | present (360 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS64 | present (140 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6AS65 | present (493 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BC3 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BC4 | present (520 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BD4 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BD5 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BD7 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BD8 | present (295 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BD9 | present (378 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BE1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6BE6 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6EL2 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6EL7 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6ES1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6ES2 | present (485 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP6ES3 | present (494 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9AS1 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9AS14 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9AS4 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9AS5 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9AS6 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9AS8 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P11 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P12 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P15 | present (515 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P16 | present (513 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P17 | present (515 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P18 | present (513 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P19 | present (515 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9P9 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R10 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R13 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R14 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R18 | present (517 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R19 | present (516 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R20 | present (525 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R21 | present (488 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R26 | present (517 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R27 | present (517 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R29 | present (513 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R30 | present (509 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R31 | present (515 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R32 | present (508 aa) | Parsed FASTA from normalized resource text; source file: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R6 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R7 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R8 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |
+| CYP9R9 | missing | Parsed structured resource text; sequence only from explicit sequence column: animals-Pogonomyrmex.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Pogonomyrmex.doc |

@@ -4,409 +4,415 @@ Category: `plants`
 
 Records: 404
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP1027C1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP701A11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP701A36 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP703A16 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP703A4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704A10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704A12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704A81 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704A83 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704A9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704B1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704B3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704B35 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP704G1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706B3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706B5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706B6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706C31 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706C6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706F2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706G1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706J1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP706J9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A13 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A15 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A78 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A79 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A80 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A81 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP707A82 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP709F1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP709F3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP710A52 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP711A37 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP711A7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP712A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP712A14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP712B1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP712C1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP712C2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP712C3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP712J1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714A20 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714A21 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714A3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714E16 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714E4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714H1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP714M1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP715A19 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP715A3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A54 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A55 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A56 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A57 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716A9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716C1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716C8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716C9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716D1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716D13 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716E1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716E10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716E11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716E2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP716E9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP718A11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71AH1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71AN23 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71AN5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71AP4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71AQ1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71AS1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71AU2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B38 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B41 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B64 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B65 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B68 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B69 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B71 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B72 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B73 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B74 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B76 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71B78 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BC1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BE1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BF1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BF5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BF6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BF7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BF8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BF9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BG1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71BG7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D16 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D26 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D321 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D322 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D324 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D326 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D328 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D329 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D330 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D331 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D332 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D333 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D334 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D335 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D336 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D337 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D338 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D339 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D34 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D340 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D341 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D342 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D38 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D41 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D43 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP71D97 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP721A30 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP722C1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP722C2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP722C3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP724A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP724B20 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP724B7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP724B8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP726A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP727B1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP727B23 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP728D12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP728D2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP728D5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP728E1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A259 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A260 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A261 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A29 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A43 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A47 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72A5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72D1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72D10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP72D9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP734A26 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP734A9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP735A22 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP735A5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP736A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP736A101 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP736A102 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP736A103 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP73A104 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP73A105 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP73A43 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A25 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A26 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A27 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A28 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A29 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP749A9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP74A27 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP74B18 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP74B7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP75A12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP75B1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP75B63 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A27 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A28 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A29 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A30 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A32 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A33 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76A8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76B4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76F3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76F35 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76F36 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76F4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76G1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76G11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76G12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76G4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76G5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP76T1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP77A23 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP77B1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP77B13 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP77B14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP77B3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP77B4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A18 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A20 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A22 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A23 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A24 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A95 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A96 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A97 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A98 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78A99 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78D2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP78D5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79A13 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79A2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79D1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79D26 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79D28 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79D29 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79D30 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79D31 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP79D7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP80C1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP80C5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP80C6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP80C8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP80C9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP80E1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP80E10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81B4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81B54 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81B55 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81C14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81C3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81D1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81Q7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S16 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S17 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S18 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S19 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S20 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81S7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81T1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81T3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81W1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP81X1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82A6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C23 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C24 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C25 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C26 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C28 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C29 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C31 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C32 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C33 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82C9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82D1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82D14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82D2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82D5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82D58 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82D59 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82H1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82J1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82J5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82K1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82L1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82L7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP82Q1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP83F10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP83F4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP83F5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP83F8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP83F9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP84A10 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP84A12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP84A50 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP84A51 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86A18 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86A20 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86A21 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86A74 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86A75 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86A76 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86B14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86B5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP86C13 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87A2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87A27 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87A28 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87A29 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87A7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87A8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87B14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87B15 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87B16 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87B17 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87B6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87B9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87D1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87D11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87D12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87D14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87D8 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP87E3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP88A41 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP88A9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A100 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A101 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A102 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A18 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A26 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A94 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A95 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A96 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A97 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A98 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89A99 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89E1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89K1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP89K2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90A35 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90A7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90B21 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90B7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90C14 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90C3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90D21 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP90D5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP92A19 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP92A24 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP92A25 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP92A59 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP92A60 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP92A62 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93A4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93A52 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93A53 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93A54 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93A6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93B21 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93B22 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP93B7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94A11 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94A12 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94A40 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94A41 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94B3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94B38 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94B39 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94B6 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94B7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94C1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94C39 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94C40 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94C5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94C7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94D2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94D40 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94F1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94F2 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP94F5 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96A1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96A17 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96A59 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96F1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96F4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96F7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96F9 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96H1 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP96H3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP97A34 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP97A7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP97B26 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP97B7 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP97C23 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP97C4 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP98A27 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP98A3 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP98A63 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP98A64 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
-| CYP98A65 | Parsed from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+Sequence audit: `213/404` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP1027C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP51G1 | present (486 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP701A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP701A36 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP703A16 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP703A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704A81 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704A83 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704B35 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP704G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706B5 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706B6 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706C31 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706C6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP706J9 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A78 | present (471 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A79 | present (468 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A80 | present (168 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A81 | present (470 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP707A82 | present (280 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP709F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP709F3 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP710A52 | present (159 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP711A37 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP711A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP712A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP712A14 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP712B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP712C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP712C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP712C3 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP712J1 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714A20 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714A21 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714E16 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714E4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP714M1 | present (538 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP715A19 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP715A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A54 | present (471 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A55 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A56 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A57 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716C8 | present (473 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716C9 | present (474 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716D13 | present (280 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716E10 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716E11 | present (147 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716E2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP716E9 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP718A11 | present (320 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71AH1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71AN23 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71AN5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71AP4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71AQ1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71AS1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71AU2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B64 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B65 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B68 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B69 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B71 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B72 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B73 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B74 | present (205 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B76 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71B78 | present (301 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BC1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BE1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BF1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BF5 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BF6 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BF7 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BF8 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BF9 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BG1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71BG7 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D321 | present (395 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D322 | present (207 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D324 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D326 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D328 | present (217 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D329 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D330 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D331 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D332 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D333 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D334 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D335 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D336 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D337 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D338 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D339 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D340 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D341 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D342 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP71D97 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP720A1 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP721A30 | present (613 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP722A1 | present (489 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP722C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP722C2 | present (492 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP722C3 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP724A1 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP724B20 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP724B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP724B8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP726A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP727B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP727B23 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP728D12 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP728D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP728D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP728E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A259 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A260 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A261 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A47 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72D10 | present (470 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP72D9 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP733A1 | present (476 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP734A26 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP734A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP735A22 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP735A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP736A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP736A101 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP736A102 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP736A103 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP73A104 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP73A105 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP73A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A25 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A26 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A27 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A28 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A29 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP749A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP74A27 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP74B18 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP74B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP75A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP75B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP75B63 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A27 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A28 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A29 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A30 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A32 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A33 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76F3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76F35 | present (295 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76F36 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76F4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76G11 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76G12 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76G4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76G5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP76T1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP77A23 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP77B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP77B13 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP77B14 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP77B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP77B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A95 | present (378 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A96 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A97 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A98 | present (462 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78A99 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP78D5 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79D26 | present (538 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79D28 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79D29 | present (558 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79D30 | present (398 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79D31 | present (545 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP79D7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP80C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP80C5 | present (426 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP80C6 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP80C8 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP80C9 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP80E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP80E10 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81B54 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81B55 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81C14 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81C3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81Q7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S16 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S17 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S18 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S19 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S20 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81S7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81T1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81T3 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81W1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP81X1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C23 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C24 | present (548 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C25 | present (526 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C26 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C28 | present (495 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C29 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C31 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C32 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C33 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82D14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82D58 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82D59 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82J5 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82K1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82L1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82L7 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP82Q1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP83F10 | present (238 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP83F4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP83F5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP83F8 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP83F9 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP84A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP84A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP84A50 | present (487 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP84A51 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP85A1 | present (445 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86A74 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86A75 | present (559 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86A76 | present (545 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86B14 | present (550 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP86C13 | present (312 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87A27 | present (472 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87A28 | present (473 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87A29 | present (476 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87B14 | present (487 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87B15 | present (409 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87B16 | present (475 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87B17 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87B9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87D11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87D12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87D14 | present (444 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP87E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP88A41 | present (492 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP88A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A100 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A101 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A102 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A94 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A95 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A96 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A97 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A98 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89A99 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89K1 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP89K2 | present (434 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90A35 | present (472 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90B21 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90C14 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90C3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90D21 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP90D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP92A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP92A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP92A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP92A59 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP92A60 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP92A62 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93A52 | present (270 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93A53 | present (303 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93A54 | present (546 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93B21 | present (297 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93B22 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP93B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94A40 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94A41 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94B38 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94B39 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94C39 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94C40 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94C7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94D40 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP94F5 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96A59 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96F4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96F7 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96F9 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP96H3 | present (371 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP97A34 | present (632 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP97A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP97B26 | present (558 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP97B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP97C23 | present (552 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP97C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP98A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP98A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP98A63 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP98A64 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |
+| CYP98A65 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Ricinus.communis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Ricinus.communis.doc |

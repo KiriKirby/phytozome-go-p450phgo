@@ -4,179 +4,185 @@ Category: `plants`
 
 Records: 174
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP701A15 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP703A20 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP704A10 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP704A23 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP704A80 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP704A93 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP704B26 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP704B3 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP706C36 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP706C7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP707A10 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP707A103 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP707A13 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP707A81 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP710A42 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP711A37 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP711A42 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714A24 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714A3 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714E13 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714E16 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714E24 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714J4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714M1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP714M4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP715A31 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716A16 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716A36 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716A38 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716A48 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716A49 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716A51 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716C4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP716C9 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP718A13 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71A30 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AH4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AN1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AN3 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AN33 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AP5 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AS1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AU4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AU5 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71AX2 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71B41 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71B71 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71B76 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71BE42 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71BE6 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71BE7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71BF7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71BQ1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71BQ4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71BT2 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP71D353 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP721A35 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP721A36 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP722C1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP724A1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP724B20 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP727A7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP728B12 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP728B18 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP728D12 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP728G1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP728H1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP729A3 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A127 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A128 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A136 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A153 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A321 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A322 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A57 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72A95 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72D12 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72D6 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP72D9 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP734A26 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP735A22 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP735A27 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP736A1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP736A101 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP736A2 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP73A61 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP749A35 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP749A4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP749A9 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP76A8 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP76AG2 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP76F14 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP76F2 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP76F47 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP76F53 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP76G6 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP77A10 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP77A3 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP77B9 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP78A120 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP78A20 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP78A25 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP78A41 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP78A84 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP78A98 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP78A99 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP79D16 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81B26 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81B63 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81B64 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81Q35 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81Q46 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81S18 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81S20 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP81T3 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82D10 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82D14 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82D30 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82D4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82D5 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82D66 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82D7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82J1 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82L10 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82L7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82S13 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP82S8 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP84A15 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP85A36 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86A29 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86A74 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86A89 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86B14 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86B5 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86B7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86B8 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP86C10 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP87D11 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP87D5 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP87D8 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP88A50 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP89A18 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP89A26 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP89A98 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP90A35 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP90B12 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP90C18 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP90D30 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP92A34 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP92A39 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP92A84 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP93A4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP93B15 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP93B18 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94A15 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94A48 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94B39 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94B6 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94B7 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94C16 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94C39 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94D25 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP94D46 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP97A34 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP97A4 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP97B33 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP97C23 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP98A27 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP98A46 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
-| CYP98A79 | Parsed from normalized resource text; source file: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+Sequence audit: `0/174` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP701A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP703A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP704A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP704A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP704A80 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP704A93 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP704B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP704B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP706C36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP706C7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP707A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP707A103 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP707A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP707A81 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP710A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP711A37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP711A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714E13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714E16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714E24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714J4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714M1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP714M4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP715A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716A38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716A49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP716C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP718A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AH4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AN1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AN3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AN33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AP5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AS1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AU4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AU5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71AX2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71B41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71B71 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71B76 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71BE42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71BE6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71BE7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71BF7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71BQ1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71BQ4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71BT2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP71D353 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP720A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP721A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP721A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP722C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP724A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP724B20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP727A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP728B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP728B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP728D12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP728G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP728H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP729A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A127 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A128 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A136 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A153 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A321 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A322 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72A95 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72D12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP72D9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP733A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP734A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP735A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP735A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP736A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP736A101 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP736A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP73A61 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP749A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP749A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP749A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP76A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP76AG2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP76F14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP76F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP76F47 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP76F53 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP76G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP77A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP77A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP77B9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP78A120 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP78A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP78A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP78A41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP78A84 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP78A98 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP78A99 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP79D16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81B63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81B64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81Q35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81Q46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81S18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81S20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP81T3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82D10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82D14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82D30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82D66 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82D7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82L10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82L7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82S13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP82S8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP84A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP85A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86A74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86A89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86B14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86B8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP86C10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP87D11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP87D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP87D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP88A50 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP89A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP89A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP89A98 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP90A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP90B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP90C18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP90D30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP92A34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP92A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP92A84 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP93A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP93B15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP93B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94B39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94C16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94C39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94D25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP94D46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP97A34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP97A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP97B33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP97C23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP98A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP98A46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |
+| CYP98A79 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Malus.domestica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Malus.domestica.xlsx |

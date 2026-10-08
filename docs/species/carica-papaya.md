@@ -4,217 +4,223 @@ Category: `plants`
 
 Records: 212
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP701A19 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP701A20 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP701A21 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP701A22 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP703A10 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP703A9 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP704A18 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP704B20 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP704G11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP704G7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP706A14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP706F2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP706F3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP706F5 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP706F6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP707A30 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP707A31 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP707A32 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP707A33 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP707A34 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP710A18 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP710A19 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP711A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP711A14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP711A15 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP712A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP712A8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP712A9 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP714A7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP715A6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP715A7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP716A15 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP716A16 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP718A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP718A4 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71AN6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71AN7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71AU1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B35 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B36 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B46 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B47 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B48 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B49 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B55 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B57 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71B59 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71BE1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71BE2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71BF1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71BF2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP71D10 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP721A12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP722A3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP724A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP724B11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP724B12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP727A7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP727A8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP728B12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP728B5 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP728B6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP728B7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP728B8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP728G1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP728G2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP729A13 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP729A14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP729A15 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP729A16 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP729A17 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72A73 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72A74 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72A75 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72A79 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72A81 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72A82 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72A83 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72C2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP72C3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP734A13 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP734A14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP735A11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP736A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP736A14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP736A15 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP736A16 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP73A27 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP73A29 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP73A78 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP73A79 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP73A80 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP74A12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP74B10 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP74B13 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP74B14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP74B5 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP75A28 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP75A30 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP75B32 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP75B37 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP76A10 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP76A11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP76A4 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP76F8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP76G6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP76G7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP77A14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP77A15 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP77A4 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP77B6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP77B7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP78A33 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP78A34 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP78A35 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP78A6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP79B6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP79B7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP79B8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP80J1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP80J2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP80J3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81B19 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81B20 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81B21 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81B22 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81B23 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81B24 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81D16 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81D18 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81D19 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81D20 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81D21 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81K1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP81K3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP82C17 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP82L3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP83B1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP84A1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP84A26 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP84A27 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP84A28 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP84A29 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP85A2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP85A6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP85A7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP85A8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP85A9 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP86A25 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP86A26 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP86A27 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP86B7 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP86B8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP86C8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP86C9 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP87A10 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP87A11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP87A2 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP88A16 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP88A17 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP88A18 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP88A19 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP88A20 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP88A21 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP89A38 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP89A39 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP89A40 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP89A41 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP89A42 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90A16 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90A17 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90A8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90B1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90B12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90B13 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90C1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90C5 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90C6 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90D1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90D8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP90D9 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP92A28 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP92A32 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP92A33 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP93A10 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP93A11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP93A13 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP93A14 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP93A9 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP93D1 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP94B3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP94B8 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP94B9 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP94C11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP94C12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP94C13 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP96A20 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP96A21 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP97A11 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP97A12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP97B15 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP97B16 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP97B3 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP97C12 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP97C13 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP98A43 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
-| CYP98A45 | Parsed from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+Sequence audit: `159/212` records have an accepted sequence; short records (<100 aa): `1`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP701A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP701A20 | present (309 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP701A21 | present (308 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP701A22 | present (409 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP703A10 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP703A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP704A18 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP704B20 | present (543 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP704G11 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP704G7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP706A14 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP706F2 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP706F3 | present (485 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP706F5 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP706F6 | present (364 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP707A30 | present (488 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP707A31 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP707A32 | present (406 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP707A33 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP707A34 | present (425 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP710A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP710A19 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP711A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP711A14 | present (134 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP711A15 | present (538 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP712A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP712A8 | present (317 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP712A9 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP714A7 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP715A6 | present (160 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP715A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP716A15 | present (201 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP716A16 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP718A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP718A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71AN6 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71AN7 | present (414 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71AU1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B46 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B47 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B48 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B49 | present (298 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B55 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B57 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71B59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71BE1 | present (382 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71BE2 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71BF1 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71BF2 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP71D10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP720A1 | present (232 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP721A12 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP722A1 | present (156 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP722A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP724A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP724B11 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP724B12 | present (488 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP727A7 | present (273 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP727A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP728B12 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP728B5 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP728B6 | present (164 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP728B7 | present (145 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP728B8 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP728G1 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP728G2 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP729A13 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP729A14 | present (418 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP729A15 | present (268 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP729A16 | present (481 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP729A17 | present (485 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72A73 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72A74 | present (567 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72A75 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72A79 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72A81 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72A82 | present (539 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72A83 | present (353 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72C2 | present (423 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP72C3 | present (378 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP733A1 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP734A13 | present (383 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP734A14 | present (367 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP735A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP736A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP736A14 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP736A15 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP736A16 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP73A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP73A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP73A78 | present (102 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP73A79 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP73A80 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP74A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP74B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP74B13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP74B14 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP74B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP75A28 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP75A30 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP75B32 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP75B37 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP76A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP76A11 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP76A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP76F8 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP76G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP76G7 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP77A14 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP77A15 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP77A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP77B6 | present (451 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP77B7 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP78A33 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP78A34 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP78A35 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP78A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP79B6 | present (539 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP79B7 | present (559 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP79B8 | present (558 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP80J1 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP80J2 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP80J3 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81B19 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81B20 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81B21 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81B22 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81B23 | present (248 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81B24 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81D16 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81D18 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81D19 | present (321 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81D20 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81D21 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81K1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP81K3 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP82C17 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP82L3 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP83B1 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP84A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP84A26 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP84A27 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP84A28 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP84A29 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP85A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP85A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP85A7 | present (460 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP85A8 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP85A9 | present (465 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP86A25 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP86A26 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP86A27 | present (538 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP86B7 | present (550 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP86B8 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP86C8 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP86C9 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP87A10 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP87A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP87A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP88A16 | present (158 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP88A17 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP88A18 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP88A19 | present (495 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP88A20 | present (491 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP88A21 | present (492 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP89A38 | present (168 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP89A39 | present (41 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP89A40 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP89A41 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP89A42 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90A16 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90A17 | present (473 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90B13 | present (418 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90C6 | present (333 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP90D9 | present (476 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP92A28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP92A32 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP92A33 | present (300 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP93A10 | present (267 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP93A11 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP93A13 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP93A14 | present (215 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP93A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP93D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP94B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP94B8 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP94B9 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP94C11 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP94C12 | present (159 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP94C13 | present (350 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP96A20 | present (471 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP96A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP97A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP97A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP97B15 | present (128 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP97B16 | present (547 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP97B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP97C12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP97C13 | present (542 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP98A43 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |
+| CYP98A45 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-papaya.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/papaya.doc |

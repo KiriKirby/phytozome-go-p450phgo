@@ -4,183 +4,189 @@ Category: `plants`
 
 Records: 178
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP701A40 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP703A7 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP704A14 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP704A98 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP704A99 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP704B37 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP706C35 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP706D3 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP706G7 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP706G8 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP706G9 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP707A101 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP707A102 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP707A90 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP707A99 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP710A53 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP711A22 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP714A25 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP714E16 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP714E21 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP714E4 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP714G15 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP715A3 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716A58 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716A59 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716A60 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716A61 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716A62 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716A63 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716A64 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716C10 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP716D25 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP718A13 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71A58 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AH2 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AH9 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AP14 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AT22 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AT85 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AT89 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AU2 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AU37 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AU4 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AU43 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AU51 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71AX4 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71BC2 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71BE24 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71BE26 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71BP3 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71D176 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71D344 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71D345 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71D352 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP71D379 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP721A38 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP722C1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP724A1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP727B10 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP728B26 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP728D17 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP729A3 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A103 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A110 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A293 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A314 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A330 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A395 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A396 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A54 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72A95 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP72F2 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP733A5 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP734A33 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP735A7 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP736A121 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP736A123 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP736A161 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP736A54 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP73A108 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP73A120 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP73A76 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP749A18 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP749A20 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP749A22 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP749A39 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP74A16 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP74B21 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP75B29 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP75B30 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76A16 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76A36 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76AH10 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76AH2 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76AH9 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76B23 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76B6 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76B61 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76F24 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76G16 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76S1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76S2 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76S7 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP76Y7 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP77A27 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP77B15 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP78A100 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP78A115 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP78A76 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP78A89 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP79D40 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP80L1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP80T1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP81B27 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP81B40 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP81B64 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP81C16 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP81Q29 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP81Q41 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP81Q5 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP82C32 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP82D19 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP82D33 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP82D62 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP82D7 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP82V1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP83F8 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP84A60 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP84A61 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP85A13 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP86A30 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP86A91 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP86A92 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP86B12 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP86B7 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP87A21 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP87D17 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP87D8 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP87E3 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP88A52 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP89A72 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP90A39 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP90B26 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP90C19 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP90D6 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP92A73 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP92B28 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP92B4 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP93A42 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP93A53 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP93A56 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP93B23 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP93B6 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP94A48 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP94A49 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP94B21 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP94B50 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP94C17 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP94C54 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP94D40 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP96A18 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP96A19 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP96A46 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP96A49 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP96A59 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP96A70 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP96A85 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP97A41 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP97B14 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP97C28 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP98A20 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP98A31 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP98A56 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
-| CYP98A63 | Parsed from normalized resource text; source file: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+Sequence audit: `0/178` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP701A40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP703A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP704A14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP704A98 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP704A99 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP704B37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP706C35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP706D3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP706G7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP706G8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP706G9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP707A101 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP707A102 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP707A90 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP707A99 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP710A53 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP711A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP714A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP714E16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP714E21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP714E4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP714G15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP715A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716A58 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716A60 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716A61 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716A62 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716A63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716A64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716C10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP716D25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP718A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71A58 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AH2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AH9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AP14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AT22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AT85 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AT89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AU2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AU37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AU4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AU43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AU51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71AX4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71BC2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71BE24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71BE26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71BP3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71D176 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71D344 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71D345 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71D352 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP71D379 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP720A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP721A38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP722C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP724A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP727B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP728B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP728D17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP729A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A103 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A110 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A293 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A314 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A330 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A395 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A396 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A54 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72A95 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP72F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP733A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP734A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP735A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP736A121 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP736A123 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP736A161 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP736A54 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP73A108 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP73A120 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP73A76 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP749A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP749A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP749A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP749A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP74A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP74B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP75B29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP75B30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76AH10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76AH2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76AH9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76B23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76B61 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76F24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76G16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76S1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76S2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76S7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP76Y7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP77A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP77B15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP78A100 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP78A115 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP78A76 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP78A89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP79D40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP80L1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP80T1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP81B27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP81B40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP81B64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP81C16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP81Q29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP81Q41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP81Q5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP82C32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP82D19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP82D33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP82D62 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP82D7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP82V1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP83F8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP84A60 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP84A61 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP85A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP85A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP86A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP86A91 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP86A92 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP86B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP86B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP87A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP87D17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP87D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP87E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP88A52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP89A72 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP90A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP90B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP90C19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP90D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP92A73 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP92B28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP92B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP93A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP93A53 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP93A56 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP93B23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP93B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP94A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP94A49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP94B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP94B50 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP94C17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP94C54 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP94D40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP96A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP96A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP96A46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP96A49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP96A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP96A70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP96A85 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP97A41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP97B14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP97C28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP98A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP98A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP98A56 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |
+| CYP98A63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Mimulus.guttatus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Mimulus.guttatus.xlsx |

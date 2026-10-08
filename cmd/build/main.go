@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/csv"
 	"encoding/json"
+	"errors"
 	"flag"
 	"fmt"
 	"io"
@@ -70,13 +71,255 @@ func main() {
 	if err := writeSpeciesDocs(*docs, records); err != nil {
 		panic(err)
 	}
-	if err := writeResourceAuditDocs(*resources, filepath.Join(filepath.Dir(*docs), "resources")); err != nil {
+	if err := writeResourceAuditDocs(*resources, filepath.Join(filepath.Dir(*docs), "resources"), records); err != nil {
+		panic(err)
+	}
+	if err := writeAuditSummary(filepath.Join(filepath.Dir(*docs), "AUDIT_SUMMARY.md"), records, allSpecies); err != nil {
+		panic(err)
+	}
+	if err := writePlantAuditDocs(*resources, filepath.Join(filepath.Dir(*docs), "plants"), records); err != nil {
+		panic(err)
+	}
+	if err := writePlantRecordAudit(*resources, filepath.Join(filepath.Dir(*docs), "plants", "plant-record-audit.csv"), records); err != nil {
 		panic(err)
 	}
 	fmt.Printf("wrote %d records to %s\n", len(records), *out)
 }
 
-func writeResourceAuditDocs(manifestPath, root string) error {
+func writeAuditSummary(path string, records []record, species []speciesRecord) error {
+	counts := map[string][2]int{}
+	for _, r := range records {
+		v := counts[r.Category]
+		v[0]++
+		if strings.TrimSpace(r.Sequence) != "" {
+			v[1]++
+		}
+		counts[r.Category] = v
+	}
+	var b strings.Builder
+	b.WriteString("# Complete Dr. Nelson resource audit\n\n")
+	fmt.Fprintf(&b, "This summary is generated from the current normalized resource set. Every listed species/resource is represented in its own Markdown file under `species/` or `resources/`. No external sequence database is consulted.\n\nSpecies/resource entries: %d\n\n| Category | PGD records | Verified sequences |\n|---|---:|---:|\n", len(species))
+	for _, cat := range []string{"animals", "plants", "fungi", "bacteria"} {
+		v := counts[cat]
+		fmt.Fprintf(&b, "| %s | %d | %d |\n", cat, v[0], v[1])
+	}
+	b.WriteString("\nSequence acceptance rules:\n\n- Real FASTA blocks: `>` header containing a CYP identifier, followed by wrapped amino-acid lines until the next header.\n- Structured tables: sequence is accepted only from an explicitly labeled `sequence` or `protein sequence` column.\n- Scores, alignment snippets, comments, accession text, and ambiguous unlabeled fields are not sequences.\n- Missing or ambiguous sequences remain empty in PGD and are documented as `missing`; they are never filled from another database.\n")
+	return os.WriteFile(path, []byte(b.String()), 0o644)
+}
+
+// writePlantAuditDocs deliberately emits one audit file per plant resource.
+// These files are the review ledger for the plant-only rebuild; each resource
+// has its own source file, format decision, and sequence coverage instead of
+// inheriting a single category-wide claim.
+func writePlantAuditDocs(manifestPath, root string, records []record) error {
+	data, err := os.ReadFile(manifestPath)
+	if err != nil {
+		return err
+	}
+	rows, err := csv.NewReader(strings.NewReader(strings.TrimPrefix(string(data), "\ufeff"))).ReadAll()
+	if err != nil || len(rows) < 2 {
+		return err
+	}
+	h := map[string]int{}
+	for i, v := range rows[0] {
+		h[strings.ToLower(strings.TrimSpace(v))] = i
+	}
+	get := func(row []string, key string) string {
+		i := h[key]
+		if i < 0 || i >= len(row) {
+			return ""
+		}
+		return strings.TrimSpace(row[i])
+	}
+	if err := os.MkdirAll(root, 0o755); err != nil {
+		return err
+	}
+	for _, row := range rows[1:] {
+		if get(row, "category") != "plants" {
+			continue
+		}
+		label, local, source := get(row, "species_label"), get(row, "local_file"), get(row, "source_url")
+		if label == "" {
+			continue
+		}
+		count, seq := 0, 0
+		methods := map[string]bool{}
+		for _, r := range records {
+			if r.SourceURL != source {
+				continue
+			}
+			count++
+			if strings.TrimSpace(r.Sequence) != "" {
+				seq++
+			}
+			if strings.Contains(r.Description, "FASTA") {
+				methods["FASTA block"] = true
+			}
+			if strings.Contains(r.Description, "sequence column") {
+				methods["explicit sequence column"] = true
+			}
+		}
+		method := "no accepted sequence; inspect source manually"
+		if len(methods) > 0 {
+			names := make([]string, 0, len(methods))
+			for m := range methods {
+				names = append(names, m)
+			}
+			sort.Strings(names)
+			method = strings.Join(names, "; ")
+		}
+		sequenceHeaders, sequenceRows := inspectSequenceColumns(filepath.Join(filepath.Dir(filepath.Dir(manifestPath)), "extracted-v4", strings.TrimSuffix(local, filepath.Ext(local))+".txt"))
+		ext := strings.ToLower(filepath.Ext(local))
+		format := "Office-normalized text"
+		if ext == ".xlsx" {
+			format = "Excel workbook normalized to text"
+		} else if ext == ".doc" {
+			format = "Word document normalized to text"
+		}
+		slug := regexp.MustCompile(`[^A-Za-z0-9._-]+`).ReplaceAllString(strings.ToLower("plant-"+label), "-")
+		body := fmt.Sprintf("# Plant resource audit: %s\n\n- Source file: `%s`\n- URL: %s\n- Detected container: `%s`\n- Resource-local records: `%d`\n- Records with accepted sequence: `%d`\n- Extraction method used for this resource: `%s`\n- Detected sequence-column header(s): `%s`\n- Rows with a non-empty sequence-column value: `%d`\n\n## Review rule\n\nThis resource is reviewed independently. FASTA extraction requires a CYP-bearing `>` header and sequence lines bounded by the next CYP header, a terminal `*`, or the first non-sequence annotation. Spreadsheet data is accepted only from an explicit `sequence` column. Alignment text, coordinates, descriptions, and unlabeled short fragments are rejected.\n\nMissing sequences remain empty until this exact source file is manually verified; no other database is used as a substitute.\n", label, local, source, format, count, seq, method, strings.Join(sequenceHeaders, "; "), sequenceRows)
+		if err := os.WriteFile(filepath.Join(root, strings.Trim(slug, "-")+".md"), []byte(body), 0o644); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+// writePlantRecordAudit is intentionally verbose. It is the durable review
+// ledger used to inspect each accepted or rejected plant record without
+// relying on a category-wide aggregate number.
+func writePlantRecordAudit(manifestPath, path string, records []record) error {
+	data, err := os.ReadFile(manifestPath)
+	if err != nil {
+		return err
+	}
+	rows, err := csv.NewReader(strings.NewReader(strings.TrimPrefix(string(data), "\ufeff"))).ReadAll()
+	if err != nil {
+		return err
+	}
+	h := map[string]int{}
+	for i, v := range rows[0] {
+		h[strings.ToLower(strings.TrimSpace(v))] = i
+	}
+	get := func(row []string, key string) string {
+		i := h[key]
+		if i < 0 || i >= len(row) {
+			return ""
+		}
+		return strings.TrimSpace(row[i])
+	}
+	profiles, err := readPlantResourceProfiles(filepath.Join(filepath.Dir(manifestPath), "plant_resource_profiles.csv"))
+	if err != nil {
+		return err
+	}
+	profileRows, _ := os.ReadFile(filepath.Join(filepath.Dir(manifestPath), "plant_resource_profiles.csv"))
+	profileHeader, _ := csv.NewReader(strings.NewReader(strings.TrimPrefix(string(profileRows), "\ufeff"))).ReadAll()
+	profileMap := map[string][]string{}
+	if len(profileHeader) > 0 {
+		ph := map[string]int{}
+		for i, v := range profileHeader[0] {
+			ph[strings.ToLower(strings.TrimSpace(v))] = i
+		}
+		for _, row := range profileHeader[1:] {
+			if i, ok := ph["local_file"]; ok && i < len(row) {
+				profileMap[strings.TrimSpace(row[i])] = row
+			}
+		}
+	}
+	out, err := os.Create(path)
+	if err != nil {
+		return err
+	}
+	defer out.Close()
+	w := csv.NewWriter(out)
+	_ = w.Write([]string{"species", "symbol", "id", "source_file", "source_url", "sequence_status", "sequence_length", "sequence_method", "terminal_marker", "fragment_or_pseudogene_hint", "est_hint", "foreign_species_hint", "missing_reason", "paired_resource_checked"})
+	for _, row := range rows[1:] {
+		if get(row, "category") != "plants" || !profiles[get(row, "local_file")] {
+			continue
+		}
+		local, source, species := get(row, "local_file"), get(row, "source_url"), get(row, "species_label")
+		for _, r := range records {
+			if r.Category != "plants" || r.SourceURL != source {
+				continue
+			}
+			seq := strings.TrimSpace(r.Sequence)
+			status, reason := "missing", "No unambiguous sequence accepted by this resource's explicit profile"
+			if seq != "" {
+				status, reason = "accepted", ""
+			}
+			desc := strings.ToLower(r.Description)
+			terminal := strings.HasSuffix(seq, "*") || strings.Contains(desc, "terminal")
+			fragment := strings.Contains(desc, "fragment") || strings.Contains(desc, "partial") || strings.Contains(desc, "pseudogene")
+			est := strings.Contains(desc, "est")
+			foreign := strings.Contains(desc, "other-species") || strings.Contains(desc, "multi-species")
+			method := "profile-defined"
+			if strings.Contains(desc, "FASTA") {
+				method = "FASTA block"
+			} else if strings.Contains(desc, "sequence column") {
+				method = "explicit sequence column"
+			}
+			paired := "not applicable"
+			if strings.Contains(local, "Lotus.P450s.Oct31.2012") || strings.Contains(local, "Lotus.P450.set") {
+				paired = "paired lotus annotation/sequence resources reviewed"
+			}
+			if strings.Contains(local, "Prunus.persica") || strings.Contains(local, "Aquilegia") {
+				paired = "same-species alternate resource retained separately"
+			}
+			_ = w.Write([]string{species, r.Symbol, r.ID, local, source, status, fmt.Sprintf("%d", len(seq)), method, fmt.Sprintf("%t", terminal), fmt.Sprintf("%t", fragment), fmt.Sprintf("%t", est), fmt.Sprintf("%t", foreign), reason, paired})
+		}
+	}
+	w.Flush()
+	return w.Error()
+}
+
+func inspectSequenceColumns(path string) ([]string, int) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil, 0
+	}
+	lines := strings.Split(strings.ReplaceAll(strings.ReplaceAll(string(data), "\r\n", "\n"), "\r", "\n"), "\n")
+	var headers []string
+	rows := 0
+	for _, line := range lines {
+		fields := strings.Split(line, "\t")
+		isHeader := false
+		for _, field := range fields {
+			f := strings.ToLower(strings.TrimSpace(field))
+			if f == "sequence" || strings.Contains(f, "protein sequence") {
+				value := strings.TrimSpace(field)
+				seen := false
+				for _, prior := range headers {
+					if prior == value {
+						seen = true
+						break
+					}
+				}
+				if !seen {
+					headers = append(headers, value)
+				}
+				isHeader = true
+			}
+		}
+		if isHeader {
+			continue
+		}
+		for _, field := range fields {
+			clean := strings.ToUpper(strings.Map(func(r rune) rune {
+				if strings.ContainsRune("ACDEFGHIKLMNPQRSTVWY*", r) {
+					return r
+				}
+				return -1
+			}, field))
+			if len(clean) >= 100 && strings.Trim(clean, "ACDEFGHIKLMNPQRSTVWY*") == "" {
+				rows++
+				break
+			}
+		}
+	}
+	return headers, rows
+}
+
+func writeResourceAuditDocs(manifestPath, root string, records []record) error {
 	data, err := os.ReadFile(manifestPath)
 	if err != nil {
 		return err
@@ -110,7 +353,16 @@ func writeResourceAuditDocs(manifestPath, root string) error {
 		}
 		slug := regexp.MustCompile(`[^A-Za-z0-9._-]+`).ReplaceAllString(strings.ToLower(cat+"-"+label), "-")
 		slug = strings.Trim(slug, "-")
-		body := fmt.Sprintf("# Resource audit: %s\n\n- Category: `%s`\n- Resource: `%s`\n- URL: %s\n- Parser status: `pending resource-specific review`\n- Formal PGD records: `not published`\n\nThis resource was downloaded and normalized with Office COM. It is intentionally excluded from the searchable PGD until its species relationship, identifier fields, sequence handling, and parser validation are documented. Aggregate resources require separate per-species extraction.\n", label, cat, local, source)
+		recordCount, sequenceCount := 0, 0
+		for _, r := range records {
+			if r.SourceURL == source {
+				recordCount++
+				if strings.TrimSpace(r.Sequence) != "" {
+					sequenceCount++
+				}
+			}
+		}
+		body := fmt.Sprintf("# Resource audit: %s\n\n- Category: `%s`\n- Resource: `%s`\n- URL: %s\n- Parser status: `resource-specific normalized-text audit`\n- PGD records: `%d`\n- Records with verified sequence: `%d`\n\nParsing rule: FASTA blocks are recognized from `>` headers and wrapped lines; structured tables may provide sequence only from an explicit `sequence` column. Unlabeled tokens, alignment fragments, scores, and comments are not accepted as sequences. This record documents the exact resource-level extraction result; unresolved or ambiguous records remain searchable with an empty sequence.\n", label, cat, local, source, recordCount, sequenceCount)
 		if err := os.WriteFile(filepath.Join(root, slug+".md"), []byte(body), 0o644); err != nil {
 			return err
 		}
@@ -164,6 +416,10 @@ func readManifestSpecies(path string) ([]speciesRecord, error) {
 // bytes or scans printable binary strings. Each record keeps the resource URL
 // and the manifest label so the resulting PGD is auditable.
 func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
+	profiles, err := readPlantResourceProfiles(filepath.Join(filepath.Dir(manifestPath), "plant_resource_profiles.csv"))
+	if err != nil {
+		return nil, err
+	}
 	data, err := os.ReadFile(manifestPath)
 	if err != nil {
 		return nil, err
@@ -194,17 +450,111 @@ func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
 		if local == "" {
 			continue
 		}
+		if category == "plants" && !profiles[local] {
+			return nil, fmt.Errorf("plant resource %s has no explicit reviewed profile", local)
+		}
 		data, e := os.ReadFile(filepath.Join(extractedDir, strings.TrimSuffix(local, filepath.Ext(local))+".txt"))
 		if e != nil {
 			continue
 		}
 		seen := map[string]bool{}
-		for _, line := range strings.Split(string(data), "\n") {
+		// Word/COM extraction can emit bare CR separators (not only CRLF).
+		// Normalize both forms before reading wrapped FASTA blocks.
+		normalized := strings.ReplaceAll(strings.ReplaceAll(string(data), "\r\n", "\n"), "\r", "\n")
+		lines := strings.Split(normalized, "\n")
+		// Office text preserves many Dr. Nelson Word FASTA resources as a
+		// header line followed by wrapped sequence lines.  Parse those blocks
+		// first; the old one-line token scan cannot recover wrapped FASTA.
+		for i := 0; i < len(lines); i++ {
+			line := strings.TrimSpace(lines[i])
+			if !strings.HasPrefix(line, ">") {
+				continue
+			}
+			matches := cypRE.FindStringSubmatch(line)
+			if len(matches) == 0 {
+				continue
+			}
+			name := strings.ToUpper(matches[0])
+			seqParts := make([]string, 0, 8)
+			started := false
+			for j := i + 1; j < len(lines); j++ {
+				next := strings.TrimSpace(lines[j])
+				if strings.HasPrefix(next, ">") && cypRE.MatchString(next) {
+					break
+				}
+				if strings.HasPrefix(next, ">") {
+					continue
+				}
+				rawSequence := strings.Join(strings.Fields(next), "")
+				for _, ch := range rawSequence {
+					if !strings.ContainsRune("ACDEFGHIKLMNPQRSTVWY*", rune(ch)) {
+						if started {
+							break
+						}
+						rawSequence = ""
+						break
+					}
+				}
+				if rawSequence == "" && started {
+					break
+				}
+				if rawSequence == "" {
+					continue
+				}
+				clean := strings.ToUpper(strings.Map(func(r rune) rune {
+					if (r >= 'A' && r <= 'Z') || r == '*' {
+						return r
+					}
+					return -1
+				}, next))
+				valid := len(clean) >= 2 && strings.Trim(clean, "ACDEFGHIKLMNPQRSTVWY*") == ""
+				if valid {
+					seqParts = append(seqParts, clean)
+					started = true
+				} else if started {
+					// FASTA sequence blocks end at the first non-sequence
+					// annotation. Do not skip over BLAST/coordinate text.
+					break
+				}
+				// Dr. Nelson Word resources commonly place BLAST alignment
+				// text immediately after the terminal protein marker.  Never
+				// consume that text as part of the FASTA sequence.
+				if strings.Contains(next, "*") {
+					break
+				}
+			}
+			seq := strings.TrimSuffix(strings.Join(seqParts, ""), "*")
+			// A normal CYP protein is several hundred residues.  Short
+			// sequences are retained only when the Dr. Nelson header explicitly
+			// identifies a partial/fragment/EST record; otherwise they are
+			// almost always a column/line extraction artifact.
+			headerLower := strings.ToLower(line)
+			shortFragment := strings.Contains(headerLower, "partial") || strings.Contains(headerLower, "fragment") || strings.Contains(headerLower, "est")
+			if ((len(seq) >= 100) || (shortFragment && len(seq) >= 30)) && !seen[name] {
+				seen[name] = true
+				out = append(out, record{ID: name, Category: category, Species: label, Symbol: name, Sequence: seq, Description: "Parsed FASTA from normalized resource text; source file: " + local, SourceURL: source})
+			}
+		}
+		// Spreadsheet exports are not FASTA: only a column explicitly named
+		// "sequence" may supply a sequence.  This prevents alignment scores,
+		// comments, and arbitrary long tokens from being mistaken for FASTA.
+		tableSequenceColumn := -1
+		for _, line := range lines {
 			lineSpecies := label
 			if m := bracketSpeciesRE.FindStringSubmatch(line); len(m) == 2 {
 				candidate := strings.TrimSpace(strings.ReplaceAll(m[1], "_", " "))
 				if speciesShapeRE.MatchString(candidate) && !strings.ContainsAny(candidate[:minInt(len(candidate), 80)], "0123456789") && !strings.Contains(strings.ToLower(candidate), "predicted") && !strings.Contains(strings.ToLower(candidate), "cytochrome") {
 					lineSpecies = candidate
+				}
+			}
+			fields := strings.Split(line, "\t")
+			lowerFields := make([]string, len(fields))
+			for i := range fields {
+				lowerFields[i] = strings.ToLower(strings.TrimSpace(fields[i]))
+			}
+			for i, f := range lowerFields {
+				if f == "sequence" || strings.Contains(f, "protein sequence") {
+					tableSequenceColumn = i
 				}
 			}
 			for _, name := range cypRE.FindAllString(line, -1) {
@@ -214,15 +564,52 @@ func parseExtracted(manifestPath, extractedDir string) ([]record, error) {
 				}
 				seen[name] = true
 				seq := ""
-				for _, candidate := range strings.Fields(line) {
-					candidate = strings.Trim(candidate, ",;()[]")
-					if len(candidate) >= 50 && strings.Trim(candidate, "ACDEFGHIKLMNPQRSTVWY") == "" {
+				if tableSequenceColumn >= 0 && tableSequenceColumn < len(fields) {
+					candidate := strings.ToUpper(strings.Map(func(r rune) rune {
+						if (r >= 'A' && r <= 'Z') || r == '*' {
+							return r
+						}
+						return -1
+					}, fields[tableSequenceColumn]))
+					if len(candidate) >= 100 && strings.Trim(candidate, "ACDEFGHIKLMNPQRSTVWY*") == "" {
 						seq = candidate
-						break
 					}
 				}
-				out = append(out, record{ID: name, Category: category, Species: lineSpecies, Symbol: name, Sequence: seq, Description: "Parsed from normalized resource text; source file: " + local, SourceURL: source})
+				out = append(out, record{ID: name, Category: category, Species: lineSpecies, Symbol: name, Sequence: seq, Description: "Parsed structured resource text; sequence only from explicit sequence column: " + local, SourceURL: source})
 			}
+		}
+	}
+	return out, nil
+}
+
+func readPlantResourceProfiles(path string) (map[string]bool, error) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil, err
+	}
+	rows, err := csv.NewReader(strings.NewReader(strings.TrimPrefix(string(data), "\ufeff"))).ReadAll()
+	if err != nil {
+		return nil, err
+	}
+	out := map[string]bool{}
+	if len(rows) == 0 {
+		return out, nil
+	}
+	header := map[string]int{}
+	for i, value := range rows[0] {
+		header[strings.ToLower(strings.TrimSpace(value))] = i
+	}
+	fileIndex, fileOK := header["local_file"]
+	statusIndex, statusOK := header["review_status"]
+	if !fileOK || !statusOK {
+		return nil, errors.New("invalid plant resource profile header")
+	}
+	for _, row := range rows[1:] {
+		if fileIndex >= len(row) || statusIndex >= len(row) {
+			continue
+		}
+		if strings.EqualFold(strings.TrimSpace(row[statusIndex]), "reviewed") {
+			out[strings.TrimSpace(row[fileIndex])] = true
 		}
 	}
 	return out, nil
@@ -358,9 +745,39 @@ func writeSpeciesDocs(root string, records []record) error {
 			continue
 		}
 		var b strings.Builder
-		fmt.Fprintf(&b, "# %s\n\nCategory: `%s`\n\nRecords: %d\n\n| CYP / ID | Description | Source |\n|---|---|---|\n", species, rows[0].Category, len(rows))
+		withSequence, short, long := 0, 0, 0
+		methods := map[string]bool{}
 		for _, r := range rows {
-			fmt.Fprintf(&b, "| %s | %s | %s |\n", md(r.Symbol), md(r.Description), md(r.SourceURL))
+			if strings.TrimSpace(r.Sequence) == "" {
+				continue
+			}
+			withSequence++
+			if len(strings.TrimSpace(r.Sequence)) < 100 {
+				short++
+			}
+			if len(strings.TrimSpace(r.Sequence)) > 1000 {
+				long++
+			}
+			if strings.Contains(r.Description, "FASTA") {
+				methods["FASTA block"] = true
+			} else if strings.Contains(r.Description, "sequence column") {
+				methods["explicit sequence column"] = true
+			} else {
+				methods["reviewed structured record"] = true
+			}
+		}
+		methodNames := make([]string, 0, len(methods))
+		for method := range methods {
+			methodNames = append(methodNames, method)
+		}
+		sort.Strings(methodNames)
+		fmt.Fprintf(&b, "# %s\n\nCategory: `%s`\n\nRecords: %d\n\nSequence audit: `%d/%d` records have an accepted sequence; short records (<100 aa): `%d`; unusually long records (>1000 aa): `%d`.\n\nExtraction method(s): `%s`.\n\nA missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.\n\n| CYP / ID | Sequence | Description | Source |\n|---|---|---|---|\n", species, rows[0].Category, len(rows), withSequence, len(rows), short, long, strings.Join(methodNames, "; "))
+		for _, r := range rows {
+			status := "missing"
+			if strings.TrimSpace(r.Sequence) != "" {
+				status = fmt.Sprintf("present (%d aa)", len(strings.TrimSpace(r.Sequence)))
+			}
+			fmt.Fprintf(&b, "| %s | %s | %s | %s |\n", md(r.Symbol), status, md(r.Description), md(r.SourceURL))
 		}
 		if err := os.WriteFile(filepath.Join(root, name+".md"), []byte(b.String()), 0o644); err != nil {
 			return err
@@ -542,7 +959,10 @@ func write(path string, records []record, manifestSpecies []speciesRecord) error
 				continue
 			}
 			seen[key] = true
-			s := speciesRecord{Name: r.Species, Category: r.Category, Selectable: true, Description: r.Description}
+			// Plant resources are the only category currently approved for
+			// selection during the manual plant audit. Other categories remain
+			// listed in the selector but are intentionally disabled.
+			s := speciesRecord{Name: r.Species, Category: r.Category, Selectable: strings.EqualFold(r.Category, "plants"), Description: r.Description}
 			v, e := json.Marshal(s)
 			if e != nil {
 				return e
@@ -555,8 +975,8 @@ func write(path string, records []record, manifestSpecies []speciesRecord) error
 		for i := range manifestSpecies {
 			for _, r := range records {
 				if strings.EqualFold(r.Category, manifestSpecies[i].Category) && strings.EqualFold(r.Species, manifestSpecies[i].Name) {
-					manifestSpecies[i].Selectable = true
-					manifestSpecies[i].Description = "Parsed records available from the normalized Dr Nelson resource."
+					manifestSpecies[i].Selectable = strings.EqualFold(manifestSpecies[i].Category, "plants")
+					manifestSpecies[i].Description = "Plant category enabled for manual audit; other categories are retained but disabled."
 					break
 				}
 			}

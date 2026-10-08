@@ -4,437 +4,443 @@ Category: `plants`
 
 Records: 432
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP701A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP701A1.2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP701A1.3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP701A30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP703A13 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704A10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704A2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704A64 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704A69 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704A70 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704A75 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704A76 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704B1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP704B30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706A4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706A6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C14 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C16 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C17 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C18 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C19 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C21 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C23 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C24 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706C5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706G1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706G4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP706G5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP707A22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP707A23 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP707A24 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP707A68 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP707A69 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP707A7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP707A8 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP710A11 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP711A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP711A21 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP711A22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP712G1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP714A17 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP714E15 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP714G9 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716A13 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716A42 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716A43 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716A44 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716A45 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716A46 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716C1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716C6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716D4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716D6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716H1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716Q1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP716Q3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP718A6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP718A7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AH1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AH9 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT13 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT15 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT16 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT17 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT21 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT23 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT24 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT27 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT31 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT33 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT34 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT36 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT43 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT46 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT47 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT48 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AT7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AU2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AU32 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AU33 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AU4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX11 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX12 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX13 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX15 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX16 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX21 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX23 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX25 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71AX9 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71B38 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BE17 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BE18 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BE6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BE7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BG1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BG2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BL1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BM1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BP1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71BP3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D184 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D187 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D198 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D200 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D201 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D202 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D204 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D205 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D206 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D207 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D208 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D209 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D210 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D211 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D212 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D213 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D216 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D218 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D219 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D221 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D224 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D225 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D226 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D231 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D232 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D241 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D242 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D247 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D249 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D250 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D253 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D258 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D264 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D265 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D266 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D274 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D276 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D284 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D287 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP71D7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP721A18 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP721A26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP721A27 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP722B1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP722C1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP724B14 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP724B16 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP724B17 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP724B2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP728B22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP728B6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A15 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A171 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A172 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A173 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A174 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A177 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A178 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A179 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A180 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A181 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A182 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A183 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A185 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A186 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A187 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A188 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A189 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A190 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A193 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A204 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A209 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A213 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A215 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A217 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72A51 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72BE5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP72D8 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP734A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP734A22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP734A7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP734A8 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP735A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP735A8 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A12 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A59 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A60 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A61 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A66 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A67 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A68 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A72 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A74 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A77 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A78 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A82 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A88 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A89 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A92 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP736A93 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP73A66 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP73A96 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP749A19 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP749A20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74A2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74A4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74B3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74C3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74C4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74D1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP74D2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP75A31 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP75B49 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A12 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A13 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A19 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A21 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A23 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A24 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A25 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76A6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B17 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B18 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B19 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B23 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B24 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B25 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B28 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B34 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B38 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B43 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B45 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B48 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B50 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B51 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B52 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B54 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B55 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76B6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76C4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76G1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76G10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76G6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76Y3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76Y5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76Y6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76Y7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP76Y8 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP77A19 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP77A20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP77B1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP77B11 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A74 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A75 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A76 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A77 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A78 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A79 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP78A80 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP79A32 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP79A52 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP79A56 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP79A59 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80C1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80E6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80E7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80E9 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80F1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80F3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80F4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80F5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80M1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80M10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80M11 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80M2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80M4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP80N1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81B26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81B27 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81B37 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81B39 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81B40 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81B41 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81C10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81C11 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81C5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81C8 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81Q30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81Q31 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81V1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81V13 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP81Y1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82C22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D14 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D34 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D39 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D40 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D41 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D42 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D43 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D44 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D45 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D6 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82D7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82E11 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82E12 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82E5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82E7 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82H5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82J1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82L1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82L2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82M3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82S3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82U1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82U2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82V1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP82W1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP83C1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP84A2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP84E2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP85A3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A33 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A68 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A69 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86A9 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86B12 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP86G1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP87A19 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP87A20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP87A21 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP87E3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP88A35 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP88B1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP88C2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP88C3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP88C4 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP88C5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP88G1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP89A35 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP89A69 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP89A70 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP89A72 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP89A73 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP89A74 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP89A75 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP90A1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP90A5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP90B3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP90C2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP90D19 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92A2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92A50 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92B16 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92B20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92B22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92B25 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92B26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92B5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP92B9 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP93A42 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94A24 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94A25 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94A26 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94A5 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94B1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94B17 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94B18 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94B2 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94B20 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94B3 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94C29 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94C30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94C31 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94D34 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP94K1 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A44 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A45 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A48 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A49 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A51 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A52 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A53 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A55 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP96A56 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP97A29 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP97B22 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP97C11 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP98A10 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP98A30 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP98A43 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP98A51 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP98A55 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
-| CYP98A56 | Parsed from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+Sequence audit: `77/432` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | present (426 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP701A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP701A1.2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP701A1.3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP701A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP703A13 | present (555 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704A64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704A69 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704A70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704A75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704A76 | present (415 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP704B30 | present (349 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706G4 | present (208 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP706G5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP707A22 | present (469 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP707A23 | present (475 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP707A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP707A68 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP707A69 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP707A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP707A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP710A11 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP711A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP711A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP711A22 | present (395 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP712G1 | present (303 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP714A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP714E15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP714G9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716A13 | present (476 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716A44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716A46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716C6 | present (474 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716Q1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP716Q3 | present (414 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP718A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP718A7 | present (493 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AH1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AH9 | present (203 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT23 | present (169 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT36 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT46 | present (202 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT47 | present (204 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT48 | present (216 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AT7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AU2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AU32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AU33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AU4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX26 | present (191 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71AX9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71B38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BE17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BE18 | present (207 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BE6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BE7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BG1 | present (208 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BG2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BL1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BM1 | present (205 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BP1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71BP3 | present (207 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D184 | present (205 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D187 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D198 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D200 | present (200 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D201 | present (201 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D202 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D204 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D205 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D206 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D207 | present (204 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D208 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D209 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D210 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D211 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D212 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D213 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D216 | present (206 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D218 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D219 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D221 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D224 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D225 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D226 | present (206 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D231 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D232 | present (204 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D241 | present (205 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D242 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D247 | present (202 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D249 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D250 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D253 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D258 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D264 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D265 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D266 | present (213 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D274 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D276 | present (202 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D284 | present (207 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D287 | present (176 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP71D7 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP720A1 | present (364 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP721A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP721A26 | present (137 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP721A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP722A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP722B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP722C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP724B14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP724B16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP724B17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP724B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP728B22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP728B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A171 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A172 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A173 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A174 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A177 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A178 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A179 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A180 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A181 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A182 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A183 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A185 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A186 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A187 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A188 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A189 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A190 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A193 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A204 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A209 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A213 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A215 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A217 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72BE5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP72D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP733A1 | present (105 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP734A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP734A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP734A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP734A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP735A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP735A8 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A60 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A61 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A66 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A67 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A68 | present (203 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A72 | present (142 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A77 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A78 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A82 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A88 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A92 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP736A93 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP73A66 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP73A96 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP749A19 | present (325 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP749A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74A1 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74C3 | present (491 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP74D2 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP75A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP75B49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B17 | present (356 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B50 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B54 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B55 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76G10 | present (409 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76Y3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76Y5 | present (373 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76Y6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76Y7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP76Y8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP77A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP77A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP77B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP77B11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A76 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A77 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A78 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A79 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP78A80 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP79A32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP79A52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP79A56 | present (340 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP79A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80E6 | present (202 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80E7 | present (202 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80E9 | present (202 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80F3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80F4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80F5 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80M1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80M10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80M11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80M2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80M4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP80N1 | present (211 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81B27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81B37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81B39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81B40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81B41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81C10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81C11 | present (207 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81C8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81Q30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81Q31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81V1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81V13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP81Y1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82C22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82D7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82E11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82E12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82E5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82E7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82H5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82L1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82L2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82M3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82S3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82U1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82U2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82V1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP82W1 | present (321 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP83C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP84A2 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP84E2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP85A1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP85A3 | present (404 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A33 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A68 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A69 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP86G1 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP87A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP87A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP87A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP87E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP88A35 | present (108 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP88B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP88C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP88C3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP88C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP88C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP88G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP89A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP89A69 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP89A70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP89A72 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP89A73 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP89A74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP89A75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP90A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP90A5 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP90B3 | present (424 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP90C2 | present (422 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP90D19 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92A50 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92B16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92B20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92B22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92B25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP92B9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP93A42 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94A24 | present (120 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94B17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94B20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94C29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94C30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94C31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94D34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP94K1 | present (419 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A53 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A55 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP96A56 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP97A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP97B22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP97C11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP98A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP98A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP98A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP98A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP98A55 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |
+| CYP98A56 | present (307 aa) | Parsed FASTA from normalized resource text; source file: plants-potato.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/potato.P450s.doc |

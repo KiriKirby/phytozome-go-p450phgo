@@ -4,818 +4,824 @@ Category: `bacteria`
 
 Records: 813
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP1001A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1001A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1002A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1002B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1003A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1004A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1004B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1005A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1005A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1006A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1007A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1008A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1008A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1009A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1009A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1010A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1011A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1011B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1012A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1013A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP1014A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP101A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP101B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP101C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP101D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP101D2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP101D3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A10 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A11 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A12 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A13 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102A9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102B4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102G2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP102H1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP103A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP103A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP103A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP104A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP104A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105AA1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105AA2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105AB1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105AB2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105AC1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105D9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105F2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105H1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105H2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105H3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105H4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105H5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105J1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105K1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105K2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105L1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105L2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105M1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105N1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105N2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105P1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105P2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Q1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Q2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Q3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Q4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Q5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Q6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Q7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105R1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105S1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105S2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105T1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105U1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105V1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105W1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105X1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105X2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105X3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Y1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP105Z1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP106A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP106A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP106B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AA1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AC1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AD1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AE1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AF1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AG1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AH1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AJ1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AK1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AL1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AM1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AN1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AP1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AQ1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AR1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AS1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AT1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AT2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AU1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AV1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AW1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AX1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AY1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107AZ1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107BA1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107BB1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107BC1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107E2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107E3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107F2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107H1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107J1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107J2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107J3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107K1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107L9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107M1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107N1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107N3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107P1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107P2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107P3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Q1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Q2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107R1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107S1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107T1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107U1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107U2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107U3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107U4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107V1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107W1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107X1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107X2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Y1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z10 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z11 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z12 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP107Z9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108B9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108G2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108G3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108H1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP108H2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP109A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP109B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP109C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP109C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP109D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110C3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110C4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110C5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110C6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110C7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110D2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110D3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110D4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110D5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110D6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110E2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110E3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110E4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110E5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110E6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110E7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110H1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110J1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110K1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110L1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110M1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP110M2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP111A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP111A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP111B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP112A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP112A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP112A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP113F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP114A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP114A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP114A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP116D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP117A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP117A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP117A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP117A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP117B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP118P1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP119A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP119A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP120E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP121A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP122A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP122A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP122A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP123A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP123A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP123A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP123A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP123A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP123B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP123B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP124A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP124B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP124B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP124C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A10 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A11 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A13 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A15 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125A9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125F2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125F3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP125G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP126A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP126A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP126A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP126A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP126B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP127A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP127A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP127A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP128A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP129A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP129A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP130A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP130A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP130A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP130A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP130A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP131A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP131A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP132A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP133A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP133B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP133B4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP133B5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP134A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP134B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP135A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP135B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP135B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP135B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP135B4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP135B5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP135B6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136B4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP136D2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP137A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP137A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP137A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP138C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP139A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP139A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP140A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP140A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP140A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP140A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP140A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP140A7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP140B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP141A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP142A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP142A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP142A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP142A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP142A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP142B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP142B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP143A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP143A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP143A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP143A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP144A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP144A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP144A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP144A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP145A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP145B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP145C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP147G2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP148A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP149A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A10 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP150A9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP151A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP151A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP151A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP152E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A10 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A11 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A12 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A13 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A14 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A15 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A16 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A17 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A18 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A19 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A20 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A21 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A22 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A23 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A24 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A25 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A26 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A27 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A29 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A30 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A31 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153A9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153D2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153D3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP153E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154F1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154G1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154H1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154J1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154K1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154L1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP154M1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP155A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP155A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP155B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP155C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP155C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP156A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP156B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP156B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP156C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP156D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157C3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157C4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP157C5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP158A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP158A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP158A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP158B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP159A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP159A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP160A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP161A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP161A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP161A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP161B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP162A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP162A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP162B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP163A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP163A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP163A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP163B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP164A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP164A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP164A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP164A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP164B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165B4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165B5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165B6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165C2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165C3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165C4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165C5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165C6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165D1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165D2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP165E1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP166A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP166B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP167A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP168A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP169A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP170A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP170A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP171A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP171A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP172A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP173A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP173A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP173B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP174A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP174A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP174B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP174B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP174B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP174B4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP175A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP176A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP177A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP178A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP179A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP179A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP180A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP180A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP180B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP181A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP182A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP182B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP183A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP183B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP184A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP185A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP185A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP185A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP185A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP185A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP185A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP186A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP186A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP186A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP186B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP187A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP187A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP187A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP187A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP187A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP187A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP188A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP188A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP188A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP188A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP188A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP189A9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP190A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP190A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP190A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP190A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP190A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP191A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP191A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP191A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP191A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP192A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP193A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP194A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP194A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP195A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP195A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP195A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP195A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP196A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP196A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP196A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP197A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP197B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP197C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP198A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP199A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP199A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP199A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP200A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP201A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP201A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP201A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP202A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP202A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP202A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP202B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP203A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP203A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP204A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP204B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP205A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP206A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP207A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP208A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP208A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP208A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP208A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP209A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP210A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP211A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP211B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP211C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP212A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP212A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A10 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A11 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A12 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A6 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A7 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A8 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP213A9 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP214A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP215A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP216A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP217A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP218A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP219A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP220A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP221A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP222A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP223A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP224A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP225A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP226A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP226A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP226A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP226B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP227A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP228A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP229A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP230A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP231A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP231A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP232A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP232A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP233A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP234A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP235A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP236A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP237A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP238A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP239A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP239A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP241A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP242A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP243A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP244A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP245A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP245A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP246A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP247A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP248A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP249A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP250A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP251A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP252A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP253A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP253B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP253C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP254A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP254A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP254A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP255A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP255A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP256A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP257A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP258A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP259A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP260A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP260B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP261A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP261B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP262A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP262B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP263A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP264A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP264B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP265A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP266A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP267A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP267B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP268A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP268A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP268A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP268B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP268B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP268C1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP269A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP271A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP272A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP274A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP276A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP278A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP278A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP278A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP278A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP278B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP279A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP279A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP279A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP279A4 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP279A5 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP282A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP282B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP283A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP284A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP284A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP284A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP285A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP286A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP287A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP288A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP288A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP289A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP290A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP290B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP290B2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP290B3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP291A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP291A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP291A3 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP292A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP292A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP293A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP293A2 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP294A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP295A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP296A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP297A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP298A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP299A1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
-| CYP51B1 | Parsed from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+Sequence audit: `703/813` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `3`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP1001A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1001A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1002A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1002B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1003A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1004A1 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1004B1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1005A1 | present (389 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1005A2 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1006A1 | present (210 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1007A1 | present (511 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1008A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1008A2 | present (352 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1009A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1009A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1010A1 | present (470 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1011A1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1011B1 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1012A1 | present (439 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1013A1 | present (464 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP1014A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP101A1 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP101B1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP101C1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP101D1 | present (421 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP101D2 | present (432 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP101D3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A1 | present (460 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A2 | present (479 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A3 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102B1 | present (527 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102B2 | present (504 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102B3 | present (498 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102B4 | present (513 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102C1 | present (321 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102D1 | present (474 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102E1 | present (808 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102F1 | present (1005 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102G1 | present (1070 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102G2 | present (1061 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP102H1 | present (473 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP103A1 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP103A2 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP103A3 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP104A1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP104A2 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105A1 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105A2 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105A3 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105AA1 | present (434 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105AA2 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105AB1 | present (375 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105AB2 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105AC1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105B1 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105B2 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105B3 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105C1 | present (381 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D1 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D2 | present (119 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D3 | present (119 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D4 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D6 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D7 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D8 | present (395 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105D9 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105E1 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105F1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105F2 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105G1 | present (351 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105H1 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105H2 | present (112 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105H3 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105H4 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105H5 | present (392 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105J1 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105K1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105K2 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105L1 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105L2 | present (383 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105M1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105N1 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105N2 | present (120 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105P1 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105P2 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Q1 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Q2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Q3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Q4 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Q5 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Q6 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Q7 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105R1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105S1 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105S2 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105T1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105U1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105V1 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105W1 | present (394 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105X1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105X2 | present (120 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105X3 | present (120 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Y1 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP105Z1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP106A1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP106A2 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP106B1 | present (111 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107A1 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107A2 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AA1 | present (432 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AC1 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AD1 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AE1 | present (482 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AF1 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AG1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AH1 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AJ1 | present (441 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AK1 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AL1 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AM1 | present (443 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AN1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AP1 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AQ1 | present (385 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AR1 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AS1 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AT1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AT2 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AU1 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AV1 | present (433 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AW1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AX1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AY1 | present (382 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107AZ1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107B1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107BA1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107BB1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107BC1 | present (144 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107C1 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107D1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107E1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107E2 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107E3 | present (395 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107F1 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107F2 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107G1 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107H1 | present (395 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107J1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107J2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107J3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107K1 | present (376 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L2 | present (393 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L3 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L4 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L5 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L6 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L8 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107L9 | present (380 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107M1 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107N1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107N3 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107P1 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107P2 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107P3 | present (236 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Q1 | present (511 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Q2 | present (421 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107R1 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107S1 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107T1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107U1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107U2 | present (457 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107U3 | present (338 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107U4 | present (431 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107V1 | present (470 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107W1 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107X1 | present (388 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107X2 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Y1 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z1 | present (475 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z10 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z11 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z12 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z3 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z4 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z6 | present (432 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z7 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z8 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP107Z9 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108A1 | present (428 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B1 | present (431 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B2 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B3 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B4 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B5 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B6 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B7 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B8 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108B9 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108C1 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108D1 | present (453 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108E1 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108G2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108G3 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP108H2 | present (236 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP109A1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP109B1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP109C1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP109C2 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP109D1 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110A2 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110B2 | present (460 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110C3 | present (468 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110C4 | present (450 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110C5 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110C6 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110C7 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110D2 | present (488 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110D3 | present (462 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110D4 | present (446 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110D5 | present (443 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110D6 | present (448 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110E2 | present (464 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110E4 | present (458 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110E5 | present (458 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110E6 | present (455 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110E7 | present (453 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110F1 | present (458 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110H1 | present (444 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110J1 | present (477 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110K1 | present (454 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110L1 | present (444 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110M1 | present (457 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP110M2 | present (455 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP111A1 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP111A2 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP111B1 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP112A1 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP112A2 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP112A4 | present (426 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113A1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113B1 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113B2 | present (132 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113B3 | present (372 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113C1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113D1 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113E1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP113F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP114A1 | present (382 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP114A2 | present (467 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP114A4 | present (533 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116A1 | present (437 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116A2 | present (428 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116B1 | present (780 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116B2 | present (773 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116B3 | present (771 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116C1 | present (440 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116C2 | present (439 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP116D1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP117A1 | present (356 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP117A2 | present (447 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP117A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP117A4 | present (447 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP117B1 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP118P1 | present (223 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP119A1 | present (368 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP119A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120A1 | present (444 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120A2 | present (318 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120A3 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120A4 | present (444 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120A5 | present (465 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120A6 | present (450 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120B1 | present (437 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120C1 | present (452 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120D1 | present (357 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP120E1 | present (448 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP121A1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP122A1 | present (388 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP122A2 | present (386 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP122A3 | present (388 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP123A1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP123A2 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP123A3 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP123A4 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP123A5 | present (238 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP123B1 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP123B2 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP124A1 | present (428 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP124B1 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP124B2 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP124C1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A1 | present (433 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A10 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A11 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A13 | present (271 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A15 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A2 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A3 | present (427 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A4 | present (428 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A6 | present (428 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A7 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A8 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125A9 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125B1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125C1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125D1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125E1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125F1 | present (432 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125F2 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125F3 | present (473 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP125G1 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP126A1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP126A2 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP126A3 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP126A4 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP126B1 | present (435 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP127A1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP127A2 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP127A4 | present (496 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP128A1 | present (489 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP129A1 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP129A2 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP130A1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP130A2 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP130A3 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP130A4 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP130A5 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP131A1 | present (438 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP131A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP132A1 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP133A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP133B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP133B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP133B5 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP134A1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP134B1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP135A1 | present (449 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP135B1 | present (472 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP135B2 | present (453 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP135B3 | present (457 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP135B4 | present (463 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP135B5 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP135B6 | present (473 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136A1 | present (492 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136B1 | present (479 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136B2 | present (482 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136B3 | present (480 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136B4 | present (502 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136C1 | present (457 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136C2 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP136D2 | present (485 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP137A1 | present (476 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP137A2 | present (456 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP137A3 | present (470 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138A1 | present (441 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138A2 | present (447 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138A3 | present (441 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138A4 | present (442 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138A5 | present (450 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138B1 | present (456 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138C1 | present (454 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP138C2 | present (455 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP139A1 | present (386 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP139A3 | present (433 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP140A1 | present (438 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP140A2 | present (438 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP140A4 | present (116 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP140A5 | present (438 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP140A6 | present (443 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP140A7 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP140B1 | present (507 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP141A1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP142A1 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP142A2 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP142A3 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP142A4 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP142A5 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP142B1 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP142B2 | present (424 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP143A1 | present (393 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP143A3 | present (390 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP143A4 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP143A5 | present (387 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP144A1 | present (434 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP144A2 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP144A3 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP144A4 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP145A1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP145B1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP145C1 | present (394 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147A1 | present (313 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147B1 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147B2 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147C1 | present (421 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147D1 | present (336 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147E1 | present (456 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147F1 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147G1 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP147G2 | present (421 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP148A1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP149A1 | present (491 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A1 | present (426 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A10 | present (426 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A2 | present (437 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A3 | present (425 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A4 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A5 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A6 | present (424 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A7 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A8 | present (426 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP150A9 | present (427 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP151A1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP151A2 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP151A3 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152A1 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152B1 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152B2 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152C1 | present (440 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152C2 | present (440 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152D1 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP152E1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A1 | present (497 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A10 | present (511 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A11 | present (378 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A12 | present (470 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A13 | present (470 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A14 | present (446 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A16 | present (463 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A25 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A26 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A27 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A30 | present (437 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A31 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A5 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A6 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A7 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A8 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153C1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153D1 | present (445 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153D2 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153D3 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP153E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154A1 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154A2 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154A3 | present (325 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154A4 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154B1 | present (433 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154B2 | present (474 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154C1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154C2 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154D1 | present (443 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154E1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154F1 | present (132 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154G1 | present (388 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154H1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154J1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154K1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154L1 | present (390 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP154M1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP155A1 | present (421 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP155A2 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP155B1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP155C1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP155C2 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP156A1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP156B1 | present (447 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP156B2 | present (445 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP156C1 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP156D1 | present (440 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157A1 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157A2 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157A3 | present (511 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157A4 | present (427 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157B1 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157B2 | present (218 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157B3 | present (430 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157C1 | present (498 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157C2 | present (486 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157C3 | present (524 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157C4 | present (476 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP157C5 | present (489 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP158A1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP158A2 | present (360 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP158A3 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP158B1 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP159A1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP159A2 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP160A1 | present (395 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP161A1 | present (394 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP161A2 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP161A3 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP161B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP162A1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP162A2 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP162B1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP163A1 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP163A2 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP163A3 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP163B1 | present (425 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP164A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP164A2 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP164A3 | present (442 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP164A4 | present (506 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP164B1 | present (346 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165A1 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165A2 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165A3 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165A4 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165A5 | present (393 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165B1 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165B2 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165B3 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165B4 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165B5 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165B6 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165C1 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165C2 | present (310 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165C3 | present (451 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165C4 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165C5 | present (392 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165C6 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165D1 | present (384 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165D2 | present (384 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP165E1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP166A1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP166B1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP167A1 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP168A1 | present (444 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP169A1 | present (425 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP170A1 | present (461 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP170A2 | present (456 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP171A1 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP171A2 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP172A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP173A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP173A2 | present (466 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP173B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP174A1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP174A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP174B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP174B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP174B3 | present (180 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP174B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP175A1 | present (389 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP176A1 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP177A1 | present (552 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP178A1 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP179A1 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP179A2 | present (421 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP180A1 | present (421 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP180A2 | present (420 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP180B1 | present (442 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP181A1 | present (386 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP182A1 | present (482 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP182B1 | present (474 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP183A1 | present (449 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP183B1 | present (462 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP184A1 | present (473 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP185A1 | present (462 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP185A2 | present (484 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP185A3 | present (456 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP185A4 | present (474 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP185A5 | present (465 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP185A6 | present (457 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP186A1 | present (457 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP186A2 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP186A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP186B1 | present (448 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP187A1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP187A2 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP187A3 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP187A4 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP187A5 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP187A6 | present (445 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP188A1 | present (453 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP188A2 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP188A3 | present (454 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP188A4 | present (456 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP188A5 | present (450 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A2 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A3 | present (407 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A4 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A5 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A6 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A7 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A8 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP189A9 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP190A1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP190A2 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP190A3 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP190A4 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP190A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP191A1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP191A2 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP191A3 | present (402 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP191A4 | present (561 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP192A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP193A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP194A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP194A2 | present (399 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP195A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP195A2 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP195A3 | present (572 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP195A4 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP196A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP196A2 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP196A3 | present (464 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP197A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP197B1 | present (450 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP197C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP198A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP199A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP199A2 | present (462 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP199A3 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP200A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP201A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP201A2 | present (487 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP201A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP202A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP202A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP202A3 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP202B1 | present (393 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP203A1 | present (395 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP203A2 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP204A1 | present (473 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP204B1 | present (440 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP205A1 | present (459 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP206A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP207A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP208A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP208A2 | present (450 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP208A3 | present (337 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP208A4 | present (452 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP209A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP210A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP211A1 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP211B1 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP211C1 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP212A1 | present (468 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP212A2 | present (493 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A10 | present (433 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A11 | present (444 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A12 | present (436 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A3 | present (432 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A4 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A5 | present (439 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A6 | present (432 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A7 | present (424 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A8 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP213A9 | present (433 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP214A1 | present (448 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP215A1 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP216A1 | present (452 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP217A1 | present (392 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP218A1 | present (503 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP219A1 | present (414 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP220A1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP221A1 | present (938 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP222A1 | present (579 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP223A1 | present (396 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP224A1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP225A1 | present (440 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP226A1 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP226A2 | present (427 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP226A3 | present (424 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP226B1 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP227A1 | present (454 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP228A1 | present (427 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP229A1 | present (366 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP230A1 | present (454 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP231A1 | present (369 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP231A2 | present (343 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP232A1 | present (381 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP232A2 | present (382 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP233A1 | present (408 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP234A1 | present (367 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP235A1 | present (401 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP236A1 | present (386 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP237A1 | present (514 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP238A1 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP239A1 | present (386 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP239A2 | present (386 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP241A1 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP242A1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP243A1 | present (334 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP244A1 | present (394 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP245A1 | present (417 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP245A2 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP246A1 | present (395 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP247A1 | present (318 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP248A1 | present (397 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP249A1 | present (400 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP250A1 | present (160 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP251A1 | present (448 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP252A1 | present (484 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP253A1 | present (477 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP253B1 | present (499 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP253C1 | present (436 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP254A1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP254A2 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP254A3 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP255A1 | present (404 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP255A2 | present (324 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP256A1 | present (410 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP257A1 | present (415 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP258A1 | present (388 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP259A1 | present (442 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP260A1 | present (444 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP260B1 | present (392 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP261A1 | present (482 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP261B1 | present (493 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP262A1 | present (435 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP262B1 | present (470 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP263A1 | present (493 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP264A1 | present (390 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP264B1 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP265A1 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP266A1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP267A1 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP267B1 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP268A1 | present (436 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP268A2 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP268A3 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP268B1 | present (453 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP268B2 | present (418 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP268C1 | present (429 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP269A1 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP271A1 | present (431 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP272A1 | present (389 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP274A1 | present (451 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP276A1 | present (411 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP278A1 | present (427 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP278A2 | present (413 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP278A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP278A4 | present (422 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP278B1 | present (250 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP279A1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP279A2 | present (412 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP279A3 | present (449 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP279A4 | present (448 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP279A5 | present (385 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP282A1 | present (419 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP282B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP283A1 | present (378 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP284A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP284A2 | present (390 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP284A3 | present (517 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP285A1 | present (423 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP286A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP287A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP288A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP288A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP289A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP290A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP290B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP290B2 | present (455 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP290B3 | present (366 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP291A1 | present (409 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP291A2 | present (483 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP291A3 | present (398 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP292A1 | present (406 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP292A2 | present (405 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP293A1 | present (386 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP293A2 | present (403 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP294A1 | present (387 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP295A1 | present (431 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP296A1 | present (392 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP297A1 | present (437 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP298A1 | present (391 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP299A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |
+| CYP51B1 | present (450 aa) | Parsed FASTA from normalized resource text; source file: bacteria-allbacteria.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/allbacteria.doc |

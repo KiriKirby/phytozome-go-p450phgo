@@ -4,198 +4,204 @@ Category: `plants`
 
 Records: 193
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP51G3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP51H4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP51H5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP51H6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP51H7 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP51H8 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP701A6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP703A3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP704A3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP704A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP704A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP704A7 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP704B2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP706C1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP707A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP707A6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709C10 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709C11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709C5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709C8 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709C9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709D1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709E1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709E2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP709E3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP710A8 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP711A3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP711A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP711A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP711A6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP714B1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP714C2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP714C3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP714D1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP715B1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71AA2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71AB2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71AB3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71AC1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71AD1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71AF1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71AK2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71B20 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71C14 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71C15 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71C16 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71C17 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71C18 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71C32 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71C33 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71E4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71K10 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71K5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71K9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71P1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71Q2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71R1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71S1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71T1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71T2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71T3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71T5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71V2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71V5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71W1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71W4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71X11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71X2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71Y3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71Y8 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP71Z9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP721B1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP721B2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP722B1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP723A3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP724B1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP727A1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP728A1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP728B1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP728B3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP728C3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP728C9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP729A1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A17 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A18 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A20 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A21 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A23 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A24 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A25 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP72A35 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP734A2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP734A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP734A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP734A6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP735A3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP735A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP73A38 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP73A39 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP74A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP74A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP74E2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP74F1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP75A11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP75B3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP75B4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76H10 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76H5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76K1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76L1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76M2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76M9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76N3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76P3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP76P5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP77A9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP77B2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP78A11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP78B4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP78B5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP78C5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP78C6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP78C7 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP78D1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP79A7 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP79A9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP81A6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP81L4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP81M1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP81N2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP81P1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP84A-like1 | Table S2: CYP84A-like1 (SORBI_01g017270) | user-provided-table-s2 |
-| CYP84A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP84A7 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP86A10 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP86A11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP86A9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP86B3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP86E1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP87A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP87A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP87A6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP87B5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP87C2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP88A5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89B11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89B3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89B4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89B9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89C1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89C2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89D1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89E1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89F1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP89G1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP90A3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP90B2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP90D2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP90D3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP92A11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP92A12 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP92A15 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP92A9 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP92C1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP93F1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP93G1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP93G2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94B4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94C2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94C3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94C4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94D11 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94D15 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94D5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94D7 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94E2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP94E3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96B10 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96B3 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96B5 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96B6 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96B8 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96D1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96D2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP96E1 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP97A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP97B4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP97C2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP98A4 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
-| CYP99A2 | Parsed from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+Sequence audit: `188/193` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | present (492 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP51G3 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP51H4 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP51H5 | present (481 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP51H6 | present (461 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP51H7 | present (462 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP51H8 | present (335 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP701A6 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP703A3 | present (526 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP704A3 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP704A4 | present (122 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP704A5 | present (466 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP704A7 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP704B2 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP706C1 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP707A5 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP707A6 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709C10 | present (240 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709C11 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709C5 | present (545 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709C8 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709C9 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709D1 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709E1 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709E2 | present (143 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP709E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP710A8 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP711A3 | present (547 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP711A4 | present (545 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP711A5 | present (545 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP711A6 | present (540 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP714B1 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP714C2 | present (546 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP714C3 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP714D1 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP715B1 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71AA2 | present (541 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71AB2 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71AB3 | present (449 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71AC1 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71AD1 | present (422 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71AF1 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71AK2 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71B20 | present (139 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71C14 | present (550 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71C15 | present (552 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71C16 | present (109 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71C17 | present (558 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71C18 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71C32 | present (542 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71C33 | present (458 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71E4 | present (147 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71K10 | present (142 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71K5 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71K9 | present (255 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71P1 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71Q2 | present (402 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71R1 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71S1 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71T1 | present (182 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71T2 | present (459 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71T3 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71T5 | present (535 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71V2 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71V5 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71W1 | present (182 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71W4 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71X11 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71X2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71Y3 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71Y8 | present (613 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP71Z9 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP721B1 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP721B2 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP722B1 | present (539 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP723A3 | present (470 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP724B1 | present (489 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP727A1 | present (572 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP728A1 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP728B1 | present (495 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP728B3 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP728C3 | present (260 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP728C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP729A1 | present (107 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A17 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A18 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A20 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A21 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A23 | present (434 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A24 | present (355 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A25 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP72A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP733A1 | present (475 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP734A2 | present (544 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP734A4 | present (557 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP734A5 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP734A6 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP735A3 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP735A4 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP73A38 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP73A39 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP74A4 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP74A5 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP74E2 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP74F1 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP75A11 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP75B3 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP75B4 | present (182 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76H10 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76H5 | present (187 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76K1 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76L1 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76M2 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76M9 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76N3 | present (124 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76P3 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP76P5 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP77A9 | present (544 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP77B2 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP78A11 | present (552 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP78B4 | present (174 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP78B5 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP78C5 | present (268 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP78C6 | present (551 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP78C7 | present (549 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP78D1 | present (539 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP79A7 | present (220 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP79A9 | present (552 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP81A6 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP81L4 | present (403 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP81M1 | present (460 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP81N2 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP81P1 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP84A-like1 | missing | Table S2: CYP84A-like1 (SORBI_01g017270) | user-provided-table-s2 |
+| CYP84A5 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP84A7 | present (488 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP85A1 | present (465 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP86A10 | present (542 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP86A11 | present (103 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP86A9 | present (547 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP86B3 | present (582 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP86E1 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP87A4 | present (494 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP87A5 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP87A6 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP87B5 | present (470 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP87C2 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP88A5 | present (112 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89B11 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89B3 | present (162 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89B4 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89B9 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89C1 | present (486 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89C2 | present (541 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89D1 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89E1 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89F1 | present (129 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP89G1 | present (955 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP90A3 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP90B2 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP90D2 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP90D3 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP92A11 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP92A12 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP92A15 | present (138 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP92A9 | present (148 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP92C1 | present (153 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP93F1 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP93G1 | present (555 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP93G2 | present (541 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94B4 | present (560 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94C2 | present (493 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94C3 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94C4 | present (535 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94D11 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94D15 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94D5 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94D7 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94E2 | present (539 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP94E3 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96B10 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96B3 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96B5 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96B6 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96B8 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96D1 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96D2 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP96E1 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP97A4 | present (647 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP97B4 | present (573 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP97C2 | present (555 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP98A4 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
+| CYP99A2 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-sorghum.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |

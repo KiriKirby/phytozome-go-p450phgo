@@ -4,362 +4,368 @@ Category: `plants`
 
 Records: 357
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP51G6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP701A23 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP703A9 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP704A19 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP704A20 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP704A22 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP704A23 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP704B21 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706A6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706C7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706C8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706G1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706G2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706G3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706H1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706J1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706J3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP706J5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP707A38 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP707A39 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP707A40 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP707A41 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP707A42 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP709B5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP710A18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP711A14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP712A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP712A12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP712D1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714A3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714A8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714B1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714C1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714C4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714D1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714E1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714E12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714E2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714E7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714E8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714F1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714F2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714G1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714G2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714G4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714G5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP714G6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP715A6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A19 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A20 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A21 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A22 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A24 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A25 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A26 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A28 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A29 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A30 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716A31 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716C1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP716C4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AH1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AH2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AH3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AH4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AH6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AP5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AS1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AS3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AS4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AS5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AT3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AT4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AT7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AT8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AT9 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AU3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AU4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71AU5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71B33 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BC1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BC2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BC3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BE1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BE11 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BE12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BE13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BE5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BE6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BE7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BG1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BG2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BG3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71BG4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP71P1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP721A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP721A13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP721A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP721A16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP721A18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP724B13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP724B14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP727A7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP728B15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP728B5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP728B6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP728B7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP728B8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP728G1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A103 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A105 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A107 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A108 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A109 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A110 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A113 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A85 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A87 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A88 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A89 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A90 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A92 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A93 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A95 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A96 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A98 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72A99 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72D3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72D4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72D5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP72D6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP734A13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP734A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP735A12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A20 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A21 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A22 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A23 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A25 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A26 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP736A27 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP73A78 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP73A81 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP73A82 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP74A13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP74A14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP74A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP74A16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP74A17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP74B13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A28 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A33 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A34 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A35 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A36 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A41 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A42 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A43 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75A8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75B32 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP75B38 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76A10 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76A12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76A13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76A16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76C1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76F11 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76F12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76F14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76F15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76F2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76G6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T10 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T11 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T19 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T20 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76T21 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76Y1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76Y2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP76Y3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP77A14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP77B6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP78A36 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP78A37 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP78A38 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP78A39 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP78A40 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP78A41 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP78A42 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A19 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A23 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A24 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A25 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A26 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP79A27 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP80E3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP80E4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP80E5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP80K1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP80K2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP80K3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81B26 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81B27 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81B29 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81B30 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81B31 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81B32 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81B34 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81D8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V19 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V20 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V21 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V23 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81V9 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP81W1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82A19 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82C4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D10 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D19 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D21 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D23 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D24 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D4 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82D9 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82H1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82H14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82H16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82H18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82H22 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82H5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82H8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82J1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82K1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82L1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82L2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82M1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S10 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S11 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP82S9 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP83A2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP84A30 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP84A31 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP85A10 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP86A28 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP86A29 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP86A30 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP86B7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP86C10 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP86C8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP87A12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP87A13 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP87A14 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP87B6 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP87B7 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP87B8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP87B9 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP88A23 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP88A24 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP88A3 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A38 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A39 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A40 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A41 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A42 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A43 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A44 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A45 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A46 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A47 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A50 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A51 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A52 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A53 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP89A57 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP90A16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP90B12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP90C5 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP90D8 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP92A32 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP92A34 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP92A36 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP92A37 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP92A38 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP92A39 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP93A16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP93A17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP93A18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP93A9 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94A15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94A16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94B10 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94B11 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94C16 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94C17 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94D25 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94F1 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP94F2 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP96A18 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP96A25 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP96A26 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP96A27 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP96A28 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP96A30 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP97A11 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP97B15 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP97C12 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
-| CYP98A43 | Parsed from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+Sequence audit: `165/357` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP51G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP701A23 | present (206 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP703A9 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP704A19 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP704A20 | present (350 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP704A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP704A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP704B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706C7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706C8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706G1 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706G2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706G3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706J1 | present (545 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706J3 | present (280 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP706J5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP707A38 | present (488 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP707A39 | present (404 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP707A40 | present (608 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP707A41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP707A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP709B5 | present (271 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP710A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP711A14 | present (134 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP712A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP712A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP712D1 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714A1 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714B1 | present (239 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714C1 | present (206 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714C4 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714E12 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714E2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714E7 | present (380 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714E8 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714G2 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714G4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714G5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP714G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP715A6 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A15 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A17 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A20 | present (138 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A24 | present (172 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A26 | present (140 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A28 | present (210 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A29 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A30 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP716C4 | present (314 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AH1 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AH2 | present (494 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AH3 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AH4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AH6 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AP5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AS1 | present (314 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AS3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AS4 | present (350 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AS5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AT3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AT4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AT7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AT8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AT9 | present (365 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AU3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AU4 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71AU5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71B33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BC1 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BC2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BC3 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BE1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BE11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BE12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BE13 | present (142 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BE5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BE6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BE7 | present (206 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BG1 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BG2 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BG3 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71BG4 | present (485 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP71P1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP720A1 | present (416 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP721A1 | present (210 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP721A13 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP721A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP721A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP721A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP722A1 | present (350 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP724B13 | present (402 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP724B14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP727A7 | present (101 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP728B15 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP728B5 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP728B6 | present (474 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP728B7 | present (472 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP728B8 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP728G1 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A103 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A105 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A107 | present (407 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A108 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A109 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A110 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A113 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A85 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A87 | present (269 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A88 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A90 | present (140 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A92 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A93 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A95 | present (245 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A96 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A98 | present (164 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72A99 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72D3 | present (552 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP72D6 | present (346 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP733A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP734A13 | present (383 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP734A15 | present (491 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP735A12 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A1 | present (495 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A20 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A21 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP736A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP73A78 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP73A81 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP73A82 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP74A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP74A14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP74A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP74A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP74A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP74B13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A28 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A34 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A35 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A36 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A41 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A43 | present (140 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75B32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP75B38 | present (313 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76A12 | present (420 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76A13 | present (468 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76A16 | present (210 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76F11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76F12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76F14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76F15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76F2 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T15 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T16 | present (210 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T20 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76T21 | present (116 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76Y1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76Y2 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP76Y3 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP77A14 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP77B6 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP78A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP78A37 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP78A38 | present (526 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP78A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP78A40 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP78A41 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP78A42 | present (540 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A15 | present (544 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A19 | present (359 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A23 | present (358 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A24 | present (551 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A25 | present (556 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A26 | present (554 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP79A27 | present (583 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP80E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP80E4 | present (345 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP80E5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP80K1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP80K2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP80K3 | present (559 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81B27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81B29 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81B30 | present (280 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81B31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81B32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81B34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V13 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V14 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V18 | present (140 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V19 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V20 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V21 | present (445 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V6 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81V9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP81W1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D19 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D23 | present (359 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D3 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82D9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82H1 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82H14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82H16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82H18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82H22 | present (211 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82H5 | present (259 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82H8 | present (207 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82K1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82L1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82L2 | present (438 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82M1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S1 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S11 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S12 | present (312 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S3 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S6 | present (449 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP82S9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP83A2 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP84A30 | present (446 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP84A31 | present (210 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP85A1 | present (460 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP85A10 | present (393 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP86A28 | present (547 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP86A29 | present (545 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP86A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP86B7 | present (579 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP86C10 | present (526 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP86C8 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP87A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP87A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP87A14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP87B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP87B7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP87B8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP87B9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP88A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP88A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP88A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A38 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A40 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A41 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A44 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A46 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A47 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A50 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A52 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A53 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP89A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP90A16 | present (484 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP90B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP90C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP90D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP92A32 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP92A34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP92A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP92A37 | present (211 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP92A38 | present (461 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP92A39 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP93A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP93A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP93A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP93A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94A15 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94B11 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94C16 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94C17 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94D25 | present (110 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP94F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP96A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP96A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP96A26 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP96A27 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP96A28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP96A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP97A11 | present (384 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP97B15 | present (143 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP97C12 | present (546 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |
+| CYP98A43 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-vitis.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/vitis.doc |

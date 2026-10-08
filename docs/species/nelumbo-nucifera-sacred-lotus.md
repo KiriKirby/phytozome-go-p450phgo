@@ -4,9 +4,15 @@ Category: `plants`
 
 Records: 4
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP716E5 | Parsed from normalized resource text; source file: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |
-| CYP716E6 | Parsed from normalized resource text; source file: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |
-| CYP716E7 | Parsed from normalized resource text; source file: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |
-| CYP84A45 | Parsed from normalized resource text; source file: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |
+Sequence audit: `0/4` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP716E5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |
+| CYP716E6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |
+| CYP716E7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |
+| CYP84A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.P450s.Oct31.2012.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx |

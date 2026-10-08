@@ -4,258 +4,264 @@ Category: `plants`
 
 Records: 253
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP51G3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP701A26 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP703A12 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP704A105 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP704A106 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP704A107 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP704A108 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP704A3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP704A41 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP706C1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP707A116 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP707A5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP707A65 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709C15 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709C19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709C21 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709C24 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709D2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709E7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709H1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP709H2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP710A8 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP711A18 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP711A19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP711A31 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714B10 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714B4 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714C11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714C2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714C3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714C8 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714D1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP714D6 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP715B1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AA5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AA9 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AB1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AB6 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AC1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AD1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AF7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AK2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AK7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AM1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AM3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71AM5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71BU3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C41 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C56 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C70 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C79 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C80 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C81 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C82 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C83 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C84 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C85 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C86 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C87 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C88 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C89 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C90 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C91 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C92 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C93 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C94 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71C95 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71E1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71E14 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71E5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71E9 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71F11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71K14 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71K24 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71K29 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71K8 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71K9 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71M2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71P5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71Q5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71R7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71S3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71T20 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71T21 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71T28 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71V12 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71V13 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71V14 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71V17 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71V19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71V7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71V8 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71W11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71W12 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71X19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71X20 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71X21 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71Y12 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71Y13 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71Z13 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP71Z16 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP721B4 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP722B1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP723A2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP723A5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP723A6 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP723A7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP724B3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP727A5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP728A7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP728B1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP728B31 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP729A1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A169 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A21 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A23 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A255 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A26 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A286 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A354 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A357 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A358 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A40 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP72A5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP734A19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP734A36 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP734A37 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP735A18 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP735A30 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP73A33 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP73A6 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP73A8 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP74A11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP74A18 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP74A19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP74E6 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP74F2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP75A11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP75B11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP75B57 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP75B76 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76AS1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76H18 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76H19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76H23 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76H9 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76L1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76M2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76M9 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76N2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76P3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76Q2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP76U1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP77A17 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP77B2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP78A1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP78A130 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP78A131 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP78A133 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP78A53 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP78A55 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP78D1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP79A1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP79A41 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP79A7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP79A82 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81A12 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81A14 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81A17 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81A18 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81A24 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81A32 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81A4 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81L7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81M4 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81N4 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81N5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP81P1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP84A-like | Table S2: CYP84A-like (Si035174m) | user-provided-table-s2 |
-| CYP84A55 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP86A11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP86A35 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP86A36 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP86B21 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP86E2 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP87A15 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP87A43 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP87A44 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP87B13 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP87B5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP87C9 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP88A5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP88A57 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89B16 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89B17 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89B19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89B24 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89B9 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89C3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89C7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89D1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89E10 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89E13 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89E14 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89E7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP89F1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP90A19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP90D10 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP90D11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A100 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A15 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A47 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A67 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A71 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A92 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92A96 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92C5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP92C6 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP93F6 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP93G11 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP93G5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP93G7 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94B5 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94B57 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94C43 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94C44 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94C46 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94C47 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94C71 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94D27 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94D33 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94D48 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94E4 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP94E8 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP96B18 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP96B23 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP96B26 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP96D3 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP96D4 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP96E1 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP97A16 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP97B21 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP97C19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP98A29 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP99A17 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP99A18 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP99A19 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP99A28 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
-| CYP99A31 | Parsed from normalized resource text; source file: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+Sequence audit: `0/253` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP51G3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP701A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP703A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP704A105 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP704A106 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP704A107 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP704A108 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP704A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP704A41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP706C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP707A116 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP707A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP707A65 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709C15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709C19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709C21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709C24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709D2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709E7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP709H2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP710A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP711A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP711A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP711A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714C11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714C3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714C8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP714D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP715B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AA5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AA9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AB1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AB6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AC1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AD1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AF7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AK2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AK7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AM1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AM3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71AM5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71BU3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C56 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C79 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C80 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C81 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C82 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C83 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C84 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C85 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C86 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C87 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C88 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C90 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C91 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C92 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C93 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C94 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71C95 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71E14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71E5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71E9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71F11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71K14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71K24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71K29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71K8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71K9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71M2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71P5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71Q5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71R7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71S3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71T20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71T21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71T28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71V12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71V13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71V14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71V17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71V19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71V7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71V8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71W11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71W12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71X19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71X20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71X21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71Y12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71Y13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71Z13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP71Z16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP721B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP722B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP723A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP723A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP723A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP723A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP724B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP727A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP728A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP728B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP728B31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP729A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A169 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A255 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A286 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A354 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A357 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A358 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP72A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP733A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP734A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP734A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP734A37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP735A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP735A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP73A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP73A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP73A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP74A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP74A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP74A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP74E6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP74F2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP75A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP75B11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP75B57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP75B76 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76AS1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76H18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76H19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76H23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76H9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76L1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76M2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76M9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76N2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76P3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76Q2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP76U1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP77A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP77B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP78A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP78A130 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP78A131 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP78A133 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP78A53 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP78A55 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP78D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP79A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP79A41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP79A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP79A82 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81A14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81A32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81L7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81M4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81N4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81N5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP81P1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP84A-like | missing | Table S2: CYP84A-like (Si035174m) | user-provided-table-s2 |
+| CYP84A55 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP85A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP86A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP86A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP86A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP86B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP86E2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP87A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP87A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP87A44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP87B13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP87B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP87C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP88A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP88A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89B16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89B17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89B19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89B24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89B9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89C3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89C7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89E10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89E13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89E14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89E7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP89F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP90A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP90D10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP90D11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A100 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A47 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A67 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A71 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A92 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92A96 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP92C6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP93F6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP93G11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP93G5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP93G7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94B57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94C43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94C44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94C46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94C47 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94C71 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94D27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94D33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94D48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94E4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP94E8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP96B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP96B23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP96B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP96D3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP96D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP96E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP97A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP97B21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP97C19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP98A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP99A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP99A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP99A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP99A28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
+| CYP99A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Setaria.italica.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |

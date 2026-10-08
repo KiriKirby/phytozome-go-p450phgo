@@ -4,247 +4,253 @@ Category: `plants`
 
 Records: 242
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP701A30 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP703A13 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP704A14 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP704A63 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP704A64 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP704A70 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP704A75 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP704A76 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP704B30 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP706C14 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP706C16 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP706G5 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP707A22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP707A24 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP707A69 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP707A70 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP710A11 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP711A22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP712G1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP714A17 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP714A22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP714E15 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP714G9 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716A13 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716A36 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716A42 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716A43 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716A45 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716A46 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716A47 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716C6 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716D15 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP716D17 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP718A6 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP718A7 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AH9 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT16 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT17 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT21 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT30 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT33 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT36 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AT43 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AU2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AU32 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AU33 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AX10 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AX13 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AX2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71AX20 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BE17 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BE18 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BE6 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BG1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BM1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BN3 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BP1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BQ2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71BS1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D185 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D186 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D19 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D205 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D206 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D207 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D208 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D212 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D219 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D225 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D232 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D264 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D266 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D284 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D64 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP71D7 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP721A26 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP721A27 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP722C1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP724B16 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP724B2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP728B26 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A171 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A172 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A173 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A174 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A176 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A178 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A182 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A183 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A184 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A187 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A188 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A190 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A193 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A209 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A56 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72A57 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP72D8 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP734A22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP734A7 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP734A8 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP735A20 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP736A59 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP736A60 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP736A68 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP736A72 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP736A74 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP73A63 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP73A96 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP749A18 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP749A20 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP749B1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP74B1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP74C4 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP74D4 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP75A9 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP75B49 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76A19 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76A20 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76A21 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76A22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76A23 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76A6 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B12 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B13 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B18 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B24 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B25 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B26 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B30 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B38 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B43 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B50 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B51 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B52 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76B54 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76G10 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76Y5 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76Y7 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP76Y8 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP77A19 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP77A20 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP77B11 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP78A74 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP78A75 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP78A77 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP79A32 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP79A59 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP80E6 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP80F1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP80F3 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP80F4 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP80M1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81B37 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81B39 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81B40 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81C11 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81C8 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81Q30 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81Q31 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP81Y1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82C22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82D39 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82D40 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82D41 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82D42 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82E11 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82E12 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82M2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82M3 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82U1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82V1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82V2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP82W1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP84A2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP84A42 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP85A3 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP86A33 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP86A68 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP86A69 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP86B12 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP86G1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP87A19 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP87A21 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP87A29 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP87A7 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP87E3 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP88A35 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP88C1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP88C5 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP88G1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP89A35 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP89A69 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP89A72 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP89A73 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP90A5 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP90B3 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP90C2 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP90D19 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP92A51 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP92B25 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP92B3 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP92B5 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP93A42 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP93B13 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A16 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A24 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A26 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A37 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A41 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A48 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A5 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94A7 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94B17 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94B18 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94B19 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94C28 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94C29 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94C31 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94D34 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94D52 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP94K1 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP96A44 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP96A45 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP96A46 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP96A48 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP96A49 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP96A52 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP96A53 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP97A29 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP97B22 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP97C11 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP98A31 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
-| CYP98A51 | Parsed from normalized resource text; source file: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+Sequence audit: `0/242` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP701A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP703A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP704A14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP704A63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP704A64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP704A70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP704A75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP704A76 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP704B30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP706C14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP706C16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP706G5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP707A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP707A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP707A69 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP707A70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP710A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP711A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP712G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP714A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP714A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP714E15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP714G9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716A36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716A46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716A47 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716C6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716D15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP716D17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP718A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP718A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AH9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT36 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AT43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AU2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AU32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AU33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AX10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AX13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AX2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71AX20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BE17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BE18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BE6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BG1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BM1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BN3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BP1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BQ2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71BS1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D185 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D186 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D205 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D206 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D207 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D208 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D212 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D219 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D225 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D232 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D264 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D266 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D284 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP71D7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP720A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP721A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP721A27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP722A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP722C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP724B16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP724B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP728B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A171 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A172 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A173 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A174 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A176 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A178 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A182 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A183 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A184 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A187 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A188 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A190 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A193 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A209 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A56 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP72D8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP734A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP734A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP734A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP735A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP736A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP736A60 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP736A68 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP736A72 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP736A74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP73A63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP73A96 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP749A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP749A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP749B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP74A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP74B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP74C4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP74D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP75A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP75B49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B50 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76B54 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76G10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76Y5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76Y7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP76Y8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP77A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP77A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP77B11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP78A74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP78A75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP78A77 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP79A32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP79A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP80E6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP80F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP80F3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP80F4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP80M1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81B37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81B39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81B40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81C11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81C8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81Q30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81Q31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP81Y1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82C22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82D39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82D40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82D41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82D42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82E11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82E12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82M2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82M3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82U1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82V1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82V2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP82W1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP84A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP84A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP85A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP85A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP86A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP86A68 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP86A69 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP86B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP86G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP87A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP87A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP87A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP87A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP87E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP88A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP88C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP88C5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP88G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP89A35 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP89A69 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP89A72 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP89A73 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP90A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP90B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP90C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP90D19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP92A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP92B25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP92B3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP92B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP93A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP93B13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94B17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94B19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94C28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94C29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94C31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94D34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94D52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP94K1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP96A44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP96A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP96A46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP96A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP96A49 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP96A52 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP96A53 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP97A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP97B22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP97C11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP98A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |
+| CYP98A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Capsicum.annuum.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Capsicum.annuum.xlsx |

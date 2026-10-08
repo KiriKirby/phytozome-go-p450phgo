@@ -1,6 +1,11 @@
 package main
 
-import "testing"
+import (
+	"os"
+	"path/filepath"
+	"strings"
+	"testing"
+)
 
 func TestReviewedCAld5HTableSpeciesRelationships(t *testing.T) {
 	rows, err := readReviewedSources("../../sources")
@@ -31,5 +36,31 @@ func TestMergeRecordsDoesNotCrossAssignSpecies(t *testing.T) {
 	}
 	if rows[0].Species == rows[1].Species {
 		t.Fatal("species relationships collapsed")
+	}
+}
+
+func TestParseExtractedStopsAtTerminalFASTAAndSkipsAlignment(t *testing.T) {
+	dir := t.TempDir()
+	manifest := filepath.Join(dir, "resources.csv")
+	if err := os.WriteFile(manifest, []byte("category,species_label,source_url,local_file\nplants,Test species,https://example.test/x.doc,plants-test.doc\n"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(dir, "plant_resource_profiles.csv"), []byte("local_file,review_status\nplants-test.doc,reviewed\n"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	extracted := filepath.Join(dir, "extracted")
+	if err := os.MkdirAll(extracted, 0o755); err != nil {
+		t.Fatal(err)
+	}
+	text := ">CYP1A1 Test\n" + strings.Repeat("M", 120) + "*\nQuery: alignment text\n" + strings.Repeat("A", 800) + "\n"
+	if err := os.WriteFile(filepath.Join(extracted, "plants-test.txt"), []byte(text), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	rows, err := parseExtracted(manifest, extracted)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(rows) != 1 || len(rows[0].Sequence) != 120 {
+		t.Fatalf("rows=%#v", rows)
 	}
 }

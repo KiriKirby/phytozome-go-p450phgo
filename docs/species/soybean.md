@@ -4,157 +4,163 @@ Category: `plants`
 
 Records: 152
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP701A16 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP703A8 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP704A17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP704A24 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP705A18 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP706A10 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP706K1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP707A16 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP707A45 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP710A21 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP710A22 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP711A10 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP711A23 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP711A24 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP711A25 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP711A26 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP712A1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP712D3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP714A9 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP716G1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71A10 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71A33 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71A9 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71AH3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71AU9 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D10 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D100 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D101 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D102 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D104 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D105 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D54 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D8 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D9 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D96 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP71D99 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP727B1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP728B18 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP728B2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP72A120 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP72A121 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP72A61 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP72A67 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP72A68 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP72A69 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP733A2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP733A3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP734A17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP736A28 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP736A29 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP736A30 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP736A31 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP736A32 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP736A33 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP736A34 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP73A11 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP74A2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP74A3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP74C12 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP74C13 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP74C16 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP75A17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP75B40 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP76E3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP76E4 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP76E5 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP76F17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP76O2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP76X6 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP77A3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP77B5 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP77B9 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP78A3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP78A43 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP78A44 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP79D17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP81E10 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP81E11 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP81E12 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP81E17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP81E18 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82A18 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82A2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82A3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82A4 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82C1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82D25 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82D26 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82D27 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82D28 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP82E13 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83D1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E12 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E13 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E14 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E18 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E19 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E20 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E21 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83E8 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP83G3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP84A16 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP84A21 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP85A12 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP85A13 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP85A14 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP85A15 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP85A16 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP86A24 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP86A34 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP87A9 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP88A11 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP88A25 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP88A26 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP89A36 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP89A43 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP89H3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90A14 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90A15 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90A20 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90A23 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90A24 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90B15 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90C8 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90C9 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90D12 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP90D13 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP92A42 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP92A43 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93A1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93A19 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93A2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93A3 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93B12 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93B16 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93B17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93C4 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93C5 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP93E1 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP94A17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP94C18 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP94C19 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP96A31 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP97A10 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP97B2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP97C16 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP97C17 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
-| CYP98A2 | Parsed from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+Sequence audit: `81/152` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | present (475 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP701A16 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP703A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP704A17 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP704A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP705A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP706A10 | present (298 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP706K1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP707A16 | present (468 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP707A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP710A21 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP710A22 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP711A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP711A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP711A24 | present (409 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP711A25 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP711A26 | present (548 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP712A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP712D3 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP714A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP716G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71A10 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71AH3 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71AU9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D10 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D100 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D101 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D102 | present (286 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D104 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D105 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D54 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D8 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D9 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D96 | present (266 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP71D99 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP722A1 | present (109 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP727B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP728B18 | present (474 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP728B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP72A120 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP72A121 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP72A61 | present (405 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP72A67 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP72A68 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP72A69 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP733A2 | present (404 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP733A3 | present (252 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP734A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP736A28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP736A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP736A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP736A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP736A32 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP736A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP736A34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP73A11 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP74A1 | present (193 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP74A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP74A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP74C12 | present (487 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP74C13 | present (202 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP74C16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP75A17 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP75B40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP76E3 | present (381 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP76E4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP76E5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP76F17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP76O2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP76X6 | present (492 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP77A3 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP77B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP77B9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP78A3 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP78A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP78A44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP79D17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP81E10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP81E11 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP81E12 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP81E17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP81E18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82A2 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82A3 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82A4 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82C1 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82D25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82D26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82D27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82D28 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP82E13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83D1 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E12 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E14 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E17 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E18 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E19 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E20 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E21 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83E8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP83G3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP84A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP84A21 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP85A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP85A13 | present (464 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP85A14 | present (464 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP85A15 | present (400 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP85A16 | present (401 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP86A24 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP86A34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP87A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP88A11 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP88A25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP88A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP89A36 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP89A43 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP89H3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90A14 | present (472 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90A20 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90A23 | present (474 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90A24 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90B15 | present (448 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90C8 | present (493 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90C9 | present (481 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90D12 | present (448 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP90D13 | present (447 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP92A42 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP92A43 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93A1 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93A2 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93A3 | present (102 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93B12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93B16 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93B17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93C4 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93C5 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP93E1 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP94A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP94C18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP94C19 | present (341 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP96A31 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP97A10 | present (399 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP97B2 | present (576 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP97C16 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP97C17 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |
+| CYP98A2 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-soybean.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/soybean.doc |

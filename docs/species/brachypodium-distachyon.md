@@ -4,232 +4,238 @@ Category: `plants`
 
 Records: 227
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP51G3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP51H14 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP51H15 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP51H16 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP701A27 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP701A28 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP701A29 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP703A3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP704A3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP704A41 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP704A44 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP704A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP704B2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP706C10 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP706C11 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP707A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP707A66 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709C15 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709C16 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709C17 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709E1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709E2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709J1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709J2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP709J3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP710A7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP710A8 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP711A29 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP711A30 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP711A31 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP711A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP711A6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP714B6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP714B7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP714C2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP714C6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP714C7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP714D1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP715B1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AA10 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AA6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AA7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AA8 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AA9 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AB4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AD1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AF4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AF5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AF6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AK2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71AM1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71C43 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71C44 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71C48 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71C50 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71C52 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71C55 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71E10 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71E9 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71F10 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71F3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71F4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71F5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71F6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71F8 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71F9 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71K17 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71K18 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71K19 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71K20 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71K21 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71K22 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71K23 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71P1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71Q5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71R5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71S4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71T15 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71T16 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71V10 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71V11 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71W8 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71X18 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71Y11 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71Y12 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP71Z11 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP721B1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP721B2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP722B1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP723A9 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP724B1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP727A1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP728A3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP728A4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP728A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP728B3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP728C12 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP729A18 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP729A21 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A156 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A157 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A158 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A160 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A161 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A162 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A163 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A164 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A165 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A166 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A167 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A168 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A169 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP72A170 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP733A1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP734A2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP734A4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP734A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP734A6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP735A3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP735A4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP73A92 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP73A93 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP73A94 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP74A4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP74A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP74E4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP74F1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP75A49 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP75B51 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP75B52 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP75B53 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP75B54 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP76H20 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP76H21 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP76K1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP76L1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP76P7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP77A18 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP77B2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP78A15 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP78A16 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP78A17 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP79A39 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP79A40 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP79A41 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP79A42 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81A28 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81A29 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81L7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81M1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81N6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81N7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81P2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP81P3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP84A41 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP84A42 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP84A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP84A5 | Table S2: CYP84A5 (Bradi3g30590.1) | user-provided-table-s2 |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP86A10 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP86A9 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP86B3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP86E1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP87A4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP87A5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP87A6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP87B13 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP87C7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP87C8 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP88A31 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP88A33 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP88A34 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89B18 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89B3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89B4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89C4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89D1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89E10 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89E3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89E5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89E6 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89E7 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89E8 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89E9 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89G1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89J1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP89J2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP90A28 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP90B2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP90D17 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP90D2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP92A48 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP92A49 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP92A9 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP92C1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP93F1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP93G1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP93G2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94B4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94C2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94C26 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94C27 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94C3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94C4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94D28 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94D29 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94D31 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94D33 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94E2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP94E3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B11 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B13 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B14 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B15 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B16 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B3 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96B5 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96D1 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP96D2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP97A4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP97B4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP97C2 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP98A4 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP99A13 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
-| CYP99A14 | Parsed from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+Sequence audit: `225/227` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | present (490 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP51G3 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP51H14 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP51H15 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP51H16 | present (489 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP701A27 | present (464 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP701A28 | present (487 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP701A29 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP703A3 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP704A3 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP704A41 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP704A44 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP704A5 | present (491 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP704B2 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP706C10 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP706C11 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP707A5 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP707A66 | present (495 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709C15 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709C16 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709C17 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709E1 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709E2 | present (543 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709J1 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709J2 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP709J3 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP710A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP710A8 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP711A29 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP711A30 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP711A31 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP711A5 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP711A6 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP714B6 | present (539 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP714B7 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP714C2 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP714C6 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP714C7 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP714D1 | present (546 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP715B1 | present (548 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AA10 | present (402 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AA6 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AA7 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AA8 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AA9 | present (488 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AB4 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AD1 | present (551 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AF4 | present (475 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AF5 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AF6 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AK2 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71AM1 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71C43 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71C44 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71C48 | present (257 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71C50 | present (542 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71C52 | present (553 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71C55 | present (546 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71E10 | present (542 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71E9 | present (543 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71F10 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71F3 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71F4 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71F5 | present (558 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71F6 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71F8 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71F9 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71K17 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71K18 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71K19 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71K20 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71K21 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71K22 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71K23 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71P1 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71Q5 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71R5 | present (534 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71S4 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71T15 | present (542 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71T16 | present (494 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71V10 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71V11 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71W8 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71X18 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71Y11 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71Y12 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP71Z11 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP721B1 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP721B2 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP722B1 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP723A9 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP724B1 | present (477 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP727A1 | present (581 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP728A3 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP728A4 | present (475 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP728A5 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP728B3 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP728C12 | present (476 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP729A18 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP729A21 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A156 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A157 | present (549 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A158 | present (540 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A160 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A161 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A162 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A163 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A164 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A165 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A166 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A167 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A168 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A169 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP72A170 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP733A1 | present (305 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP734A2 | present (561 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP734A4 | present (555 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP734A5 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP734A6 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP735A3 | present (535 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP735A4 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP73A92 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP73A93 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP73A94 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP74A4 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP74A5 | present (486 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP74E4 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP74F1 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP75A49 | present (452 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP75B51 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP75B52 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP75B53 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP75B54 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP76H20 | present (499 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP76H21 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP76K1 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP76L1 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP76P7 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP77A18 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP77B2 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP78A15 | present (572 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP78A16 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP78A17 | present (561 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP79A39 | present (536 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP79A40 | present (543 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP79A41 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP79A42 | present (554 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81A28 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81A29 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81L7 | present (525 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81M1 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81N6 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81N7 | present (535 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81P2 | present (549 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP81P3 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP84A41 | present (541 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP84A42 | present (540 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP84A5 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP84A5 | missing | Table S2: CYP84A5 (Bradi3g30590.1) | user-provided-table-s2 |
+| CYP85A1 | present (402 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP86A10 | present (537 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP86A9 | present (555 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP86B3 | present (547 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP86E1 | present (532 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP87A4 | present (488 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP87A5 | present (478 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP87A6 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP87B13 | present (489 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP87C7 | present (488 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP87C8 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP88A31 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP88A33 | present (493 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP88A34 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89B18 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89B3 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89B4 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89C4 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89D1 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89E10 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89E3 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89E5 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89E6 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89E7 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89E8 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89E9 | present (569 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89G1 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89J1 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP89J2 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP90A28 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP90B2 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP90D17 | present (491 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP90D2 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP92A48 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP92A49 | present (546 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP92A9 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP92C1 | present (526 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP93F1 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP93G1 | present (549 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP93G2 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94B4 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94C2 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94C26 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94C27 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94C3 | present (529 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94C4 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94D28 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94D29 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94D31 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94D33 | present (516 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94E2 | present (542 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP94E3 | present (416 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B11 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B13 | present (526 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B14 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B15 | present (543 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B16 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B3 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B4 | present (530 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96B5 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96D1 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP96D2 | present (526 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP97A4 | present (641 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP97B4 | present (569 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP97C2 | present (550 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP98A4 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP99A13 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
+| CYP99A14 | present (438 aa) | Parsed FASTA from normalized resource text; source file: plants-Brachypodium.FASTA.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |

@@ -4,193 +4,199 @@ Category: `plants`
 
 Records: 188
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP701A17 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP703A8 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704B11 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704G1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704G2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704G3 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704G5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704G6 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704G7 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP704G9 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP706A11 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP706A12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP707A16 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP707A17 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP707A18 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP707A19 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP709B4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP710A15 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP711A10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP711A12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP712B1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP714A4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP714E1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP714E7 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP715A4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP716A12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP716D4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP716D5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP716G1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71A29 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71A30 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71A31 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D56 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D57 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D58 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D59 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D60 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D61 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D62 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D63 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D64 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D65 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D66 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D67 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D70 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D72 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D73 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D74 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D75 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D77 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D78 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D79 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D81 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D82 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D85 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D86 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D87 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D89 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D90 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D92 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP71D93 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP721A11 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP726B1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP726C1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP727B1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP728B2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP729A2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP729A5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A59 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A61 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A62 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A63 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A64 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A65 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A66 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A67 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A68 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP72A70 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP734A12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP735A10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP736A1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP736A13 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP73A3 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP74A1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP74B4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP74C12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP74C13 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP75C1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76E1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76E2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76O1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76W1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76X1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76X2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76X3 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76X4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP76X5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP77A12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP77B5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP78A29 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP78F1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP79D12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP79D13 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP79D14 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP81E10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP81E7 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP81E8 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP81E9 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A11 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A13 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A14 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A6 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A7 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A8 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82A9 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP82D1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83D3 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83D4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83D5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83E1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83E10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83E11 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83E8 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83E9 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83G1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83G2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83H1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP83H2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP84A15 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP84A17 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP84A18 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP84A19 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP84A20 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP84MS1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP84MS2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP85A1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP86A23 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP86A24 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP86B6 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP87A1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP87A9 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP88A13 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP88A14 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP88D1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89A28 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89A29 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89A30 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89A31 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89A32 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89A33 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89A34 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89H1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP89H2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP90A14 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP90B1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP90B10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP90B11 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP90C4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP92A29 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93A8 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93B10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93B11 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93B12 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93C19 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93C20 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93C5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93C8 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93E2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP93H1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP94A14 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP94C10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP94C9 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP94D24 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP96J1 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP96J2 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP96J4 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP96J5 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP96J6 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP97A10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP97B13 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP97C10 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP97C9 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
-| CYP98A37 | Parsed from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+Sequence audit: `102/188` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | present (489 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP701A17 | present (437 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP703A8 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704B11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704G2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704G3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704G5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704G6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704G7 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP704G9 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP706A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP706A12 | present (206 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP707A16 | present (468 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP707A17 | present (464 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP707A18 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP707A19 | present (465 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP709B4 | present (398 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP710A15 | present (515 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP711A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP711A12 | present (541 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP712B1 | present (513 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP714A4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP714E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP714E7 | present (380 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP715A4 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP716A12 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP716D4 | present (476 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP716D5 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP716G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71A29 | present (128 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71A31 | present (310 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D56 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D58 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D59 | present (533 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D60 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D61 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D62 | present (502 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D64 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D65 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D66 | present (135 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D67 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D72 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D73 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D74 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D75 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D77 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D78 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D79 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D81 | present (505 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D82 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D85 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D86 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D87 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D89 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D90 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D92 | present (325 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP71D93 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP720A1 | present (233 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP721A11 | present (507 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP722A1 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP726B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP726C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP727B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP728B2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP729A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP729A5 | present (283 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A59 | present (518 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A61 | present (528 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A62 | present (426 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A64 | present (479 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A65 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A66 | present (354 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A67 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A68 | present (520 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP72A70 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP734A12 | present (373 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP735A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP736A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP736A13 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP73A3 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP74A1 | present (524 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP74B4 | present (480 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP74C12 | present (485 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP74C13 | present (482 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP75C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76E1 | present (503 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76E2 | present (221 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76O1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76W1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76X1 | present (489 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76X2 | present (489 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76X3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76X4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP76X5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP77A12 | present (276 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP77B5 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP78A29 | present (546 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP78F1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP79D12 | present (531 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP79D13 | present (527 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP79D14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP81E10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP81E7 | present (498 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP81E8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP81E9 | present (501 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP82D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83D3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83E10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83E11 | present (462 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83E8 | present (497 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83E9 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83G2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP83H2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP84A15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP84A17 | present (475 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP84A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP84A19 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP84A20 | present (519 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP84MS1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP84MS2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP85A1 | present (138 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP86A23 | present (330 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP86A24 | present (540 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP86B6 | present (570 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP87A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP87A9 | present (483 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP88A13 | present (447 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP88A14 | present (285 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP88D1 | present (487 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89A28 | present (506 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89A29 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89A30 | present (449 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89A31 | present (393 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89A32 | present (504 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89A33 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89A34 | present (510 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP89H2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP90A14 | present (191 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP90B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP90B10 | present (476 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP90B11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP90C4 | present (495 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP92A29 | present (512 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93A8 | present (511 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93B11 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93B12 | present (496 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93C19 | present (523 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93C20 | present (522 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93C5 | present (521 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93C8 | present (500 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93E2 | present (514 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP93H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP94A14 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP94C10 | present (310 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP94C9 | present (517 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP94D24 | present (508 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP96J1 | present (450 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP96J2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP96J4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP96J5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP96J6 | present (135 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP97A10 | present (426 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP97B13 | present (574 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP97C10 | present (563 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP97C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |
+| CYP98A37 | present (509 aa) | Parsed FASTA from normalized resource text; source file: plants-medicago.seqs.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/medicago.seqs.doc |

@@ -4,163 +4,169 @@ Category: `plants`
 
 Records: 158
 
-| CYP / ID | Description | Source |
-|---|---|---|
-| CYP51G1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP701A16 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP703A7 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP704A91 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP704B28 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP706C27 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP706C28 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP706C29 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP707A21 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP707A45 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP707A59 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP707A91 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP709B4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP710A22 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP710A57 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP711A23 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP711A9 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP712B1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP715A12 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP715A13 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP715A23 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP716A51 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP716D9 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP716G1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP718A8 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71A29 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71A30 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71AP4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D11 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D125 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D353 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D394 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D408 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D61 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D62 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D77 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D79 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP71D81 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP720A1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP721A11 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP722A1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP722C1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP724A1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP728B18 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP728B26 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP728H1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP729A6 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP72A153 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP72A61 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP72A63 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP735A24 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A13 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A2 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A33 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A34 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A38 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A39 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A48 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP736A80 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP73A87 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP74A21 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP74A22 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP74B15 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP74C11 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP74C12 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP75A17 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP75A55 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP75B33 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP75B78 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76A18 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76E1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76E3 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76E4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76E5 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76F17 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76F18 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76F44 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76G8 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76X12 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76X4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP76Y13 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP77A30 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP77B5 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP78A109 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP78A62 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP78A68 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP78A97 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP79D12 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP79D14 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP79D3 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP79D37 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP79D4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP81E16 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP81E4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP81E40 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP81E41 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP81E46 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP81E6 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82A12 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82A26 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82A29 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82A38 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82A9 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82D1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82D25 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82D26 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82D27 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82D30 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82J4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP82L5 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83D3 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83E2 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83E3 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83E4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83E5 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83E6 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83E7 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP83E9 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP84A17 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP85A22 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP86A24 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP86A30 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP86A65 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP86A85 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP86B6 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP87A9 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP88A26 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP88D4 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP88D5 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP88D6 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP89A31 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP89A33 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP89A63 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP89A64 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP89A66 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP90A20 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP90B10 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP90C9 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP90D25 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP92A42 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93A19 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93A26 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93A30 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93A59 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93A62 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93C17 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93C2 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP93E3 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP94A1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP94A3 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP94C19 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP94D26 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP96A40 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP96A41 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP96J1 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP97A10 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP97C17 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
-| CYP98A44 | Parsed from normalized resource text; source file: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+Sequence audit: `0/158` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): ``.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP701A16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP703A7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP704A91 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP704B28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP706C27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP706C28 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP706C29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP707A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP707A45 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP707A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP707A91 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP709B4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP710A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP710A57 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP711A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP711A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP712B1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP715A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP715A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP715A23 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP716A51 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP716D9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP716G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP718A8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71AP4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D125 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D353 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D394 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D408 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D61 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D62 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D77 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D79 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP71D81 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP720A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP721A11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP722A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP722C1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP724A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP728B18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP728B26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP728H1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP729A6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP72A153 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP72A61 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP72A63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP735A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A34 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A39 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A48 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP736A80 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP73A87 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP74A21 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP74A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP74B15 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP74C11 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP74C12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP75A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP75A55 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP75B33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP75B78 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76A18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76E1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76E4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76E5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76F17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76F18 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76F44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76G8 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76X12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76X4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP76Y13 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP77A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP77B5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP78A109 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP78A62 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP78A68 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP78A97 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP79D12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP79D14 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP79D3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP79D37 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP79D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP81E16 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP81E4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP81E40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP81E41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP81E46 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP81E6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82A12 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82A29 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82A38 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82D1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82D25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82D26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82D27 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82D30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82J4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP82L5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83D3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83E2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83E4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83E5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83E6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83E7 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP83E9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP84A17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP85A22 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP86A24 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP86A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP86A65 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP86A85 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP86B6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP87A9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP88A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP88D4 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP88D5 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP88D6 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP89A31 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP89A33 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP89A63 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP89A64 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP89A66 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP90A20 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP90B10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP90C9 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP90D25 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP92A42 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93A19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93A26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93A30 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93A59 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93A62 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93C17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93C2 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP93E3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP94A1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP94A3 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP94C19 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP94D26 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP96A40 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP96A41 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP96J1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP97A10 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP97C17 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
+| CYP98A44 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Lotus.japonicus.xlsx | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.japonicus.xlsx |
