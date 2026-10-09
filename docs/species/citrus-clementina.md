@@ -1,0 +1,620 @@
+# Citrus clementina
+
+Category: `plants`
+
+Records: 606
+
+Sequence audit: `308/606` records have an accepted sequence; short records (<100 aa): `2`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `FASTA block`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP71AN25 | present (525 aa) | resource-specific HTML FASTA block 1; header=CYP71AN25 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN27 | present (527 aa) | resource-specific HTML FASTA block 2; header=CYP71AN27 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN28 | present (537 aa) | resource-specific HTML FASTA block 3; header=CYP71AN28 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN34 | present (396 aa) | resource-specific HTML FASTA block 4; header=CYP71AN34 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN29P | present (304 aa) | resource-specific HTML FASTA block 5; header=CYP71AN29P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN33 | present (512 aa) | resource-specific HTML FASTA block 6; header=CYP71AN33 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN32 | present (508 aa) | resource-specific HTML FASTA block 7; header=CYP71AN32 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AH16 | present (487 aa) | resource-specific HTML FASTA block 8; header=CYP71AH16 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71CE1 | present (430 aa) | resource-specific HTML FASTA block 9; header=CYP71CE1 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN35 | present (473 aa) | resource-specific HTML FASTA block 10; header=CYP71AN35 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AU54 | present (523 aa) | resource-specific HTML FASTA block 11; header=CYP71AU54 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AN26 | present (506 aa) | resource-specific HTML FASTA block 12; header=CYP71AN26 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BF11 | present (523 aa) | resource-specific HTML FASTA block 13; header=CYP71BF11 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AU55 | present (506 aa) | resource-specific HTML FASTA block 14; header=CYP71AU55 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AQ15 | present (543 aa) | resource-specific HTML FASTA block 15; header=CYP71AQ15 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BG9 | present (411 aa) | resource-specific HTML FASTA block 16; header=CYP71BG9 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A77 | present (534 aa) | resource-specific HTML FASTA block 17; header=CYP92A77 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AS1 | present (519 aa) | resource-specific HTML FASTA block 18; header=CYP71AS1 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A81 | present (517 aa) | resource-specific HTML FASTA block 19; header=CYP92A81 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE38 | present (453 aa) | resource-specific HTML FASTA block 20; header=CYP71BE38 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE47P | present (30 aa) | resource-specific HTML FASTA block 21; header=CYP71BE47P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE48P | present (78 aa) | resource-specific HTML FASTA block 22; header=CYP71BE48P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A88 | present (513 aa) | resource-specific HTML FASTA block 23; header=CYP92A88 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A87 | present (512 aa) | resource-specific HTML FASTA block 24; header=CYP92A87 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A82 | present (507 aa) | resource-specific HTML FASTA block 25; header=CYP92A82 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP736A124 | present (499 aa) | resource-specific HTML FASTA block 26; header=CYP736A124 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A84 | present (426 aa) | resource-specific HTML FASTA block 27; header=CYP92A84 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A79 | present (517 aa) | resource-specific HTML FASTA block 28; header=CYP92A79 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A85 | present (513 aa) | resource-specific HTML FASTA block 29; header=CYP92A85 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE44 | present (502 aa) | resource-specific HTML FASTA block 30; header=CYP71BE44 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71-un6 | present (339 aa) | resource-specific HTML FASTA block 31; header=CYP71-un6 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BQ4 | present (514 aa) | resource-specific HTML FASTA block 32; header=CYP71BQ4 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71D415 | present (504 aa) | resource-specific HTML FASTA block 33; header=CYP71D415 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AP15 | present (490 aa) | resource-specific HTML FASTA block 34; header=CYP71AP15 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A83 | present (514 aa) | resource-specific HTML FASTA block 35; header=CYP92A83 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A78 | present (509 aa) | resource-specific HTML FASTA block 36; header=CYP92A78 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE45 | present (510 aa) | resource-specific HTML FASTA block 37; header=CYP71BE45 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BQ3 | present (491 aa) | resource-specific HTML FASTA block 38; header=CYP71BQ3 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE49 | present (476 aa) | resource-specific HTML FASTA block 39; header=CYP71BE49 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BQ2 | present (481 aa) | resource-specific HTML FASTA block 40; header=CYP71BQ2 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AS16 | present (513 aa) | resource-specific HTML FASTA block 41; header=CYP71AS16 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE39 | present (511 aa) | resource-specific HTML FASTA block 42; header=CYP71BE39 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A86 | present (513 aa) | resource-specific HTML FASTA block 43; header=CYP92A86 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71AS15 | present (510 aa) | resource-specific HTML FASTA block 44; header=CYP71AS15 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE42 | present (503 aa) | resource-specific HTML FASTA block 45; header=CYP71BE42 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE40 | present (422 aa) | resource-specific HTML FASTA block 46; header=CYP71BE40 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE41 | present (505 aa) | resource-specific HTML FASTA block 47; header=CYP71BE41 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BE46 | present (511 aa) | resource-specific HTML FASTA block 48; header=CYP71BE46 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BG4 | present (569 aa) | resource-specific HTML FASTA block 49; header=CYP71BG4 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP736A126 | present (499 aa) | resource-specific HTML FASTA block 50; header=CYP736A126 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71CD1 | present (513 aa) | resource-specific HTML FASTA block 51; header=CYP71CD1 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP736A125 | present (499 aa) | resource-specific HTML FASTA block 52; header=CYP736A125 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71BG8 | present (522 aa) | resource-specific HTML FASTA block 53; header=CYP71BG8 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP71D416 | present (429 aa) | resource-specific HTML FASTA block 54; header=CYP71D416 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP92A89P | present (367 aa) | resource-specific HTML FASTA block 55; header=CYP92A89P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP736A127 | present (431 aa) | resource-specific HTML FASTA block 56; header=CYP736A127 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP73A37 | present (506 aa) | resource-specific HTML FASTA block 57; header=CYP73A37 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP73A29 | present (489 aa) | resource-specific HTML FASTA block 58; header=CYP73A29 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP75B81 | present (539 aa) | resource-specific HTML FASTA block 59; header=CYP75B81 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP75A58 | present (515 aa) | resource-specific HTML FASTA block 60; header=CYP75A58 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F64 | present (435 aa) | resource-specific HTML FASTA block 61; header=CYP76F64 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F48 | present (507 aa) | resource-specific HTML FASTA block 62; header=CYP76F48 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F53 | present (500 aa) | resource-specific HTML FASTA block 63; header=CYP76F53 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F46 | present (495 aa) | resource-specific HTML FASTA block 64; header=CYP76F46 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F59 | present (496 aa) | resource-specific HTML FASTA block 65; header=CYP76F59 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F47 | present (495 aa) | resource-specific HTML FASTA block 66; header=CYP76F47 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F60 | present (496 aa) | resource-specific HTML FASTA block 67; header=CYP76F60 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F50 | present (496 aa) | resource-specific HTML FASTA block 68; header=CYP76F50 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F68 | present (497 aa) | resource-specific HTML FASTA block 69; header=CYP76F68 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F61 | present (502 aa) | resource-specific HTML FASTA block 70; header=CYP76F61 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F49 | present (496 aa) | resource-specific HTML FASTA block 71; header=CYP76F49 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F51 | present (500 aa) | resource-specific HTML FASTA block 72; header=CYP76F51 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F65 | present (537 aa) | resource-specific HTML FASTA block 73; header=CYP76F65 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F56 | present (496 aa) | resource-specific HTML FASTA block 74; header=CYP76F56 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F69 | present (476 aa) | resource-specific HTML FASTA block 75; header=CYP76F69 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F63 | present (483 aa) | resource-specific HTML FASTA block 76; header=CYP76F63 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F57Citrus | present (496 aa) | resource-specific HTML FASTA block 77; header=CYP76F57Citrus | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F54 | present (496 aa) | resource-specific HTML FASTA block 78; header=CYP76F54 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F66 | present (452 aa) | resource-specific HTML FASTA block 79; header=CYP76F66 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76F67P | present (339 aa) | resource-specific HTML FASTA block 80; header=CYP76F67P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76G17 | present (513 aa) | resource-specific HTML FASTA block 81; header=CYP76G17 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76A38 | present (516 aa) | resource-specific HTML FASTA block 82; header=CYP76A38 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP76A37 | present (513 aa) | resource-specific HTML FASTA block 83; header=CYP76A37 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP77A13 | present (509 aa) | resource-specific HTML FASTA block 84; header=CYP77A13 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP77B19 | present (509 aa) | resource-specific HTML FASTA block 85; header=CYP77B19 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP78A119 | present (526 aa) | resource-specific HTML FASTA block 86; header=CYP78A119 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP78A120 | present (520 aa) | resource-specific HTML FASTA block 87; header=CYP78A120 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP78A121 | present (522 aa) | resource-specific HTML FASTA block 88; header=CYP78A121 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP78A118 | present (536 aa) | resource-specific HTML FASTA block 89; header=CYP78A118 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP78A123 | present (532 aa) | resource-specific HTML FASTA block 90; header=CYP78A123 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A78 | present (546 aa) | resource-specific HTML FASTA block 91; header=CYP79A78 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP78A122 | present (620 aa) | resource-specific HTML FASTA block 92; header=CYP78A122 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A74 | present (502 aa) | resource-specific HTML FASTA block 93; header=CYP79A74 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A69 | present (553 aa) | resource-specific HTML FASTA block 94; header=CYP79A69 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A70 | present (586 aa) | resource-specific HTML FASTA block 95; header=CYP79A70 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A79 | present (504 aa) | resource-specific HTML FASTA block 96; header=CYP79A79 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A73 | present (503 aa) | resource-specific HTML FASTA block 97; header=CYP79A73 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A72 | present (622 aa) | resource-specific HTML FASTA block 98; header=CYP79A72 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A77 | present (570 aa) | resource-specific HTML FASTA block 99; header=CYP79A77 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A75 | present (543 aa) | resource-specific HTML FASTA block 100; header=CYP79A75 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP79A71 | present (509 aa) | resource-specific HTML FASTA block 101; header=CYP79A71 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81B63 | present (507 aa) | resource-specific HTML FASTA block 102; header=CYP81B63 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81Q45 | present (502 aa) | resource-specific HTML FASTA block 103; header=CYP81Q45 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81Q46 | present (519 aa) | resource-specific HTML FASTA block 104; header=CYP81Q46 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81Q44 | present (506 aa) | resource-specific HTML FASTA block 105; header=CYP81Q44 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81AE1 | present (486 aa) | resource-specific HTML FASTA block 106; header=CYP81AE1 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81B66 | present (507 aa) | resource-specific HTML FASTA block 107; header=CYP81B66 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81B65 | present (504 aa) | resource-specific HTML FASTA block 108; header=CYP81B65 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81B67 | present (500 aa) | resource-specific HTML FASTA block 109; header=CYP81B67 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP81C17 | present (515 aa) | resource-specific HTML FASTA block 110; header=CYP81C17 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D85 | present (529 aa) | resource-specific HTML FASTA block 111; header=CYP82D85 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D91 | present (529 aa) | resource-specific HTML FASTA block 112; header=CYP82D91 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D86 | present (455 aa) | resource-specific HTML FASTA block 113; header=CYP82D86 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D84 | present (524 aa) | resource-specific HTML FASTA block 114; header=CYP82D84 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D75 | present (336 aa) | resource-specific HTML FASTA block 115; header=CYP82D75 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82C47 | present (522 aa) | resource-specific HTML FASTA block 116; header=CYP82C47 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D64 | present (528 aa) | resource-specific HTML FASTA block 117; header=CYP82D64 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D77 | present (371 aa) | resource-specific HTML FASTA block 118; header=CYP82D77 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82C46 | present (525 aa) | resource-specific HTML FASTA block 119; header=CYP82C46 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82C49 | present (525 aa) | resource-specific HTML FASTA block 120; header=CYP82C49 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D87 | present (529 aa) | resource-specific HTML FASTA block 121; header=CYP82D87 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D79 | present (453 aa) | resource-specific HTML FASTA block 122; header=CYP82D79 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D78 | present (526 aa) | resource-specific HTML FASTA block 123; header=CYP82D78 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D73 | present (368 aa) | resource-specific HTML FASTA block 124; header=CYP82D73 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D74 | present (368 aa) | resource-specific HTML FASTA block 125; header=CYP82D74 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D92 | present (526 aa) | resource-specific HTML FASTA block 126; header=CYP82D92 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D93 | present (474 aa) | resource-specific HTML FASTA block 127; header=CYP82D93 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D82 | present (538 aa) | resource-specific HTML FASTA block 128; header=CYP82D82 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82C48 | present (440 aa) | resource-specific HTML FASTA block 129; header=CYP82C48 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D83 | present (526 aa) | resource-specific HTML FASTA block 130; header=CYP82D83 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D81 | present (525 aa) | resource-specific HTML FASTA block 131; header=CYP82D81 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D90 | present (371 aa) | resource-specific HTML FASTA block 132; header=CYP82D90 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D72 | present (409 aa) | resource-specific HTML FASTA block 133; header=CYP82D72 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D76 | present (351 aa) | resource-specific HTML FASTA block 134; header=CYP82D76 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D89 | present (424 aa) | resource-specific HTML FASTA block 135; header=CYP82D89 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82D88 | present (429 aa) | resource-specific HTML FASTA block 136; header=CYP82D88 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82L10 | present (526 aa) | resource-specific HTML FASTA block 137; header=CYP82L10 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP82L11 | present (521 aa) | resource-specific HTML FASTA block 138; header=CYP82L11 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F29 | present (441 aa) | resource-specific HTML FASTA block 139; header=CYP83F29 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F13 | present (509 aa) | resource-specific HTML FASTA block 140; header=CYP83F13 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F30 | present (503 aa) | resource-specific HTML FASTA block 141; header=CYP83F30 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F20 | present (479 aa) | resource-specific HTML FASTA block 142; header=CYP83F20 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F31 | present (506 aa) | resource-specific HTML FASTA block 143; header=CYP83F31 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F15 | present (506 aa) | resource-specific HTML FASTA block 144; header=CYP83F15 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F32 | present (506 aa) | resource-specific HTML FASTA block 145; header=CYP83F32 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F14 | present (477 aa) | resource-specific HTML FASTA block 146; header=CYP83F14 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F34 | present (509 aa) | resource-specific HTML FASTA block 147; header=CYP83F34 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F33 | present (506 aa) | resource-specific HTML FASTA block 148; header=CYP83F33 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F27P | present (508 aa) | resource-specific HTML FASTA block 149; header=CYP83F27P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F24 | present (505 aa) | resource-specific HTML FASTA block 150; header=CYP83F24 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F36 | present (510 aa) | resource-specific HTML FASTA block 151; header=CYP83F36 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F22 | present (517 aa) | resource-specific HTML FASTA block 152; header=CYP83F22 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F37 | present (313 aa) | resource-specific HTML FASTA block 153; header=CYP83F37 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F39 | present (508 aa) | resource-specific HTML FASTA block 154; header=CYP83F39 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F26 | present (507 aa) | resource-specific HTML FASTA block 155; header=CYP83F26 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F40 | present (469 aa) | resource-specific HTML FASTA block 156; header=CYP83F40 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F38 | present (526 aa) | resource-specific HTML FASTA block 157; header=CYP83F38 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F21 | present (508 aa) | resource-specific HTML FASTA block 158; header=CYP83F21 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F41 | present (491 aa) | resource-specific HTML FASTA block 159; header=CYP83F41 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F25 | present (512 aa) | resource-specific HTML FASTA block 160; header=CYP83F25 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F42 | present (485 aa) | resource-specific HTML FASTA block 161; header=CYP83F42 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F43P | present (389 aa) | resource-specific HTML FASTA block 162; header=CYP83F43P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F35P | present (445 aa) | resource-specific HTML FASTA block 163; header=CYP83F35P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP83F28P | present (418 aa) | resource-specific HTML FASTA block 164; header=CYP83F28P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP84A62 | present (515 aa) | resource-specific HTML FASTA block 165; header=CYP84A62 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP84A63 | present (557 aa) | resource-specific HTML FASTA block 166; header=CYP84A63 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89A121 | present (522 aa) | resource-specific HTML FASTA block 167; header=CYP89A121 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89A116 | present (536 aa) | resource-specific HTML FASTA block 168; header=CYP89A116 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89A120 | present (516 aa) | resource-specific HTML FASTA block 169; header=CYP89A120 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89A118 | present (513 aa) | resource-specific HTML FASTA block 170; header=CYP89A118 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89A117 | present (530 aa) | resource-specific HTML FASTA block 171; header=CYP89A117 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89A119 | present (512 aa) | resource-specific HTML FASTA block 172; header=CYP89A119 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89A123 | present (334 aa) | resource-specific HTML FASTA block 173; header=CYP89A123 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP89L1 | present (524 aa) | resource-specific HTML FASTA block 174; header=CYP89L1 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93A65 | present (519 aa) | resource-specific HTML FASTA block 175; header=CYP93A65 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93A69 | present (514 aa) | resource-specific HTML FASTA block 176; header=CYP93A69 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93A70 | present (514 aa) | resource-specific HTML FASTA block 177; header=CYP93A70 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93A66 | present (500 aa) | resource-specific HTML FASTA block 178; header=CYP93A66 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93A68 | present (512 aa) | resource-specific HTML FASTA block 179; header=CYP93A68 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93A67 | present (468 aa) | resource-specific HTML FASTA block 180; header=CYP93A67 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93B27 | present (504 aa) | resource-specific HTML FASTA block 181; header=CYP93B27 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP93B26 | present (504 aa) | resource-specific HTML FASTA block 182; header=CYP93B26 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP98A79 | present (509 aa) | resource-specific HTML FASTA block 183; header=CYP98A79 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP98A80 | present (504 aa) | resource-specific HTML FASTA block 184; header=CYP98A80 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP98A81 | present (525 aa) | resource-specific HTML FASTA block 185; header=CYP98A81 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP701A42 | present (514 aa) | resource-specific HTML FASTA block 186; header=CYP701A42 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP701A41 | present (517 aa) | resource-specific HTML FASTA block 187; header=CYP701A41 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP703A20 | present (522 aa) | resource-specific HTML FASTA block 188; header=CYP703A20 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B11 | present (539 aa) | resource-specific HTML FASTA block 189; header=CYP706B11 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B10 | present (516 aa) | resource-specific HTML FASTA block 190; header=CYP706B10 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B18 | present (534 aa) | resource-specific HTML FASTA block 191; header=CYP706B18 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B15 | present (534 aa) | resource-specific HTML FASTA block 192; header=CYP706B15 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B7 | present (534 aa) | resource-specific HTML FASTA block 193; header=CYP706B7 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B | present (495 aa) | resource-specific HTML FASTA block 194; header=CYP706B | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706D4 | present (431 aa) | resource-specific HTML FASTA block 195; header=CYP706D4 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B16P | present (468 aa) | resource-specific HTML FASTA block 196; header=CYP706B16P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706C36 | present (529 aa) | resource-specific HTML FASTA block 197; header=CYP706C36 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706J10 | present (498 aa) | resource-specific HTML FASTA block 198; header=CYP706J10 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B14 | present (526 aa) | resource-specific HTML FASTA block 199; header=CYP706B14 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B13 | present (523 aa) | resource-specific HTML FASTA block 200; header=CYP706B13 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706J11 | present (333 aa) | resource-specific HTML FASTA block 201; header=CYP706J11 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706J13 | present (524 aa) | resource-specific HTML FASTA block 202; header=CYP706J13 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706J12 | present (530 aa) | resource-specific HTML FASTA block 203; header=CYP706J12 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B8 | present (534 aa) | resource-specific HTML FASTA block 204; header=CYP706B8 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP706B17P | present (517 aa) | resource-specific HTML FASTA block 205; header=CYP706B17P | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP712A15 | present (491 aa) | resource-specific HTML FASTA block 206; header=CYP712A15 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP712C4 | present (546 aa) | resource-specific HTML FASTA block 207; header=CYP712C4 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP712J2 | present (540 aa) | resource-specific HTML FASTA block 208; header=CYP712J2 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP712J3 | present (520 aa) | resource-specific HTML FASTA block 209; header=CYP712J3 | https://drnelson.uthsc.edu/C.clementina.71clan.htm |
+| CYP51G1 | present (487 aa) | resource-specific HTML FASTA block 1; header=CYP51G1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A317 | present (352 aa) | resource-specific HTML FASTA block 2; header=CYP72A317 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A332 | present (520 aa) | resource-specific HTML FASTA block 3; header=CYP72A332 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A319 | present (513 aa) | resource-specific HTML FASTA block 4; header=CYP72A319 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A320 | present (482 aa) | resource-specific HTML FASTA block 5; header=CYP72A320 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A318 | present (513 aa) | resource-specific HTML FASTA block 6; header=CYP72A318 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72D12 | present (514 aa) | resource-specific HTML FASTA block 7; header=CYP72D12 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A333 | present (402 aa) | resource-specific HTML FASTA block 8; header=CYP72A333 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A320 | present (492 aa) | resource-specific HTML FASTA block 9; header=CYP72A320 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72D13 | present (455 aa) | resource-specific HTML FASTA block 10; header=CYP72D13 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP714A24 | present (581 aa) | resource-specific HTML FASTA block 11; header=CYP714A24 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP72A334P | present (329 aa) | resource-specific HTML FASTA block 12; header=CYP72A334P | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP714E20 | present (547 aa) | resource-specific HTML FASTA block 13; header=CYP714E20 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP714M4 | present (536 aa) | resource-specific HTML FASTA block 14; header=CYP714M4 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP715A25 | present (520 aa) | resource-specific HTML FASTA block 15; header=CYP715A25 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP721A35 | present (513 aa) | resource-specific HTML FASTA block 16; header=CYP721A35 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP721A36 | present (506 aa) | resource-specific HTML FASTA block 17; header=CYP721A36 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP721A37 | present (507 aa) | resource-specific HTML FASTA block 18; header=CYP721A37 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP734A32 | present (549 aa) | resource-specific HTML FASTA block 19; header=CYP734A32 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP749A34 | present (509 aa) | resource-specific HTML FASTA block 20; header=CYP749A34 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP749A41 | present (422 aa) | resource-specific HTML FASTA block 21; header=CYP749A41 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP749A42P | present (478 aa) | resource-specific HTML FASTA block 22; header=CYP749A42P | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP749A35 | present (547 aa) | resource-specific HTML FASTA block 23; header=CYP749A35 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP735A27 | present (519 aa) | resource-specific HTML FASTA block 24; header=CYP735A27 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP74A1 | present (533 aa) | resource-specific HTML FASTA block 25; header=CYP74A1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP74A34 | present (482 aa) | resource-specific HTML FASTA block 26; header=CYP74A34 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP74B10 | present (500 aa) | resource-specific HTML FASTA block 27; header=CYP74B10 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP85A1 | present (466 aa) | resource-specific HTML FASTA block 28; header=CYP85A1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP85A31 | present (466 aa) | resource-specific HTML FASTA block 29; header=CYP85A31 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP87A37 | present (477 aa) | resource-specific HTML FASTA block 30; header=CYP87A37 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP87A38 | present (476 aa) | resource-specific HTML FASTA block 31; header=CYP87A38 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP87B19 | present (482 aa) | resource-specific HTML FASTA block 32; header=CYP87B19 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP88A50 | present (476 aa) | resource-specific HTML FASTA block 33; header=CYP88A50 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP88A37 | present (492 aa) | resource-specific HTML FASTA block 34; header=CYP88A37 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90A8 | present (437 aa) | resource-specific HTML FASTA block 35; header=CYP90A8 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90B25 | present (497 aa) | resource-specific HTML FASTA block 36; header=CYP90B25 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90C18 | present (488 aa) | resource-specific HTML FASTA block 37; header=CYP90C18 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90D26 | present (498 aa) | resource-specific HTML FASTA block 38; header=CYP90D26 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP707A103 | present (471 aa) | resource-specific HTML FASTA block 39; header=CYP707A103 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP707A96 | present (478 aa) | resource-specific HTML FASTA block 40; header=CYP707A96 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP707A97 | present (472 aa) | resource-specific HTML FASTA block 41; header=CYP707A97 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP707A29 | present (471 aa) | resource-specific HTML FASTA block 42; header=CYP707A29 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP707A104P | present (467 aa) | resource-specific HTML FASTA block 43; header=CYP707A104P | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP716AC1 | present (476 aa) | resource-specific HTML FASTA block 44; header=CYP716AC1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP716A88 | present (441 aa) | resource-specific HTML FASTA block 45; header=CYP716A88 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP716A87 | present (496 aa) | resource-specific HTML FASTA block 46; header=CYP716A87 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP716D24 | present (485 aa) | resource-specific HTML FASTA block 47; header=CYP716D24 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP716AD1 | present (489 aa) | resource-specific HTML FASTA block 48; header=CYP716AD1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP716AD2 | present (489 aa) | resource-specific HTML FASTA block 49; header=CYP716AD2 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP728D14 | present (480 aa) | resource-specific HTML FASTA block 50; header=CYP728D14 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP728D15 | present (472 aa) | resource-specific HTML FASTA block 51; header=CYP728D15 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP727B27 | present (417 aa) | resource-specific HTML FASTA block 52; header=CYP727B27 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP718A13 | present (434 aa) | resource-specific HTML FASTA block 53; header=CYP718A13 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP720A1 | present (473 aa) | resource-specific HTML FASTA block 54; header=CYP720A1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP722A7 | present (524 aa) | resource-specific HTML FASTA block 55; header=CYP722A7 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP722C5 | present (486 aa) | resource-specific HTML FASTA block 56; header=CYP722C5 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP733A1 | present (471 aa) | resource-specific HTML FASTA block 57; header=CYP733A1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP724A1 | present (438 aa) | resource-specific HTML FASTA block 58; header=CYP724A1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP724B23 | present (491 aa) | resource-specific HTML FASTA block 59; header=CYP724B23 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP86A88 | present (514 aa) | resource-specific HTML FASTA block 60; header=CYP86A88 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP86A89 | present (540 aa) | resource-specific HTML FASTA block 61; header=CYP86A89 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP86A90 | present (542 aa) | resource-specific HTML FASTA block 62; header=CYP86A90 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP86B16 | present (561 aa) | resource-specific HTML FASTA block 63; header=CYP86B16 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP86C14 | present (529 aa) | resource-specific HTML FASTA block 64; header=CYP86C14 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94B48 | present (507 aa) | resource-specific HTML FASTA block 65; header=CYP94B48 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94B49 | present (493 aa) | resource-specific HTML FASTA block 66; header=CYP94B49 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94C57 | present (511 aa) | resource-specific HTML FASTA block 67; header=CYP94C57 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94C58 | present (503 aa) | resource-specific HTML FASTA block 68; header=CYP94C58 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94C52 | present (503 aa) | resource-specific HTML FASTA block 69; header=CYP94C52 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94C59 | present (464 aa) | resource-specific HTML FASTA block 70; header=CYP94C59 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94C53 | present (464 aa) | resource-specific HTML FASTA block 71; header=CYP94C53 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP727B3 | present (550 aa) | resource-specific HTML FASTA block 72; header=CYP727B3 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94F7 | present (528 aa) | resource-specific HTML FASTA block 73; header=CYP94F7 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94D46 | present (505 aa) | resource-specific HTML FASTA block 74; header=CYP94D46 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94A50 | present (465 aa) | resource-specific HTML FASTA block 75; header=CYP94A50 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP96A86 | present (514 aa) | resource-specific HTML FASTA block 76; header=CYP96A86 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP96A83 | present (533 aa) | resource-specific HTML FASTA block 77; header=CYP96A83 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP96F10 | present (510 aa) | resource-specific HTML FASTA block 78; header=CYP96F10 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP96F11 | present (520 aa) | resource-specific HTML FASTA block 79; header=CYP96F11 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP704A93 | present (536 aa) | resource-specific HTML FASTA block 80; header=CYP704A93 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP704A95 | present (528 aa) | resource-specific HTML FASTA block 81; header=CYP704A95 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP704A96 | present (505 aa) | resource-specific HTML FASTA block 82; header=CYP704A96 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP704B2 | present (515 aa) | resource-specific HTML FASTA block 83; header=CYP704B2 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP97A40 | present (613 aa) | resource-specific HTML FASTA block 84; header=CYP97A40 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP97B33 | present (583 aa) | resource-specific HTML FASTA block 85; header=CYP97B33 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP97C27 | present (546 aa) | resource-specific HTML FASTA block 86; header=CYP97C27 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP710A17 | present (508 aa) | resource-specific HTML FASTA block 87; header=CYP710A17 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP711A42 | present (539 aa) | resource-specific HTML FASTA block 88; header=CYP711A42 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP711A43 | present (548 aa) | resource-specific HTML FASTA block 89; header=CYP711A43 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90B27v1 | present (484 aa) | resource-specific HTML FASTA block 90; header=CYP90B27v1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90B27v2 | present (484 aa) | resource-specific HTML FASTA block 91; header=CYP90B27v2 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94N1v1 | present (514 aa) | resource-specific HTML FASTA block 92; header=CYP94N1v1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94N1v2 | present (514 aa) | resource-specific HTML FASTA block 93; header=CYP94N1v2 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94N2v1 | present (514 aa) | resource-specific HTML FASTA block 94; header=CYP94N2v1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP94N2v2 | present (511 aa) | resource-specific HTML FASTA block 95; header=CYP94N2v2 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90G1v1 | present (487 aa) | resource-specific HTML FASTA block 96; header=CYP90G1v1 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90G1v2 | present (487 aa) | resource-specific HTML FASTA block 97; header=CYP90G1v2 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90G1v3 | present (487 aa) | resource-specific HTML FASTA block 98; header=CYP90G1v3 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP90G2 | present (489 aa) | resource-specific HTML FASTA block 99; header=CYP90G2 | https://drnelson.uthsc.edu/C.clementina.other.htm |
+| CYP51G1 | missing | Workbook sheet Citrus clementina other clans row 2; gene ID=Ccl-CYP51G1-Ciclev10004850m; assigned CYP name=CYP51G1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A317 | missing | Workbook sheet Citrus clementina other clans row 3; gene ID=Ccl-CYP72A10-Ciclev10023520m; assigned CYP name=CYP72A317; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A318 | missing | Workbook sheet Citrus clementina other clans row 4; gene ID=Ccl-CYP72A15-Ciclev10024206m; assigned CYP name=CYP72A318; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A319 | missing | Workbook sheet Citrus clementina other clans row 5; gene ID=Ccl-CYP72A13-Ciclev10023602m; assigned CYP name=CYP72A319; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A320 | missing | Workbook sheet Citrus clementina other clans row 6; gene ID=Ccl-CYP72A9-Ciclev10019876m; assigned CYP name=CYP72A320; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A317 | missing | Workbook sheet Citrus clementina other clans row 7; gene ID=Ccl-CYP72A11-Ciclev10019731m; assigned CYP name=CYP72A317; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A320 | missing | Workbook sheet Citrus clementina other clans row 8; gene ID=Ccl-CYP72A14-Ciclev10019932m; assigned CYP name=CYP72A320; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A317 | missing | Workbook sheet Citrus clementina other clans row 9; gene ID=Ccl-CYP72A8-Ciclev10024130m; assigned CYP name=CYP72A317; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72A46P1 | missing | Workbook sheet Citrus clementina other clans row 10; gene ID=Ccl-CYP714A2-Ciclev10024198m; assigned CYP name=CYP72A46P1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72D12 | missing | Workbook sheet Citrus clementina other clans row 11; gene ID=Ccl-CYP72A7-Ciclev10008035m; assigned CYP name=CYP72D12; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP72D10 | missing | Workbook sheet Citrus clementina other clans row 12; gene ID=Ccl-CYP72C1-Ciclev10003399m; assigned CYP name=CYP72D10; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP74A1 | missing | Workbook sheet Citrus clementina other clans row 13; gene ID=Ccl-CYP74A-Ciclev10000825m; assigned CYP name=CYP74A1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP74A34 | missing | Workbook sheet Citrus clementina other clans row 14; gene ID=Ccl-CYP74A1-Ciclev10028333m; assigned CYP name=CYP74A34; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP74B10 | missing | Workbook sheet Citrus clementina other clans row 15; gene ID=Ccl-CYP74B2-Ciclev10014991m; assigned CYP name=CYP74B10; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP85A1 | missing | Workbook sheet Citrus clementina other clans row 16; gene ID=Ccl-CYP85A1-Ciclev10011662m; assigned CYP name=CYP85A1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP85A31 | missing | Workbook sheet Citrus clementina other clans row 17; gene ID=Ccl-CYP85A2-Ciclev10031449m; assigned CYP name=CYP85A31; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP86A88 | missing | Workbook sheet Citrus clementina other clans row 18; gene ID=Ccl-CYP86A1-Ciclev10030097m; assigned CYP name=CYP86A88; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP86A89 | missing | Workbook sheet Citrus clementina other clans row 19; gene ID=Ccl-CYP86A2-Ciclev10019633m; assigned CYP name=CYP86A89; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP86A90 | missing | Workbook sheet Citrus clementina other clans row 20; gene ID=Ccl-CYP86A8-Ciclev10019616m; assigned CYP name=CYP86A90; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP86B16 | missing | Workbook sheet Citrus clementina other clans row 21; gene ID=Ccl-CYP86B1-Ciclev10031117m; assigned CYP name=CYP86B16; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP86C6 | missing | Workbook sheet Citrus clementina other clans row 22; gene ID=Ccl-CYP86C1-Ciclev10033706m; assigned CYP name=CYP86C6; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP87A37 | missing | Workbook sheet Citrus clementina other clans row 23; gene ID=Ccl-CYP87A2-Ciclev10023269m; assigned CYP name=CYP87A37; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP87A38 | missing | Workbook sheet Citrus clementina other clans row 24; gene ID=Ccl-CYP87A3-Ciclev10019989m; assigned CYP name=CYP87A38; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP87B14 | missing | Workbook sheet Citrus clementina other clans row 25; gene ID=Ccl-CYP87A4-Ciclev10003322m; assigned CYP name=CYP87B14; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP88A37 | missing | Workbook sheet Citrus clementina other clans row 26; gene ID=Ccl-CYP88A4-Ciclev10031341m; assigned CYP name=CYP88A37; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP88A50 | missing | Workbook sheet Citrus clementina other clans row 27; gene ID=Ccl-CYP88A3-Ciclev10019986m; assigned CYP name=CYP88A50; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP90A8 | missing | Workbook sheet Citrus clementina other clans row 28; gene ID=Ccl-CYP90A1-Ciclev10031576m; assigned CYP name=CYP90A8; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP90B25 | missing | Workbook sheet Citrus clementina other clans row 29; gene ID=Ccl-CYP90B1-Ciclev10025451m; assigned CYP name=CYP90B25; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP90C18 | missing | Workbook sheet Citrus clementina other clans row 30; gene ID=Ccl-CYP90C1-Ciclev10025479m; assigned CYP name=CYP90C18; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP90D26 | missing | Workbook sheet Citrus clementina other clans row 31; gene ID=Ccl-CYP90D1-Ciclev10025448m; assigned CYP name=CYP90D26; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94A11 | missing | Workbook sheet Citrus clementina other clans row 32; gene ID=Ccl-CYP94D3-Ciclev10023967m; assigned CYP name=CYP94A11; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94B48 | missing | Workbook sheet Citrus clementina other clans row 33; gene ID=Ccl-CYP94B1-Ciclev10019793m; assigned CYP name=CYP94B48; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94B49 | missing | Workbook sheet Citrus clementina other clans row 34; gene ID=Ccl-CYP94B3-Ciclev10017920m; assigned CYP name=CYP94B49; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94C52 | missing | Workbook sheet Citrus clementina other clans row 35; gene ID=Ccl-CYP94C3-Ciclev10028253m; assigned CYP name=CYP94C52; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94C53 | missing | Workbook sheet Citrus clementina other clans row 36; gene ID=Ccl-CYP94C5-Ciclev10013407m; assigned CYP name=CYP94C53; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94C8 | missing | Workbook sheet Citrus clementina other clans row 37; gene ID=Ccl-CYP94C1-Ciclev10033768m; assigned CYP name=CYP94C8; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94C52 | missing | Workbook sheet Citrus clementina other clans row 38; gene ID=Ccl-CYP94C2-Ciclev10028254m; assigned CYP name=CYP94C52; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94C53 | missing | Workbook sheet Citrus clementina other clans row 39; gene ID=Ccl-CYP94C4-Ciclev10013425m; assigned CYP name=CYP94C53; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94D46 | missing | Workbook sheet Citrus clementina other clans row 40; gene ID=Ccl-CYP94D2-Ciclev10011533m; assigned CYP name=CYP94D46; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP94F7 | missing | Workbook sheet Citrus clementina other clans row 41; gene ID=Ccl-CYP94D1-Ciclev10014886m; assigned CYP name=CYP94F7; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP96A83 | missing | Workbook sheet Citrus clementina other clans row 42; gene ID=Ccl-CYP96A10-Ciclev10025412m; assigned CYP name=CYP96A83; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP96A18 | missing | Workbook sheet Citrus clementina other clans row 43; gene ID=Ccl-CYP96A1-Ciclev10025385m; assigned CYP name=CYP96A18; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP96F5 | missing | Workbook sheet Citrus clementina other clans row 44; gene ID=Ccl-CYP96A4-Ciclev10017795m; assigned CYP name=CYP96F5; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP96F5 | missing | Workbook sheet Citrus clementina other clans row 45; gene ID=Ccl-CYP96A9-Ciclev10014930m; assigned CYP name=CYP96F5; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP97A40 | missing | Workbook sheet Citrus clementina other clans row 46; gene ID=Ccl-CYP97A3-Ciclev10011312m; assigned CYP name=CYP97A40; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP97B33 | missing | Workbook sheet Citrus clementina other clans row 47; gene ID=Ccl-CYP97B3-Ciclev10011353m; assigned CYP name=CYP97B33; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP97C27 | missing | Workbook sheet Citrus clementina other clans row 48; gene ID=Ccl-CYP97C1-Ciclev10011420m; assigned CYP name=CYP97C27; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP704A93 | missing | Workbook sheet Citrus clementina other clans row 49; gene ID=Ccl-CYP704A1-Ciclev10023337m; assigned CYP name=CYP704A93; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP704A95 | missing | Workbook sheet Citrus clementina other clans row 50; gene ID=Ccl-CYP704A2-Ciclev10004720m; assigned CYP name=CYP704A95; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP704A96 | missing | Workbook sheet Citrus clementina other clans row 51; gene ID=Ccl-CYP704A3-Ciclev10019805m; assigned CYP name=CYP704A96; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP704B26 | missing | Workbook sheet Citrus clementina other clans row 52; gene ID=Ccl-CYP704B1-Ciclev10010274m; assigned CYP name=CYP704B26; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP707A15 | missing | Workbook sheet Citrus clementina other clans row 53; gene ID=Ccl-CYP707A1-Ciclev10011655m; assigned CYP name=CYP707A15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP707A40 | missing | Workbook sheet Citrus clementina other clans row 54; gene ID=Ccl-CYP707A6-Ciclev10027226m; assigned CYP name=CYP707A40; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP707A29 | missing | Workbook sheet Citrus clementina other clans row 55; gene ID=Ccl-CYP707A5-Ciclev10001043m; assigned CYP name=CYP707A29; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP707A96 | missing | Workbook sheet Citrus clementina other clans row 56; gene ID=Ccl-CYP707A2-Ciclev10028346m; assigned CYP name=CYP707A96; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP707A97 | missing | Workbook sheet Citrus clementina other clans row 57; gene ID=Ccl-CYP707A4-Ciclev10028355m; assigned CYP name=CYP707A97; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP710A17 | missing | Workbook sheet Citrus clementina other clans row 58; gene ID=Ccl-CYP710A1-Ciclev10014973m; assigned CYP name=CYP710A17; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP711A42 | missing | Workbook sheet Citrus clementina other clans row 59; gene ID=Ccl-CYP711A1-Ciclev10007948m; assigned CYP name=CYP711A42; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP711A43 | missing | Workbook sheet Citrus clementina other clans row 60; gene ID=Ccl-CYP711A2-Ciclev10025311m; assigned CYP name=CYP711A43; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP714A24 | missing | Workbook sheet Citrus clementina other clans row 61; gene ID=Ccl-CYP714A1-Ciclev10031065m; assigned CYP name=CYP714A24; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP714E20 | missing | Workbook sheet Citrus clementina other clans row 62; gene ID=Ccl-CYP714A3-Ciclev10019584m; assigned CYP name=CYP714E20; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP714M4 | missing | Workbook sheet Citrus clementina other clans row 63; gene ID=Ccl-CYP714A4-Ciclev10011453m; assigned CYP name=CYP714M4; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP715A25 | missing | Workbook sheet Citrus clementina other clans row 64; gene ID=Ccl-CYP715A1-Ciclev10007185m; assigned CYP name=CYP715A25; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP716A87 | missing | Workbook sheet Citrus clementina other clans row 65; gene ID=Ccl-CYP716A2-Ciclev10030148m; assigned CYP name=CYP716A87; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP716A88 | missing | Workbook sheet Citrus clementina other clans row 66; gene ID=Ccl-CYP716A6-Ciclev10010450m; assigned CYP name=CYP716A88; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP716D24 | missing | Workbook sheet Citrus clementina other clans row 67; gene ID=Ccl-CYP716A3-Ciclev10015070m; assigned CYP name=CYP716D24; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP716AC1 | missing | Workbook sheet Citrus clementina other clans row 68; gene ID=Ccl-CYP716A1-Ciclev10001024m; assigned CYP name=CYP716AC1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP716AD1 | missing | Workbook sheet Citrus clementina other clans row 69; gene ID=Ccl-CYP716A4-Ciclev10019890m; assigned CYP name=CYP716AD1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP716AD2 | missing | Workbook sheet Citrus clementina other clans row 70; gene ID=Ccl-CYP716A5-Ciclev10019893m; assigned CYP name=CYP716AD2; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP718A13 | missing | Workbook sheet Citrus clementina other clans row 71; gene ID=Ccl-CYP718-Ciclev10031591m; assigned CYP name=CYP718A13; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP720A1 | missing | Workbook sheet Citrus clementina other clans row 72; gene ID=Ccl-CYP720A1-Ciclev10023543m; assigned CYP name=CYP720A1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP721A35 | missing | Workbook sheet Citrus clementina other clans row 73; gene ID=Ccl-CYP721A1-Ciclev10000905m; assigned CYP name=CYP721A35; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP721A36 | missing | Workbook sheet Citrus clementina other clans row 74; gene ID=Ccl-CYP721A2-Ciclev10003134m; assigned CYP name=CYP721A36; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP721A37 | missing | Workbook sheet Citrus clementina other clans row 75; gene ID=Ccl-CYP721A3-Ciclev10027532m; assigned CYP name=CYP721A37; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP722A7 | missing | Workbook sheet Citrus clementina other clans row 76; gene ID=Ccl-CYP722A1-Ciclev10027097m; assigned CYP name=CYP722A7; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP722C5 | missing | Workbook sheet Citrus clementina other clans row 77; gene ID=Ccl-CYP722A2-Ciclev10027167m; assigned CYP name=CYP722C5; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP724A1 | missing | Workbook sheet Citrus clementina other clans row 78; gene ID=Ccl-CYP724A1-Ciclev10017470m; assigned CYP name=CYP724A1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP724B23 | missing | Workbook sheet Citrus clementina other clans row 79; gene ID=Ccl-CYP724A2-Ciclev10015033m; assigned CYP name=CYP724B23; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP727B3 | missing | Workbook sheet Citrus clementina other clans row 80; gene ID=Ccl-CYP715A2-Ciclev10000762m; assigned CYP name=CYP727B3; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP727B27 | missing | Workbook sheet Citrus clementina other clans row 81; gene ID=Ccl-CYP716B3-Ciclev10010640m; assigned CYP name=CYP727B27; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP728D14 | missing | Workbook sheet Citrus clementina other clans row 82; gene ID=Ccl-CYP716B1-Ciclev10018022m; assigned CYP name=CYP728D14; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP728D15 | missing | Workbook sheet Citrus clementina other clans row 83; gene ID=Ccl-CYP716B2-Ciclev10018288m; assigned CYP name=CYP728D15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP733A1 | missing | Workbook sheet Citrus clementina other clans row 84; gene ID=Ccl-CYP722B1-Ciclev10003821m; assigned CYP name=CYP733A1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP734A32 | missing | Workbook sheet Citrus clementina other clans row 85; gene ID=Ccl-CYP734A1-Ciclev10007914m; assigned CYP name=CYP734A32; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP735A22 | missing | Workbook sheet Citrus clementina other clans row 86; gene ID=Ccl-CYP735A1-Ciclev10011497m; assigned CYP name=CYP735A22; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP749A34 | missing | Workbook sheet Citrus clementina other clans row 87; gene ID=Ccl-CYP734A2-Ciclev10033321m; assigned CYP name=CYP749A34; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP749A35 | missing | Workbook sheet Citrus clementina other clans row 88; gene ID=Ccl-CYP734B2-Ciclev10031156m; assigned CYP name=CYP749A35; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP749A34 | missing | Workbook sheet Citrus clementina other clans row 89; gene ID=Ccl-CYP734A3-Ciclev10033485m; assigned CYP name=CYP749A34; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP749A34 | missing | Workbook sheet Citrus clementina other clans row 90; gene ID=Ccl-CYP734B1-Ciclev10033709m; assigned CYP name=CYP749A34; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN25 | missing | Workbook sheet Citrus clementina CYP71 clan row 2; gene ID=Ccl-CYP71A12-Ciclev10018132m; assigned CYP name=CYP71AN25; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN27 | missing | Workbook sheet Citrus clementina CYP71 clan row 3; gene ID=Ccl-CYP71A13-Ciclev10019699m; assigned CYP name=CYP71AN27; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN28 | missing | Workbook sheet Citrus clementina CYP71 clan row 4; gene ID=Ccl-CYP71A14-Ciclev10019648m; assigned CYP name=CYP71AN28; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN34 | missing | Workbook sheet Citrus clementina CYP71 clan row 5; gene ID=Ccl-CYP71A15-Ciclev10024587m; assigned CYP name=CYP71AN34; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN29P | missing | Workbook sheet Citrus clementina CYP71 clan row 6; gene ID=Ccl-CYP71A16-Ciclev10024607m; assigned CYP name=CYP71AN29P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN33 | missing | Workbook sheet Citrus clementina CYP71 clan row 7; gene ID=Ccl-CYP71A17-Ciclev10023920m; assigned CYP name=CYP71AN33; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN32 | missing | Workbook sheet Citrus clementina CYP71 clan row 8; gene ID=Ccl-CYP71A18-Ciclev10019789m; assigned CYP name=CYP71AN32; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AH16 | missing | Workbook sheet Citrus clementina CYP71 clan row 9; gene ID=Ccl-CYP71A19-Ciclev10019903m; assigned CYP name=CYP71AH16; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71CE1 | missing | Workbook sheet Citrus clementina CYP71 clan row 10; gene ID=Ccl-CYP71A20-Ciclev10023490m; assigned CYP name=CYP71CE1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN35 | missing | Workbook sheet Citrus clementina CYP71 clan row 11; gene ID=Ccl-CYP71A21-Ciclev10024390m; assigned CYP name=CYP71AN35; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AU54 | missing | Workbook sheet Citrus clementina CYP71 clan row 12; gene ID=Ccl-CYP71A22-Ciclev10007998m; assigned CYP name=CYP71AU54; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AN26 | missing | Workbook sheet Citrus clementina CYP71 clan row 13; gene ID=Ccl-CYP71A23-Ciclev10019797m; assigned CYP name=CYP71AN26; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BF11 | missing | Workbook sheet Citrus clementina CYP71 clan row 14; gene ID=Ccl-CYP71A25-Ciclev10023617m; assigned CYP name=CYP71BF11; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AU55 | missing | Workbook sheet Citrus clementina CYP71 clan row 15; gene ID=Ccl-CYP71A26-Ciclev10019801m; assigned CYP name=CYP71AU55; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AQ15 | missing | Workbook sheet Citrus clementina CYP71 clan row 16; gene ID=Ccl-CYP71A27-Ciclev10019613m; assigned CYP name=CYP71AQ15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BG9 | missing | Workbook sheet Citrus clementina CYP71 clan row 17; gene ID=Ccl-CYP71A28-Ciclev10003953m; assigned CYP name=CYP71BG9; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A77 | missing | Workbook sheet Citrus clementina CYP71 clan row 18; gene ID=Ccl-CYP71A38P-Ciclev10025335m; assigned CYP name=CYP92A77; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AS1 | missing | Workbook sheet Citrus clementina CYP71 clan row 19; gene ID=Ccl-CYP71B10-Ciclev10031247m; assigned CYP name=CYP71AS1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A81 | missing | Workbook sheet Citrus clementina CYP71 clan row 20; gene ID=Ccl-CYP71B11-Ciclev10025378m; assigned CYP name=CYP92A81; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE38 | missing | Workbook sheet Citrus clementina CYP71 clan row 21; gene ID=Ccl-CYP71B13-Ciclev10010637m.1; assigned CYP name=CYP71BE38; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE47P | missing | Workbook sheet Citrus clementina CYP71 clan row 22; gene ID=Ccl-CYP71B13-Ciclev10010637m.2; assigned CYP name=CYP71BE47P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE48P | missing | Workbook sheet Citrus clementina CYP71 clan row 23; gene ID=Ccl-CYP71B13-Ciclev10010637m.3; assigned CYP name=CYP71BE48P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A88 | missing | Workbook sheet Citrus clementina CYP71 clan row 24; gene ID=Ccl-CYP71B14-Ciclev10031266m; assigned CYP name=CYP92A88; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A87 | missing | Workbook sheet Citrus clementina CYP71 clan row 25; gene ID=Ccl-CYP71B15-Ciclev10025396m; assigned CYP name=CYP92A87; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A82 | missing | Workbook sheet Citrus clementina CYP71 clan row 26; gene ID=Ccl-CYP71B16-Ciclev10025417m; assigned CYP name=CYP92A82; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP736A124 | missing | Workbook sheet Citrus clementina CYP71 clan row 27; gene ID=Ccl-CYP71B17-Ciclev10027549m; assigned CYP name=CYP736A124; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A84 | missing | Workbook sheet Citrus clementina CYP71 clan row 28; gene ID=Ccl-CYP71B18-Ciclev10008392m; assigned CYP name=CYP92A84; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A79 | missing | Workbook sheet Citrus clementina CYP71 clan row 29; gene ID=Ccl-CYP71B19-Ciclev10025377m; assigned CYP name=CYP92A79; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A85 | missing | Workbook sheet Citrus clementina CYP71 clan row 30; gene ID=Ccl-CYP71B2-Ciclev10025391m; assigned CYP name=CYP92A85; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE44 | missing | Workbook sheet Citrus clementina CYP71 clan row 31; gene ID=Ccl-CYP71B23-Ciclev10010293m; assigned CYP name=CYP71BE44; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71-un6 | missing | Workbook sheet Citrus clementina CYP71 clan row 32; gene ID=Ccl-CYP71B24-Ciclev10024573m; assigned CYP name=CYP71-un6; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BQ4 | missing | Workbook sheet Citrus clementina CYP71 clan row 33; gene ID=Ccl-CYP71B25-Ciclev10014947m; assigned CYP name=CYP71BQ4; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71D415 | missing | Workbook sheet Citrus clementina CYP71 clan row 34; gene ID=Ccl-CYP71B27-Ciclev10008075m; assigned CYP name=CYP71D415; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AP15 | missing | Workbook sheet Citrus clementina CYP71 clan row 35; gene ID=Ccl-CYP71B30-Ciclev10023549m; assigned CYP name=CYP71AP15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A83 | missing | Workbook sheet Citrus clementina CYP71 clan row 36; gene ID=Ccl-CYP71B28-Ciclev10025388m; assigned CYP name=CYP92A83; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A78 | missing | Workbook sheet Citrus clementina CYP71 clan row 37; gene ID=Ccl-CYP71B29-Ciclev10025408m; assigned CYP name=CYP92A78; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE45 | missing | Workbook sheet Citrus clementina CYP71 clan row 38; gene ID=Ccl-CYP71B30P-Ciclev10004785m; assigned CYP name=CYP71BE45; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BQ3 | missing | Workbook sheet Citrus clementina CYP71 clan row 39; gene ID=Ccl-CYP71B31-Ciclev10018142m; assigned CYP name=CYP71BQ3; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE49 | missing | Workbook sheet Citrus clementina CYP71 clan row 40; gene ID=Ccl-CYP71B33-Ciclev10010406m; assigned CYP name=CYP71BE49; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BQ2 | missing | Workbook sheet Citrus clementina CYP71 clan row 41; gene ID=Ccl-CYP71B34-Ciclev10017726m; assigned CYP name=CYP71BQ2; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AS16 | missing | Workbook sheet Citrus clementina CYP71 clan row 42; gene ID=Ccl-CYP71B35-Ciclev10031269m; assigned CYP name=CYP71AS16; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE39 | missing | Workbook sheet Citrus clementina CYP71 clan row 43; gene ID=Ccl-CYP71B36-Ciclev10008047m; assigned CYP name=CYP71BE39; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A86 | missing | Workbook sheet Citrus clementina CYP71 clan row 44; gene ID=Ccl-CYP71B3-Ciclev10025392m; assigned CYP name=CYP92A86; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71AS15 | missing | Workbook sheet Citrus clementina CYP71 clan row 45; gene ID=Ccl-CYP71B37-Ciclev10033591m; assigned CYP name=CYP71AS15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE42 | missing | Workbook sheet Citrus clementina CYP71 clan row 46; gene ID=Ccl-CYP71B38-Ciclev10008076m; assigned CYP name=CYP71BE42; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE40 | missing | Workbook sheet Citrus clementina CYP71 clan row 47; gene ID=Ccl-CYP71B6-Ciclev10008411m; assigned CYP name=CYP71BE40; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE41 | missing | Workbook sheet Citrus clementina CYP71 clan row 48; gene ID=Ccl-CYP71C1-Ciclev10008073m; assigned CYP name=CYP71BE41; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BE46 | missing | Workbook sheet Citrus clementina CYP71 clan row 49; gene ID=Ccl-CYP71C2-Ciclev10031280m; assigned CYP name=CYP71BE46; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BG4 | missing | Workbook sheet Citrus clementina CYP71 clan row 50; gene ID=Ccl-CYP71C3-Ciclev10031102m; assigned CYP name=CYP71BG4; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP736A126 | missing | Workbook sheet Citrus clementina CYP71 clan row 51; gene ID=Ccl-CYP71C4-Ciclev10026966m; assigned CYP name=CYP736A126; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71CD1 | missing | Workbook sheet Citrus clementina CYP71 clan row 52; gene ID=Ccl-CYP71C5-Ciclev10014951m; assigned CYP name=CYP71CD1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP736A125 | missing | Workbook sheet Citrus clementina CYP71 clan row 53; gene ID=Ccl-CYP71C6-Ciclev10025445m; assigned CYP name=CYP736A125; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71BG8 | missing | Workbook sheet Citrus clementina CYP71 clan row 54; gene ID=Ccl-CYP71C7-Ciclev10000866m; assigned CYP name=CYP71BG8; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP71D416 | missing | Workbook sheet Citrus clementina CYP71 clan row 55; gene ID=Ccl-CYP71D1-Ciclev10025671m; assigned CYP name=CYP71D416; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP92A89P | missing | Workbook sheet Citrus clementina CYP71 clan row 56; gene ID=Ccl-CYP71D2-Ciclev10026999m; assigned CYP name=CYP92A89P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP736A127 | missing | Workbook sheet Citrus clementina CYP71 clan row 57; gene ID=Ccl-CYP71D3-Ciclev10027567m; assigned CYP name=CYP736A127; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP73A37 | missing | Workbook sheet Citrus clementina CYP71 clan row 58; gene ID=Ccl-CYP73A5-Ciclev10000921m; assigned CYP name=CYP73A37; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP73A29 | missing | Workbook sheet Citrus clementina CYP71 clan row 59; gene ID=Ccl-CYP73A6-Ciclev10008125m; assigned CYP name=CYP73A29; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP75B81 | missing | Workbook sheet Citrus clementina CYP71 clan row 60; gene ID=Ccl-CYP75B1-Ciclev10019637m; assigned CYP name=CYP75B81; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP75A58 | missing | Workbook sheet Citrus clementina CYP71 clan row 61; gene ID=Ccl-CYP75B2-Ciclev10018289m; assigned CYP name=CYP75A58; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F64 | missing | Workbook sheet Citrus clementina CYP71 clan row 62; gene ID=Ccl-CYP76C1-Ciclev10028488m; assigned CYP name=CYP76F64; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F48 | missing | Workbook sheet Citrus clementina CYP71 clan row 63; gene ID=Ccl-CYP76C2-Ciclev10028239m; assigned CYP name=CYP76F48; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F53 | missing | Workbook sheet Citrus clementina CYP71 clan row 64; gene ID=Ccl-CYP76C3-Ciclev10019826m; assigned CYP name=CYP76F53; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F46 | missing | Workbook sheet Citrus clementina CYP71 clan row 65; gene ID=Ccl-CYP76C4-Ciclev10008095m; assigned CYP name=CYP76F46; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F59 | missing | Workbook sheet Citrus clementina CYP71 clan row 66; gene ID=Ccl-CYP76C5-Ciclev10028269m; assigned CYP name=CYP76F59; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F47 | missing | Workbook sheet Citrus clementina CYP71 clan row 67; gene ID=Ccl-CYP76C6-Ciclev10008099m; assigned CYP name=CYP76F47; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F60 | missing | Workbook sheet Citrus clementina CYP71 clan row 68; gene ID=Ccl-CYP76C7-Ciclev10028278m; assigned CYP name=CYP76F60; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F50 | missing | Workbook sheet Citrus clementina CYP71 clan row 69; gene ID=Ccl-CYP76D1-Ciclev10028276m; assigned CYP name=CYP76F50; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F68 | missing | Workbook sheet Citrus clementina CYP71 clan row 70; gene ID=Ccl-CYP76D2-Ciclev10028268m; assigned CYP name=CYP76F68; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F61 | missing | Workbook sheet Citrus clementina CYP71 clan row 71; gene ID=Ccl-CYP76D3-Ciclev10028257m; assigned CYP name=CYP76F61; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F49 | missing | Workbook sheet Citrus clementina CYP71 clan row 72; gene ID=Ccl-CYP76D4-Ciclev10028277m; assigned CYP name=CYP76F49; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F51 | missing | Workbook sheet Citrus clementina CYP71 clan row 73; gene ID=Ccl-CYP76D5-Ciclev10030448m; assigned CYP name=CYP76F51; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F65 | missing | Workbook sheet Citrus clementina CYP71 clan row 74; gene ID=Ccl-CYP76D6-Ciclev10019651m; assigned CYP name=CYP76F65; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F56 | missing | Workbook sheet Citrus clementina CYP71 clan row 75; gene ID=Ccl-CYP76D7-Ciclev10028273m; assigned CYP name=CYP76F56; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F69 | missing | Workbook sheet Citrus clementina CYP71 clan row 76; gene ID=Ccl-CYP76E1-Ciclev10030057m; assigned CYP name=CYP76F69; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F63 | missing | Workbook sheet Citrus clementina CYP71 clan row 77; gene ID=Ccl-CYP76E2-Ciclev10030225m; assigned CYP name=CYP76F63; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F57 | missing | Workbook sheet Citrus clementina CYP71 clan row 78; gene ID=Ccl-CYP76E4-Ciclev10028270m; assigned CYP name=CYP76F57; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F54 | missing | Workbook sheet Citrus clementina CYP71 clan row 79; gene ID=Ccl-CYP76E3-Ciclev10028275m; assigned CYP name=CYP76F54; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F66 | missing | Workbook sheet Citrus clementina CYP71 clan row 80; gene ID=Ccl-CYP76F1-Ciclev10030181m; assigned CYP name=CYP76F66; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76F67P | missing | Workbook sheet Citrus clementina CYP71 clan row 81; gene ID=Ccl-CYP76F2-Ciclev10003440m; assigned CYP name=CYP76F67P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76G17 | missing | Workbook sheet Citrus clementina CYP71 clan row 82; gene ID=Ccl-CYP76G1-Ciclev10033708m; assigned CYP name=CYP76G17; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76A38 | missing | Workbook sheet Citrus clementina CYP71 clan row 83; gene ID=Ccl-CYP76G2-Ciclev10013315m; assigned CYP name=CYP76A38; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP76A37 | missing | Workbook sheet Citrus clementina CYP71 clan row 84; gene ID=Ccl-CYP76G3-Ciclev10011511m; assigned CYP name=CYP76A37; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP77A13 | missing | Workbook sheet Citrus clementina CYP71 clan row 85; gene ID=Ccl-CYP77A4-Ciclev10031286m; assigned CYP name=CYP77A13; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP77B19 | missing | Workbook sheet Citrus clementina CYP71 clan row 86; gene ID=Ccl-CYP77B1-Ciclev10014970m; assigned CYP name=CYP77B19; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP78A119 | missing | Workbook sheet Citrus clementina CYP71 clan row 87; gene ID=Ccl-CYP78A10-Ciclev10023859m; assigned CYP name=CYP78A119; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP78A120 | missing | Workbook sheet Citrus clementina CYP71 clan row 88; gene ID=Ccl-CYP78A4-Ciclev10031245m; assigned CYP name=CYP78A120; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP78A121 | missing | Workbook sheet Citrus clementina CYP71 clan row 89; gene ID=Ccl-CYP78A5-Ciclev10031237m; assigned CYP name=CYP78A121; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP78A118 | missing | Workbook sheet Citrus clementina CYP71 clan row 90; gene ID=Ccl-CYP78A6-Ciclev10019657m; assigned CYP name=CYP78A118; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP78A123 | missing | Workbook sheet Citrus clementina CYP71 clan row 91; gene ID=Ccl-CYP78A7-Ciclev10025343m; assigned CYP name=CYP78A123; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A78 | missing | Workbook sheet Citrus clementina CYP71 clan row 92; gene ID=Ccl-CYP78A8-Ciclev10000771m; assigned CYP name=CYP79A78; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP78A122 | missing | Workbook sheet Citrus clementina CYP71 clan row 93; gene ID=Ccl-CYP78A9-Ciclev10019326m; assigned CYP name=CYP78A122; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A74 | missing | Workbook sheet Citrus clementina CYP71 clan row 94; gene ID=Ccl-CYP79A2-Ciclev10031311m; assigned CYP name=CYP79A74; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A69 | missing | Workbook sheet Citrus clementina CYP71 clan row 95; gene ID=Ccl-CYP79A3-Ciclev10025240m; assigned CYP name=CYP79A69; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A70 | missing | Workbook sheet Citrus clementina CYP71 clan row 96; gene ID=Ccl-CYP79A3P-Ciclev10025237m; assigned CYP name=CYP79A70; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A79 | missing | Workbook sheet Citrus clementina CYP71 clan row 97; gene ID=Ccl-CYP79B2-Ciclev10031307m; assigned CYP name=CYP79A79; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A73 | missing | Workbook sheet Citrus clementina CYP71 clan row 98; gene ID=Ccl-CYP79B3-Ciclev10031309m; assigned CYP name=CYP79A73; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A72 | missing | Workbook sheet Citrus clementina CYP71 clan row 99; gene ID=Ccl-CYP79C1-Ciclev10033385m; assigned CYP name=CYP79A72; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A77 | missing | Workbook sheet Citrus clementina CYP71 clan row 100; gene ID=Ccl-CYP79C2-Ciclev10031099m; assigned CYP name=CYP79A77; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A75 | missing | Workbook sheet Citrus clementina CYP71 clan row 101; gene ID=Ccl-CYP79F1-Ciclev10004690m; assigned CYP name=CYP79A75; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP79A71 | missing | Workbook sheet Citrus clementina CYP71 clan row 102; gene ID=Ccl-CYP79F2-Ciclev10013842m; assigned CYP name=CYP79A71; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81B63 | missing | Workbook sheet Citrus clementina CYP71 clan row 103; gene ID=Ccl-CYP81D2-Ciclev10000918m; assigned CYP name=CYP81B63; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81Q45 | missing | Workbook sheet Citrus clementina CYP71 clan row 104; gene ID=Ccl-CYP81D6-Ciclev10027560m; assigned CYP name=CYP81Q45; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81Q46 | missing | Workbook sheet Citrus clementina CYP71 clan row 105; gene ID=Ccl-CYP81D7-Ciclev10025370m; assigned CYP name=CYP81Q46; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81Q44 | missing | Workbook sheet Citrus clementina CYP71 clan row 106; gene ID=Ccl-CYP81D8-Ciclev10025420m; assigned CYP name=CYP81Q44; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81AE1 | missing | Workbook sheet Citrus clementina CYP71 clan row 107; gene ID=Ccl-CYP81F1-Ciclev10000967m; assigned CYP name=CYP81AE1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81B66 | missing | Workbook sheet Citrus clementina CYP71 clan row 108; gene ID=Ccl-CYP81F2-Ciclev10008060m; assigned CYP name=CYP81B66; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81B65 | missing | Workbook sheet Citrus clementina CYP71 clan row 109; gene ID=Ccl-CYP81F3-Ciclev10000926m; assigned CYP name=CYP81B65; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81B67 | missing | Workbook sheet Citrus clementina CYP71 clan row 110; gene ID=Ccl-CYP81G1-Ciclev10000934m; assigned CYP name=CYP81B67; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP81C17 | missing | Workbook sheet Citrus clementina CYP71 clan row 111; gene ID=Ccl-CYP81K1-Ciclev10000895m; assigned CYP name=CYP81C17; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D85 | missing | Workbook sheet Citrus clementina CYP71 clan row 112; gene ID=Ccl-CYP82C10-Ciclev10031216m; assigned CYP name=CYP82D85; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D91 | missing | Workbook sheet Citrus clementina CYP71 clan row 113; gene ID=Ccl-CYP82C11-Ciclev10031217m; assigned CYP name=CYP82D91; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D86 | missing | Workbook sheet Citrus clementina CYP71 clan row 114; gene ID=Ccl-CYP82C12-Ciclev10033457m; assigned CYP name=CYP82D86; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D84 | missing | Workbook sheet Citrus clementina CYP71 clan row 115; gene ID=Ccl-CYP82C2-Ciclev10000852m; assigned CYP name=CYP82D84; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D75 | missing | Workbook sheet Citrus clementina CYP71 clan row 116; gene ID=Ccl-CYP82C3-Ciclev10026027m; assigned CYP name=CYP82D75; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82C47 | missing | Workbook sheet Citrus clementina CYP71 clan row 117; gene ID=Ccl-CYP82C4-Ciclev10003803m; assigned CYP name=CYP82C47; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D64 | missing | Workbook sheet Citrus clementina CYP71 clan row 118; gene ID=Ccl-CYP82C5-Ciclev10025349m; assigned CYP name=CYP82D64; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D77 | missing | Workbook sheet Citrus clementina CYP71 clan row 119; gene ID=Ccl-CYP82C6-Ciclev10003405m; assigned CYP name=CYP82D77; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82C46 | missing | Workbook sheet Citrus clementina CYP71 clan row 120; gene ID=Ccl-CYP82C8-Ciclev10028201m; assigned CYP name=CYP82C46; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82C49 | missing | Workbook sheet Citrus clementina CYP71 clan row 121; gene ID=Ccl-CYP82E2-Ciclev10030016m; assigned CYP name=CYP82C49; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D87 | missing | Workbook sheet Citrus clementina CYP71 clan row 122; gene ID=Ccl-CYP82C9-Ciclev10031215m; assigned CYP name=CYP82D87; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D79 | missing | Workbook sheet Citrus clementina CYP71 clan row 123; gene ID=Ccl-CYP82D1-Ciclev10001118m; assigned CYP name=CYP82D79; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D78 | missing | Workbook sheet Citrus clementina CYP71 clan row 124; gene ID=Ccl-CYP82D2-Ciclev10000844m; assigned CYP name=CYP82D78; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D73 | missing | Workbook sheet Citrus clementina CYP71 clan row 125; gene ID=Ccl-CYP82D3-Ciclev10027089m; assigned CYP name=CYP82D73; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D74 | missing | Workbook sheet Citrus clementina CYP71 clan row 126; gene ID=Ccl-CYP82D4-Ciclev10027210m; assigned CYP name=CYP82D74; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D92 | missing | Workbook sheet Citrus clementina CYP71 clan row 127; gene ID=Ccl-CYP82D5-Ciclev10000846m; assigned CYP name=CYP82D92; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D93 | missing | Workbook sheet Citrus clementina CYP71 clan row 128; gene ID=Ccl-CYP82D6-Ciclev10003589m; assigned CYP name=CYP82D93; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D82 | missing | Workbook sheet Citrus clementina CYP71 clan row 129; gene ID=Ccl-CYP82D7-Ciclev10000809m; assigned CYP name=CYP82D82; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82C48 | missing | Workbook sheet Citrus clementina CYP71 clan row 130; gene ID=Ccl-CYP82E1-Ciclev10030381m; assigned CYP name=CYP82C48; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D83 | missing | Workbook sheet Citrus clementina CYP71 clan row 131; gene ID=Ccl-CYP82F1-Ciclev10000845m; assigned CYP name=CYP82D83; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D81 | missing | Workbook sheet Citrus clementina CYP71 clan row 132; gene ID=Ccl-CYP82F2-Ciclev10000851m; assigned CYP name=CYP82D81; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D90 | missing | Workbook sheet Citrus clementina CYP71 clan row 133; gene ID=Ccl-CYP82F3-Ciclev10031875m; assigned CYP name=CYP82D90; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D72 | missing | Workbook sheet Citrus clementina CYP71 clan row 134; gene ID=Ccl-CYP82F4-Ciclev10027086m; assigned CYP name=CYP82D72; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D76 | missing | Workbook sheet Citrus clementina CYP71 clan row 135; gene ID=Ccl-CYP82F5-Ciclev10001614m; assigned CYP name=CYP82D76; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D89 | missing | Workbook sheet Citrus clementina CYP71 clan row 136; gene ID=Ccl-CYP82F6-Ciclev10031635m; assigned CYP name=CYP82D89; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82D88 | missing | Workbook sheet Citrus clementina CYP71 clan row 137; gene ID=Ccl-CYP82F7-Ciclev10003959m; assigned CYP name=CYP82D88; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82L10 | missing | Workbook sheet Citrus clementina CYP71 clan row 138; gene ID=Ccl-CYP82G1-Ciclev10019706m; assigned CYP name=CYP82L10; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP82L11 | missing | Workbook sheet Citrus clementina CYP71 clan row 139; gene ID=Ccl-CYP82G2-Ciclev10019727m; assigned CYP name=CYP82L11; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F29 | missing | Workbook sheet Citrus clementina CYP71 clan row 140; gene ID=Ccl-CYP83A1-Ciclev10027422m; assigned CYP name=CYP83F29; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F13 | missing | Workbook sheet Citrus clementina CYP71 clan row 141; gene ID=Ccl-CYP83A10-Ciclev10018098m; assigned CYP name=CYP83F13; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F30 | missing | Workbook sheet Citrus clementina CYP71 clan row 142; gene ID=Ccl-CYP83A2-Ciclev10025429m; assigned CYP name=CYP83F30; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F20 | missing | Workbook sheet Citrus clementina CYP71 clan row 143; gene ID=Ccl-CYP83A3-Ciclev10025431m; assigned CYP name=CYP83F20; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F31 | missing | Workbook sheet Citrus clementina CYP71 clan row 144; gene ID=Ccl-CYP83A4-Ciclev10014976m; assigned CYP name=CYP83F31; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F15 | missing | Workbook sheet Citrus clementina CYP71 clan row 145; gene ID=Ccl-CYP83A5-Ciclev10018297m; assigned CYP name=CYP83F15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F32 | missing | Workbook sheet Citrus clementina CYP71 clan row 146; gene ID=Ccl-CYP83A6-Ciclev10017485m; assigned CYP name=CYP83F32; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F14 | missing | Workbook sheet Citrus clementina CYP71 clan row 147; gene ID=Ccl-CYP83A7-Ciclev10017465m; assigned CYP name=CYP83F14; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F34 | missing | Workbook sheet Citrus clementina CYP71 clan row 148; gene ID=Ccl-CYP83A8-Ciclev10014967m; assigned CYP name=CYP83F34; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F33 | missing | Workbook sheet Citrus clementina CYP71 clan row 149; gene ID=Ccl-CYP83A9-Ciclev10018318m; assigned CYP name=CYP83F33; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F27P | missing | Workbook sheet Citrus clementina CYP71 clan row 150; gene ID=Ccl-CYP83B1-Ciclev10004104m; assigned CYP name=CYP83F27P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F24 | missing | Workbook sheet Citrus clementina CYP71 clan row 151; gene ID=Ccl-CYP83B10-Ciclev10000924m; assigned CYP name=CYP83F24; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F36 | missing | Workbook sheet Citrus clementina CYP71 clan row 152; gene ID=Ccl-CYP83B11-Ciclev10019775m; assigned CYP name=CYP83F36; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F22 | missing | Workbook sheet Citrus clementina CYP71 clan row 153; gene ID=Ccl-CYP83B12-Ciclev10000886m; assigned CYP name=CYP83F22; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F37 | missing | Workbook sheet Citrus clementina CYP71 clan row 154; gene ID=Ccl-CYP83B2-Ciclev10004106m; assigned CYP name=CYP83F37; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F39 | missing | Workbook sheet Citrus clementina CYP71 clan row 155; gene ID=Ccl-CYP83B3-Ciclev10004103m; assigned CYP name=CYP83F39; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F26 | missing | Workbook sheet Citrus clementina CYP71 clan row 156; gene ID=Ccl-CYP83B4-Ciclev10004105m; assigned CYP name=CYP83F26; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F40 | missing | Workbook sheet Citrus clementina CYP71 clan row 157; gene ID=Ccl-CYP83B5-Ciclev10023683m; assigned CYP name=CYP83F40; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F38 | missing | Workbook sheet Citrus clementina CYP71 clan row 158; gene ID=Ccl-CYP83B6-Ciclev10019709m; assigned CYP name=CYP83F38; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F21 | missing | Workbook sheet Citrus clementina CYP71 clan row 159; gene ID=Ccl-CYP83B7-Ciclev10027382m; assigned CYP name=CYP83F21; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F41 | missing | Workbook sheet Citrus clementina CYP71 clan row 160; gene ID=Ccl-CYP83B8-Ciclev10023966m; assigned CYP name=CYP83F41; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F25 | missing | Workbook sheet Citrus clementina CYP71 clan row 161; gene ID=Ccl-CYP83B9-Ciclev10023326m; assigned CYP name=CYP83F25; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F42 | missing | Workbook sheet Citrus clementina CYP71 clan row 162; gene ID=Ccl-CYP83C1-Ciclev10018238m; assigned CYP name=CYP83F42; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F43P | missing | Workbook sheet Citrus clementina CYP71 clan row 163; gene ID=Ccl-CYP83C2-Ciclev10023506m; assigned CYP name=CYP83F43P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F35P | missing | Workbook sheet Citrus clementina CYP71 clan row 164; gene ID=Ccl-CYP83C3-Ciclev10024431m; assigned CYP name=CYP83F35P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP83F28P | missing | Workbook sheet Citrus clementina CYP71 clan row 165; gene ID=Ccl-CYP83C4-Ciclev10023665m; assigned CYP name=CYP83F28P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP84A62 | missing | Workbook sheet Citrus clementina CYP71 clan row 166; gene ID=Ccl-CYP84A1-Ciclev10025382m; assigned CYP name=CYP84A62; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP84A63 | missing | Workbook sheet Citrus clementina CYP71 clan row 167; gene ID=Ccl-CYP84A4-Ciclev10028122m; assigned CYP name=CYP84A63; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89A121 | missing | Workbook sheet Citrus clementina CYP71 clan row 168; gene ID=Ccl-CYP89A2-Ciclev10031236m; assigned CYP name=CYP89A121; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89A116 | missing | Workbook sheet Citrus clementina CYP71 clan row 169; gene ID=Ccl-CYP89A3-Ciclev10031193m; assigned CYP name=CYP89A116; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89A120 | missing | Workbook sheet Citrus clementina CYP71 clan row 170; gene ID=Ccl-CYP89A4-Ciclev10033851m; assigned CYP name=CYP89A120; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89A118 | missing | Workbook sheet Citrus clementina CYP71 clan row 171; gene ID=Ccl-CYP89A5-Ciclev10031268m; assigned CYP name=CYP89A118; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89A117 | missing | Workbook sheet Citrus clementina CYP71 clan row 172; gene ID=Ccl-CYP89A6-Ciclev10033803m; assigned CYP name=CYP89A117; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89A119 | missing | Workbook sheet Citrus clementina CYP71 clan row 173; gene ID=Ccl-CYP89A7-Ciclev10031272m; assigned CYP name=CYP89A119; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89A123 | missing | Workbook sheet Citrus clementina CYP71 clan row 174; gene ID=Ccl-CYP89A9-Ciclev10003406m; assigned CYP name=CYP89A123; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP89L1 | missing | Workbook sheet Citrus clementina CYP71 clan row 175; gene ID=Ccl-CYP89B1-Ciclev10011479m; assigned CYP name=CYP89L1; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93A65 | missing | Workbook sheet Citrus clementina CYP71 clan row 176; gene ID=Ccl-CYP93D1-Ciclev10033553m; assigned CYP name=CYP93A65; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93A69 | missing | Workbook sheet Citrus clementina CYP71 clan row 177; gene ID=Ccl-CYP93D2-Ciclev10033811m; assigned CYP name=CYP93A69; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93A70 | missing | Workbook sheet Citrus clementina CYP71 clan row 178; gene ID=Ccl-CYP93D3-Ciclev10033669m; assigned CYP name=CYP93A70; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93A66 | missing | Workbook sheet Citrus clementina CYP71 clan row 179; gene ID=Ccl-CYP93D4-Ciclev10033441m; assigned CYP name=CYP93A66; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93A68 | missing | Workbook sheet Citrus clementina CYP71 clan row 180; gene ID=Ccl-CYP93D5-Ciclev10033322m; assigned CYP name=CYP93A68; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93A67 | missing | Workbook sheet Citrus clementina CYP71 clan row 181; gene ID=Ccl-CYP93D6-Ciclev10033949m; assigned CYP name=CYP93A67; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93B27 | missing | Workbook sheet Citrus clementina CYP71 clan row 182; gene ID=Ccl-CYP93E1-Ciclev10019811m; assigned CYP name=CYP93B27; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP93B26 | missing | Workbook sheet Citrus clementina CYP71 clan row 183; gene ID=Ccl-CYP93E2-Ciclev10019810m; assigned CYP name=CYP93B26; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP98A79 | missing | Workbook sheet Citrus clementina CYP71 clan row 184; gene ID=Ccl-CYP98A3-Ciclev10011520m; assigned CYP name=CYP98A79; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP98A80 | missing | Workbook sheet Citrus clementina CYP71 clan row 185; gene ID=Ccl-CYP98A8-Ciclev10019813m; assigned CYP name=CYP98A80; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP98A81 | missing | Workbook sheet Citrus clementina CYP71 clan row 186; gene ID=Ccl-CYP98A9-Ciclev10000848m; assigned CYP name=CYP98A81; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP701A42 | missing | Workbook sheet Citrus clementina CYP71 clan row 187; gene ID=Ccl-CYP701A3-Ciclev10000902m; assigned CYP name=CYP701A42; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP701A41 | missing | Workbook sheet Citrus clementina CYP71 clan row 188; gene ID=Ccl-CYP701A4-Ciclev10000884m; assigned CYP name=CYP701A41; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP703A20 | missing | Workbook sheet Citrus clementina CYP71 clan row 189; gene ID=Ccl-CYP703A2-Ciclev10023470m; assigned CYP name=CYP703A20; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B11 | missing | Workbook sheet Citrus clementina CYP71 clan row 190; gene ID=Ccl-CYP706A10-Ciclev10017722m; assigned CYP name=CYP706B11; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B10 | missing | Workbook sheet Citrus clementina CYP71 clan row 191; gene ID=Ccl-CYP706A11-Ciclev10014940m; assigned CYP name=CYP706B10; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B18 | missing | Workbook sheet Citrus clementina CYP71 clan row 192; gene ID=Ccl-CYP706A12-Ciclev10014863m; assigned CYP name=CYP706B18; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B15 | missing | Workbook sheet Citrus clementina CYP71 clan row 193; gene ID=Ccl-CYP706A13-Ciclev10014861m; assigned CYP name=CYP706B15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B7 | missing | Workbook sheet Citrus clementina CYP71 clan row 194; gene ID=Ccl-CYP706A14-Ciclev10014858m; assigned CYP name=CYP706B7; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B9 | missing | Workbook sheet Citrus clementina CYP71 clan row 195; gene ID=Ccl-CYP706A15-Ciclev10017976m; assigned CYP name=CYP706B9; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706D4 | missing | Workbook sheet Citrus clementina CYP71 clan row 196; gene ID=Ccl-CYP706A16-Ciclev10024099m; assigned CYP name=CYP706D4; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B16P | missing | Workbook sheet Citrus clementina CYP71 clan row 197; gene ID=Ccl-CYP706A17-Ciclev10017469m; assigned CYP name=CYP706B16P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706C36 | missing | Workbook sheet Citrus clementina CYP71 clan row 198; gene ID=Ccl-CYP706A2-Ciclev10019693m; assigned CYP name=CYP706C36; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706J10 | missing | Workbook sheet Citrus clementina CYP71 clan row 199; gene ID=Ccl-CYP706A3-Ciclev10004821m; assigned CYP name=CYP706J10; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B14 | missing | Workbook sheet Citrus clementina CYP71 clan row 200; gene ID=Ccl-CYP706A4-Ciclev10019712m; assigned CYP name=CYP706B14; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B13 | missing | Workbook sheet Citrus clementina CYP71 clan row 201; gene ID=Ccl-CYP706A5-Ciclev10000860m; assigned CYP name=CYP706B13; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706J11 | missing | Workbook sheet Citrus clementina CYP71 clan row 202; gene ID=Ccl-CYP706A6-Ciclev10006782m; assigned CYP name=CYP706J11; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706J13 | missing | Workbook sheet Citrus clementina CYP71 clan row 203; gene ID=Ccl-CYP706A7-Ciclev10004733m; assigned CYP name=CYP706J13; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706J12 | missing | Workbook sheet Citrus clementina CYP71 clan row 204; gene ID=Ccl-CYP706A8-Ciclev10004717m; assigned CYP name=CYP706J12; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B8 | missing | Workbook sheet Citrus clementina CYP71 clan row 205; gene ID=Ccl-CYP706A9-Ciclev10014862m; assigned CYP name=CYP706B8; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP706B17P | missing | Workbook sheet Citrus clementina CYP71 clan row 206; gene ID=Ccl-CYP706B1-Ciclev10017705m; assigned CYP name=CYP706B17P; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP712A15 | missing | Workbook sheet Citrus clementina CYP71 clan row 207; gene ID=Ccl-CYP712A1-Ciclev10004841m; assigned CYP name=CYP712A15; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP712C4 | missing | Workbook sheet Citrus clementina CYP71 clan row 208; gene ID=Ccl-CYP712A2-Ciclev10007099m; assigned CYP name=CYP712C4; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP712J2 | missing | Workbook sheet Citrus clementina CYP71 clan row 209; gene ID=Ccl-CYP712A3-Ciclev10007112m; assigned CYP name=CYP712J2; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |
+| CYP712J3 | missing | Workbook sheet Citrus clementina CYP71 clan row 210; gene ID=Ccl-CYP712A4-Ciclev10006903m; assigned CYP name=CYP712J3; source contains names/annotations only | https://drnelson.uthsc.edu/Citrus.clementina.P450s.xlsx |

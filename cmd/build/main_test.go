@@ -74,8 +74,8 @@ func TestReviewedPlantResourceCountsAndRepresentativeSequences(t *testing.T) {
 		totalRecords += value.records
 		totalSequences += value.sequences
 	}
-	if totalRecords != 18172 || totalSequences != 18013 {
-		t.Fatalf("reviewed plant totals=%d records/%d sequences, want 18172/18013", totalRecords, totalSequences)
+	if totalRecords != 20636 || totalSequences != 19897 {
+		t.Fatalf("reviewed plant totals=%d records/%d sequences, want 20636/19897", totalRecords, totalSequences)
 	}
 	checks := map[string]struct {
 		id, symbol, prefix, suffix string
