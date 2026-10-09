@@ -1,16 +1,10 @@
-# Plant resource audit: Red Algae
+# Plant resource review: Red Algae
 
-- Source file: `plants-red.algae.index.doc`
-- URL: https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/red.algae.index.doc
-- Detected container: `Word document normalized to text`
-- Resource-local records: `1`
-- Records with accepted sequence: `0`
-- Extraction method used for this resource: `explicit sequence column`
-- Detected sequence-column header(s): ``
-- Rows with a non-empty sequence-column value: `0`
+- Index source: `plants-red.algae.index.doc`, SHA-256 `2fff7205cfacd8ffaa44d78c3686acca7cfc5f245d1510881724dc0cd1ae3089`
+- Cyanidioschyzon child source: `plants-redalgae.doc`, SHA-256 `688a40386047000757b4a1ac4ec65af697dfe4dac04992b298cb36903e783626`
+- Accepted Cyanidioschyzon merolae deduced proteins: `5`
+- Accepted Galdieria sulphuraria Phylip rows: `8`
+- Total records with literal sequence: `13`
+- Review status: `complete`
 
-## Review rule
-
-This resource is reviewed independently. FASTA extraction requires a CYP-bearing `>` header and sequence lines bounded by the next CYP header, a terminal `*`, or the first non-sequence annotation. Spreadsheet data is accepted only from an explicit `sequence` column. Alignment text, coordinates, descriptions, and unlabeled short fragments are rejected.
-
-Missing sequences remain empty until this exact source file is manually verified; no other database is used as a substitute.
+The index has two historical relative hyperlinks, `redalgae.htm` and `Galdiera.htm`. The migrated Cyanidioschyzon child document is available as `redalgae.doc` and supplies five complete deduced proteins. The Galdiera child URL is no longer available, so its eight records are taken only from the index's explicit complete `13    628` Phylip alignment. Alignment gaps are retained literally; no unalignment, repair or external completion is performed. The five Cyanidioschyzon child proteins exactly match their index rows after removing alignment gaps, providing a source-internal cross-check.

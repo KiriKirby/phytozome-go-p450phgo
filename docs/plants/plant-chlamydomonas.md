@@ -1,16 +1,9 @@
-# Plant resource audit: Chlamydomonas
+# Plant resource review: Chlamydomonas reinhardtii
 
-- Source file: `plants-chlamydomonas.doc`
-- URL: https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/chlamydomonas.doc
-- Detected container: `Word document normalized to text`
-- Resource-local records: `52`
-- Records with accepted sequence: `20`
-- Extraction method used for this resource: `FASTA block; explicit sequence column`
-- Detected sequence-column header(s): ``
-- Rows with a non-empty sequence-column value: `41`
+- Source SHA-256: `5570e540d9e03dc6e33081775c5739185634226c39ad3fac9e976cac40347179`
+- Source declaration: `39 named genes, 2 named pseudogenes, + one bacterial contaminant`
+- Accepted named/pseudogene CYP blocks: `41`
+- Excluded bacterial model: `1`
+- Review status: `complete`
 
-## Review rule
-
-This resource is reviewed independently. FASTA extraction requires a CYP-bearing `>` header and sequence lines bounded by the next CYP header, a terminal `*`, or the first non-sequence annotation. Spreadsheet data is accepted only from an explicit `sequence` column. Alignment text, coordinates, descriptions, and unlabeled short fragments are rejected.
-
-Missing sequences remain empty until this exact source file is manually verified; no other database is used as a substitute.
+The 41 Chlamydomonas CYP headers match the declared 39 genes plus two pseudogenes. Each block often contains an old assembly followed by an explicitly labelled `newest data: version 3` reconstruction; when present, only that latest literal reconstruction is published. Nested Cycas, Volvox, Medicago, human CYP4F and trace/alignment headers are comparison evidence and do not create records or add residues. The separately labelled bacterial scaffold is excluded. Coordinate, phase and wrapping markers are removed while literal X and internal stops remain.

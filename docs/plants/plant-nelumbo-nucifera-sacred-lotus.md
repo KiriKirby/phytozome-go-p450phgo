@@ -3,9 +3,9 @@
 - Source file: `plants-Lotus.P450s.Oct31.2012.xlsx`
 - URL: https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Lotus.P450s.Oct31.2012.xlsx
 - Detected container: `Excel workbook normalized to text`
-- Resource-local records: `4`
+- Resource-local records: `0`
 - Records with accepted sequence: `0`
-- Extraction method used for this resource: `explicit sequence column`
+- Extraction method used for this resource: `no accepted sequence; inspect source manually`
 - Detected sequence-column header(s): ``
 - Rows with a non-empty sequence-column value: `0`
 

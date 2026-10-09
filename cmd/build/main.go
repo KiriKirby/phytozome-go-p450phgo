@@ -22,7 +22,8 @@ import (
 )
 
 type record struct {
-	ID, Category, Species, Symbol, Description, Sequence, SourceURL string
+	ID, RecordKey, Category, Species, Symbol, Description, Sequence, SourceURL string
+	ReviewStatus                                                               string `json:"-"`
 }
 type speciesRecord struct {
 	Name        string `json:"name"`
@@ -45,22 +46,17 @@ func main() {
 	out := flag.String("out", "p450phgo.pgd", "output PGD path")
 	sources := flag.String("sources", "sources", "reviewed structured source directory")
 	docs := flag.String("species-docs", "docs/species", "generated per-species audit documentation")
-	extracted := flag.String("extracted", "extracted-v4", "Office-normalized resource text directory")
 	resources := flag.String("resource-index", "sources/resources.csv", "resource manifest CSV")
 	flag.Parse()
 	_, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
 	defer cancel()
-	// Resource text is retained for audit and parser development. Formal
-	// records are emitted only by resource-specific parsers plus reviewed CSV.
-	records, err := parseExtracted(*resources, *extracted)
+	// Formal records come only from reviewed, resource-specific structured
+	// inputs. The legacy parseExtracted helper is retained temporarily for
+	// comparison tests, but must never contribute records to a published PGD.
+	records, err := readReviewedSources(*sources)
 	if err != nil {
 		panic(err)
 	}
-	reviewed, err := readReviewedSources(*sources)
-	if err != nil {
-		panic(err)
-	}
-	records = mergeRecords(records, reviewed)
 	allSpecies, err := readManifestSpecies(*resources)
 	if err != nil {
 		panic(err)
@@ -97,13 +93,13 @@ func writeAuditSummary(path string, records []record, species []speciesRecord) e
 		counts[r.Category] = v
 	}
 	var b strings.Builder
-	b.WriteString("# Complete Dr. Nelson resource audit\n\n")
-	fmt.Fprintf(&b, "This summary is generated from the current normalized resource set. Every listed species/resource is represented in its own Markdown file under `species/` or `resources/`. No external sequence database is consulted.\n\nSpecies/resource entries: %d\n\n| Category | PGD records | Verified sequences |\n|---|---:|---:|\n", len(species))
+	b.WriteString("# Reviewed Dr. Nelson resource audit\n\n")
+	fmt.Fprintf(&b, "This summary is generated only from completed resource-specific structured inputs. Listed but unfinished resources remain disabled and do not contribute records. No external sequence database is consulted.\n\nListed species/resource entries: %d\n\n| Category | Reviewed PGD records | Literal source sequences |\n|---|---:|---:|\n", len(species))
 	for _, cat := range []string{"animals", "plants", "fungi", "bacteria"} {
 		v := counts[cat]
 		fmt.Fprintf(&b, "| %s | %d | %d |\n", cat, v[0], v[1])
 	}
-	b.WriteString("\nSequence acceptance rules:\n\n- Real FASTA blocks: `>` header containing a CYP identifier, followed by wrapped amino-acid lines until the next header.\n- Structured tables: sequence is accepted only from an explicitly labeled `sequence` or `protein sequence` column.\n- Scores, alignment snippets, comments, accession text, and ambiguous unlabeled fields are not sequences.\n- Missing or ambiguous sequences remain empty in PGD and are documented as `missing`; they are never filled from another database.\n")
+	b.WriteString("\nRelease acceptance rules:\n\n- Each resource must have its own reviewed parser or reviewed structured CSV.\n- Source blocks/rows, duplicate names, species relationships, fragments, pseudogenes, and comparison records are decided for that exact file.\n- Scores, alignment snippets, comments, accession text, and ambiguous unlabeled fields are not sequences.\n- Missing or ambiguous sequences remain empty; they are never filled from another database.\n- The legacy category-wide normalized-text scanner does not contribute release records.\n")
 	return os.WriteFile(path, []byte(b.String()), 0o644)
 }
 
@@ -134,12 +130,21 @@ func writePlantAuditDocs(manifestPath, root string, records []record) error {
 	if err := os.MkdirAll(root, 0o755); err != nil {
 		return err
 	}
+	reviewedFiles, err := reviewedPlantSourceFiles(filepath.Join(filepath.Dir(manifestPath), "reviewed", "plants"))
+	if err != nil {
+		return err
+	}
 	for _, row := range rows[1:] {
 		if get(row, "category") != "plants" {
 			continue
 		}
 		label, local, source := get(row, "species_label"), get(row, "local_file"), get(row, "source_url")
 		if label == "" {
+			continue
+		}
+		// Resource-specific review commands own their completed audit files.
+		// Never replace those decisions with the legacy category-wide summary.
+		if reviewedFiles[local] {
 			continue
 		}
 		count, seq := 0, 0
@@ -183,6 +188,40 @@ func writePlantAuditDocs(manifestPath, root string, records []record) error {
 		}
 	}
 	return nil
+}
+
+func reviewedPlantSourceFiles(root string) (map[string]bool, error) {
+	out := map[string]bool{}
+	matches, err := filepath.Glob(filepath.Join(root, "*.csv"))
+	if err != nil {
+		return nil, err
+	}
+	for _, path := range matches {
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return nil, err
+		}
+		rows, err := csv.NewReader(strings.NewReader(strings.TrimPrefix(string(data), "\ufeff"))).ReadAll()
+		if err != nil || len(rows) < 2 {
+			continue
+		}
+		column := -1
+		for i, value := range rows[0] {
+			if strings.EqualFold(strings.TrimSpace(value), "source_file") {
+				column = i
+				break
+			}
+		}
+		if column < 0 {
+			continue
+		}
+		for _, row := range rows[1:] {
+			if column < len(row) && strings.TrimSpace(row[column]) != "" {
+				out[strings.TrimSpace(row[column])] = true
+			}
+		}
+	}
+	return out, nil
 }
 
 // writePlantRecordAudit is intentionally verbose. It is the durable review
@@ -247,13 +286,17 @@ func writePlantRecordAudit(manifestPath, path string, records []record) error {
 			if seq != "" {
 				status, reason = "accepted", ""
 			}
+			statuses := map[string]bool{}
+			for _, statusValue := range strings.Split(strings.ToLower(r.ReviewStatus), ";") {
+				statuses[strings.TrimSpace(statusValue)] = true
+			}
+			terminal := strings.HasSuffix(seq, "*") || statuses["terminal-marker"]
+			fragment := statuses["fragment"] || statuses["partial"] || statuses["pseudogene"] || statuses["source-pseudogene-label"]
+			est := statuses["est"]
+			foreign := statuses["other-species"] || statuses["multi-species"] || statuses["foreign-species"]
 			desc := strings.ToLower(r.Description)
-			terminal := strings.HasSuffix(seq, "*") || strings.Contains(desc, "terminal")
-			fragment := strings.Contains(desc, "fragment") || strings.Contains(desc, "partial") || strings.Contains(desc, "pseudogene")
-			est := strings.Contains(desc, "est")
-			foreign := strings.Contains(desc, "other-species") || strings.Contains(desc, "multi-species")
 			method := "profile-defined"
-			if strings.Contains(desc, "FASTA") {
+			if strings.Contains(desc, "fasta") {
 				method = "FASTA block"
 			} else if strings.Contains(desc, "sequence column") {
 				method = "explicit sequence column"
@@ -636,10 +679,20 @@ func aggregateResource(category, label string) bool {
 }
 
 func readReviewedSources(root string) ([]record, error) {
-	matches, err := filepath.Glob(filepath.Join(root, "*.csv"))
+	var matches []string
+	err := filepath.WalkDir(root, func(path string, entry os.DirEntry, walkErr error) error {
+		if walkErr != nil {
+			return walkErr
+		}
+		if !entry.IsDir() && strings.EqualFold(filepath.Ext(entry.Name()), ".csv") {
+			matches = append(matches, path)
+		}
+		return nil
+	})
 	if err != nil {
 		return nil, err
 	}
+	sort.Strings(matches)
 	var out []record
 	for _, path := range matches {
 		data, err := os.ReadFile(path)
@@ -679,10 +732,11 @@ func readReviewedSources(root string) ([]record, error) {
 			}
 			symbol := get("symbol")
 			species := get("species")
-			if symbol == "" || species == "" {
+			id := first(get("id"), symbol)
+			if id == "" || species == "" {
 				continue
 			}
-			out = append(out, record{ID: first(get("id"), symbol), Category: get("category"), Species: species, Symbol: symbol, Description: get("source_note"), Sequence: get("sequence"), SourceURL: get("source_url")})
+			out = append(out, record{ID: id, RecordKey: get("record_key"), Category: get("category"), Species: species, Symbol: symbol, Description: get("source_note"), Sequence: get("sequence"), SourceURL: get("source_url"), ReviewStatus: get("review_status")})
 		}
 	}
 	return out, nil
@@ -700,7 +754,7 @@ func mergeRecords(groups ...[]record) []record {
 	var out []record
 	for _, group := range groups {
 		for _, r := range group {
-			k := strings.ToLower(strings.Join([]string{r.Category, r.Species, r.Symbol, r.ID, r.SourceURL}, "|"))
+			k := strings.ToLower(strings.Join([]string{r.Category, r.Species, r.Symbol, r.ID, r.RecordKey, r.SourceURL}, "|"))
 			if i, ok := seen[k]; ok {
 				if out[i].Description == "" {
 					out[i].Description = r.Description

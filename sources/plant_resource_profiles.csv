@@ -4,57 +4,61 @@ plants-Capsicum.annuum.xlsx,reviewed,excel,tabular rows,explicit sequence column
 plants-Thellungiella.parvula.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
 plants-Eutrema.salsugineum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
 plants-Capsella.grandiflora.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook contains terminal sequence values
-plants-Capsella.rubella.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Brassica.rapa.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Boechera.stricta.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-papaya.doc,reviewed,word,FASTA-like CYP blocks,terminal-star bounded protein,Headers and sequences separated by coordinates and similarity notes
-plants-Mimulus.guttatus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Theobroma.cacao.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Gossypium.raimondii.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Eucalyptus.grandis.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than sign is part of row identifier not multiline FASTA
-plants-Cucumis.sativus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Header explicitly names sequence
-plants-Citrulus.lanatus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Sequence stored in final table field
-plants-Prunus.persica.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Updated peach workbook
-plants-Prunus.persica.P450s.doc,reviewed,word,annotated CYP blocks,header-bounded protein lines,Older peach report retained separately
-plants-Prunus.mume.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Malus.domestica.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Fragaria.ananassa.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than-prefixed identifiers remain table rows
-plants-Fragaria.vesca.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Cannabis.sativa.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-soybean.doc,reviewed,word,mixed annotated CYP blocks,terminal-star bounded protein,Contains GenBank and Phytozome additions
-plants-medicago.seqs.doc,reviewed,word,mixed sequence pieces,CYP-header bounded protein,Includes duplicates and other-species assembly helpers; exact CYP blocks only
-plants-Lotus.japonicus.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Cicer.arietinum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook includes incomplete models; retain literal sequence only
-plants-Cajanus.cajanifolius.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Jatropha.P450s.2012.doc,reviewed,word,genomic-contig CYP report,CYP-header bounded protein,Do not treat genomic coordinates as protein
-plants-Ricinus.communis.doc,reviewed,word,GenPept-derived CYP blocks,terminal-star bounded protein,Accept literal protein only
-plants-Manihot.esculenta.seqs.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Linum.usitatissimum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-vitis.doc,reviewed,word,mixed GenPept and gene-model blocks,terminal-star bounded protein,Contains CAN accessions and predicted models
-plants-Lotus.P450s.Oct31.2012.xlsx,reviewed,excel,annotation table,no sequence unless explicit sequence column,Annotation workbook paired with separate sequence document
-plants-Lotus.P450.set.doc,reviewed,word,FASTA-like sequence set,terminal-star bounded protein,Primary sacred-lotus sequence source; redundant contigs noted by source
-plants-Aquilegia.coerulea.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Aquilegia.P450s.doc,reviewed,word,older annotated blocks,CYP-header bounded protein,Old version retained as separate provenance
-plants-zea.doc,reviewed,word,EST family report,explicit CYP block fragments only,EST fragments are never labelled complete
-plants-Oryza.brachyantha.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than-prefixed IDs are table rows
-plants-Brachypodium.FASTA.doc,reviewed,word,canonical FASTA,terminal-star or next-header bounded protein,Direct FASTA resource
-plants-Setaria.italica.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Panicum.virgatum.xlsx,reviewed,excel,length-sorted sequence table,explicit sequence column only,Header explicitly contains gene ID length and sequence
-plants-Triticum.aestivum.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-sorghum.doc,reviewed,word,gene-bin CYP report,CYP-header bounded protein,Ampersand-separated gene bins require literal block boundaries
-plants-lolium.doc,reviewed,word,HTML-preformatted report,CYP-header bounded protein,Ignore HTML tags and descriptive text
-plants-Musa.acuminata.xlsx,reviewed,excel,FASTA-prefixed tabular rows,explicit sequence column only,Greater-than-prefixed identifiers remain table rows
-plants-Phoenix.dactylifera.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
-plants-Amborella.doc,reviewed,word,pre-name annotation report,CYP-header bounded protein,Old sequence file; only assigned CYP blocks are publishable
-plants-Pinus.P450.doc,reviewed,word,accession and legacy sequence report,CYP-header bounded protein,Old conifer collection with external link notes
-plants-ferns.doc,reviewed,word,sparse named CYP report,CYP-header bounded protein,Several taxa may occur; retain source header relationship
-plants-Selaginella.P450s.doc,reviewed,word,evolutionary annotation plus CYP blocks,CYP-header bounded protein,Introductory prose is not sequence
-plants-moss.doc,reviewed,word,sequence pieces and pseudogenes,CYP-header bounded protein,Other-species assembly helpers excluded unless exact header relationship
-plants-liverwort.doc,reviewed,word,EST-derived CYP report,explicit CYP block fragments only,Most entries are EST fragments and must remain marked as such
-plants-chlamydomonas.doc,reviewed,word,gene-model exon report,terminal-star bounded assembled protein,Coordinate/exon lines cannot be concatenated as amino acids
-plants-volvox.doc,reviewed,word,annotated CYP blocks,terminal-star bounded protein,Volvox comparison annotations excluded
-plants-Chlorella.vulgaris.doc,reviewed,word,inline FamAln report,CYP-header bounded protein,Header and sequence may share normalized paragraphs
-plants-Chlorella.variabilis.doc,reviewed,word,inline FamAln report,CYP-header bounded protein,Header and sequence may share normalized paragraphs
-plants-ostreococcus.doc,reviewed,word,multi-species CYP report,CYP-header bounded protein,Three Ostreococcus species occur in one resource
-plants-micromonas.doc,reviewed,word,multi-species CYP report,CYP-header bounded protein,RCC299 and CCMP1545 occur in one resource
-plants-red.algae.index.doc,reviewed,word,multi-genome index and CYP blocks,CYP-header bounded protein,Species must follow each source header rather than the page label
+plants-Capsella.rubella.xlsx,reviewed,excel,tabular rows,explicit sequence column only,Uppercase sheet name and H:L layout reviewed independently
+plants-Brassica.rapa.xlsx,reviewed,excel,tabular rows,explicit sequence column only,H:L layout rows 2-378 reviewed independently
+plants-Boechera.stricta.xlsx,reviewed,excel,resource-specific rows 2-228,blank-headed L column,Rows 229-234 excluded because best hit and CYP name are empty; literal O/X/gaps retained
+plants-papaya.doc,reviewed,word,225 resource-specific header blocks,literal sequence lines with reviewed coordinate and phase-marker forms,182 papaya blocks accepted and 43 explicit Vitis vinifera comparison blocks excluded
+plants-Mimulus.guttatus.xlsx,reviewed,excel,resource-specific rows 2-369,blank-headed L column,Rows 370-383 excluded because best hit and CYP name are empty; digit-P pseudogene rule avoids CYP71AP14 false positive
+plants-Theobroma.cacao.xlsx,reviewed,excel,resource-specific rows 2-337,blank-headed L column,Rows 338-347 excluded because best hit and CYP name are empty; literal O/X/gaps retained
+plants-Gossypium.raimondii.xlsx,reviewed,excel,resource-specific rows 2-450,blank-headed L column,Rows 451-462 excluded; row 161 retains the literal 1520-aa source value without truncation
+plants-Eucalyptus.grandis.xlsx,reviewed,excel,resource-specific rows 2-770,explicit sequence column L only,Rows 755/757-759/768-770 excluded as non-CYP model IDs; row 771 blank; rows 772-773 legend; lowercase x and internal stops retained; terminal stops removed only
+plants-Cucumis.sativus.xlsx,reviewed,excel,resource-specific rows 2-230,explicit sequence column J only,Sheet sorted by CYP name with A/H/I/J reviewed; seven terminal stops removed; internal stops/gaps/O/X retained; 27 digit-P labels flagged
+plants-Citrulus.lanatus.xlsx,reviewed,excel,headerless resource-specific rows 1-233,assigned CYP column K and literal sequence column L,Rows 234-244 excluded because I/J/K assignments are empty; gaps/O/X and four duplicate-sequence groups retained
+plants-Prunus.persica.xlsx,reviewed,excel,resource-specific rows 2-320,assigned CYP column K and literal sequence column L,Rows 321-326 excluded because I/J/K assignments are empty; gaps/O and four duplicate-sequence groups retained
+plants-Prunus.persica.P450s.doc,reviewed,word,306 exact Phytozome peptide header blocks,uppercase protein lines bounded by the next header,Source title claims 305 but body contains 306 complete unannotated blocks; symbol remains empty; two exact duplicate header/sequence groups retained
+plants-Prunus.mume.xlsx,reviewed,excel,resource-specific rows 2-283,assigned CYP column K and literal sequence column L,Rows 284-288 excluded because I/J/K assignments are empty; exact trailing-space header and four duplicate-sequence pairs retained
+plants-Malus.domestica.xlsx,reviewed,excel,resource-specific rows 2-332,assigned CYP column K and literal sequence column L,Rows 333-349 excluded because I/J/K assignments are empty; duplicate ID and duplicate-sequence rows remain distinct
+plants-Fragaria.ananassa.xlsx,reviewed,excel,resource-specific rows 2-207,FASTA-prefixed A-column IDs and literal L-column sequence,Rows 208-225 are opposite-strand no-hit models; assigned row 207 uses A because H is a strand marker
+plants-Fragaria.vesca.xlsx,reviewed,excel,resource-specific rows 2-332,assigned CYP column K and literal sequence column L,Rows 333-336 excluded because I/J/K assignments are empty; three duplicate-sequence pairs remain distinct
+plants-Cannabis.sativa.xlsx,reviewed,excel,resource-specific rows 2-357,assigned CYP column K and literal sequence column L,Rows 358-421 match the source legend's 64 no-hit out-of-frame models; row 422 blank and row 423 legend verified
+plants-soybean.doc,reviewed,word,171 exact CYP annotation blocks before explicit EST appendix,whole-paragraph literal protein with reviewed coordinate phase and frameshift notation,115 blocks have protein and 56 remain sequence-missing; 953 gi nucleotide EST blocks excluded without translation
+plants-medicago.seqs.doc,reviewed,word,376 exact header-delimited sequence pieces,resource-specific whole-line protein plus exact ABE79358 inline layout,349 Medicago pieces retained independently; 24 explicit other-species helpers and 3 false positives excluded
+plants-Lotus.japonicus.xlsx,reviewed,excel,Sorted by CYP name A1:L286,H/L exact ID and literal sequence columns,rows 2-247 assigned; rows 248-286 excluded because best-hit percent-identity and assigned-CYP fields are empty
+plants-Cicer.arietinum.xlsx,reviewed,excel,Sorted by CYP name A1:L231,H/L exact ID and literal sequence columns,rows 2-212 assigned; rows 213-231 excluded because best-hit percent-identity and assigned-CYP fields are empty
+plants-Cajanus.cajanifolius.xlsx,reviewed,excel,Sorted by CYP name A1:L309,H/L exact ID and literal sequence columns,rows 2-292 assigned; rows 293-309 excluded because best-hit percent-identity and assigned-CYP fields are empty
+plants-Jatropha.P450s.2012.doc,reviewed,word,537 exact header-delimited genomic-contig blocks,resource-specific literal protein lines with reviewed coordinate phase and join markers,481 Jatropha sequence blocks retained; 32 Ricinus 1 Populus 20 explicit false-positive and 3 structural/name-only blocks excluded
+plants-Ricinus.communis.doc,reviewed,word,264 exact header-delimited GenPept-derived blocks,resource-specific literal protein lines with reviewed coordinate phase and join markers,263 CYP blocks retained; final explicit bacterial contamination block excluded
+plants-Manihot.esculenta.seqs.xlsx,reviewed,excel,Sorted by CYP name A1:L349,H/L exact ID and literal sequence columns,rows 2-337 assigned; rows 338-349 excluded because best-hit percent-identity and assigned-CYP fields are empty
+plants-Linum.usitatissimum.xlsx,reviewed,excel,Sorted by CYP name A1:L479,H/L exact ID and literal sequence columns,rows 2-469 assigned; rows 470-479 excluded because best-hit percent-identity and assigned-CYP fields are empty
+plants-vitis.doc,reviewed,word,702 individually reviewed header blocks,exact block-specific protein lines; 30 explicit foreign naming-reference blocks excluded; block 693 ends at line 8067,672 source-native Vitis blocks retained; historical 591 statement predates current alternates/revisions
+plants-Lotus.P450s.Oct31.2012.xlsx,reviewed,excel,three reviewed sheets; name-order rows 2-373,annotation-only paired with exact Word sequence source,372 model rows resolve to workbook-declared 355 curated sequences; no sequence column so no duplicate empty PGD rows
+plants-Lotus.P450.set.doc,reviewed,word,366 individually reviewed blocks,block-bounded literal protein lines,364 Nelumbo blocks retained including nine redundant contig representations; blocks 276-277 explicitly Aquilegia and excluded
+plants-Aquilegia.coerulea.xlsx,reviewed,excel,Sorted by CYP name A1:K565,G/J/K exact ID assignment and literal sequence; rows 2-552 assigned,rows 553-565 excluded because best-hit percent-identity and assigned-CYP fields are empty
+plants-Aquilegia.P450s.doc,reviewed,word,472 explicit Aquilegia header blocks,annotation-line CYP plus exact block protein lines,all 472 source-declared sequences retained; literal broad like-76/80 and 716/718-cluster labels preserved
+plants-Lotus.P450s.Oct31.2012.xlsx,pending-resource-specific-review,excel,annotation table,no sequence unless explicit sequence column,Annotation workbook paired with separate sequence document
+plants-Lotus.P450.set.doc,pending-resource-specific-review,word,FASTA-like sequence set,terminal-star bounded protein,Primary sacred-lotus sequence source; redundant contigs noted by source
+plants-Aquilegia.coerulea.xlsx,pending-resource-specific-review,excel,tabular rows,explicit sequence column only,Workbook table reviewed independently
+plants-Aquilegia.P450s.doc,pending-resource-specific-review,word,older annotated blocks,CYP-header bounded protein,Old version retained as separate provenance
+plants-zea.doc,reviewed,word,26 family-sorted EST groups,coordinate-delimited literal protein fragments,18 groups have source protein fragments and 8 remain empty; 42-accession alphabetical appendix is an index
+plants-Oryza.brachyantha.xlsx,reviewed,excel,rows 2-317 on exact sorted sheet,headerless L literal sequence column,Four out-of-frame rows 318-321 with empty CYP assignment excluded
+plants-Brachypodium.FASTA.doc,reviewed,word,279 CYP header blocks,reviewed coordinate and phase-marker protein lines,278 Brachypodium blocks accepted; one explicit Sorghum comparison excluded
+plants-Setaria.italica.xlsx,reviewed,excel,assigned rows 2-414,headerless K literal sequence column,Rows 415-419 are unassigned out-of-frame translations and excluded
+plants-Panicum.virgatum.xlsx,reviewed,excel,806 rows in CYP-name sheet,G literal sequence column; length sheet cross-check only,Four source revisions differ between alternate-order sheets and are audited
+plants-Triticum.aestivum.xlsx,reviewed,excel,assigned rows 2-1476,H best-hit label and J literal sequence,Rows 1477-1700 unassigned and row 1701 bacterial contamination excluded
+plants-sorghum.doc,reviewed,word,628 models in 372 ampersand bins,model-header bounded literal protein,Two exact Word-joined headers restored; unrevised models retained independently
+plants-lolium.doc,reviewed,word,16 clone and GenBank blocks,terminal-stop bounded literal protein,Source explicitly says sequences are not named; symbols remain empty
+plants-Musa.acuminata.xlsx,reviewed,excel,headerless rows 1-233,M literal sequence column,All 233 rows assigned; A FASTA ID cross-checked against H
+plants-Phoenix.dactylifera.xlsx,reviewed,excel,assigned rows 2-210,L literal sequence column,Rows 211-232 unassigned out-of-frame translations excluded
+plants-Amborella.doc,reviewed,word index plus xlsx and named FASTA,230 assigned workbook rows in exact named-FASTA order,F literal sequence column; FASTA exact cross-check,Old annotated document is a historical pre-name release and is not imported twice
+plants-Pinus.P450.doc,reviewed,word,4 complete proteins plus exact 74-entry EST catalogue,only the four pre-catalogue literal protein blocks,BLAST alignment rows are evidence only; 74 catalogue entries remain sequence-missing
+plants-ferns.doc,reviewed,word,18 CYP-heading blocks for two fern taxa,block-bounded literal protein including coordinate layouts,Broad and question-mark CYP labels remain literal
+plants-Selaginella.P450s.doc,reviewed,word,517 explicit model and allele headers,header-bounded literal protein with reviewed coordinate and phase layouts,Named and source-unassigned clan models remain distinct
+plants-moss.doc,reviewed,word,115 headers with declared moss foreign and contaminant groups,96 block-bounded moss proteins,15 foreign helpers 3 bacterial contaminants and one alignment-only comparison excluded
+plants-liverwort.doc,reviewed,word,38 explicit Marchantia blocks despite title count 35,block-bounded literal EST-derived protein fragments,Accession appendix is provenance only
+plants-chlamydomonas.doc,reviewed,word,41 primary Chlamydomonas CYP blocks,latest explicitly labelled reconstruction or sole block-local literal protein,Nested model IDs before residues are metadata; later comparison headers and the bacterial scaffold are excluded
+plants-volvox.doc,reviewed,word,23 physical headers containing 19 Volvox CYP blocks,block-local pure residue and reviewed coordinate/phase lines through explicit terminal stop,Two Chlamydomonas reconstructions plus bacterial and human comparison records excluded
+plants-Chlorella.vulgaris.doc,reviewed,word,37 CYP-header FamAln blocks,contiguous uppercase protein lines inside each exact block,CYP855C1P stops before source marker This part not P450 seq; CYP863-fragment1 retained
+plants-Chlorella.variabilis.doc,reviewed,word,19 CYP-header FamAln blocks,contiguous uppercase protein lines inside each exact block,CYP710B1 literal X run retained; explicit CYP845A3a/b duplicate models retained independently
+plants-ostreococcus.doc,reviewed,word,30 CYP-header blocks across three source sections,header-bounded literal protein with coordinate-edge cleanup and explicit terminal-stop removal,Physical split is 10 tauri/11 lucimarinus/9 RCC809 despite stale 10/10/10 prose; all alternate models retained
+plants-micromonas.doc,reviewed,word,32 CYP-header blocks across RCC299 CCMP1545 and explicit CCMP490 EST sources,header-bounded literal residue lines with terminal-stop-only removal,Alternate/deleted models and no-stop fragments retained independently
+plants-red.algae.index.doc,reviewed,word,index plus Cyanidioschyzon child document and explicit 13-row Phylip alignment,5 child-document deduced proteins plus 8 literal Galdieria aligned rows with gaps retained,Unavailable Galdiera child URL is not externally completed; source-internal cross-check matches all five Cyanidioschyzon rows

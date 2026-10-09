@@ -2,9 +2,9 @@
 
 Category: `plants`
 
-Records: 2
+Records: 1
 
-Sequence audit: `0/2` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+Sequence audit: `0/1` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
 
 Extraction method(s): ``.
 
@@ -12,5 +12,4 @@ A missing sequence means the current Dr. Nelson resource did not provide an unam
 
 | CYP / ID | Sequence | Description | Source |
 |---|---|---|---|
-| CYP51G1 | missing | Parsed structured resource text; sequence only from explicit sequence column: plants-Aquilegia.P450s.doc | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Aquilegia.P450s.doc |
 | CYP84A1 | missing | Table S2: Sequence identities among CAld5H (CYP84) proteins | user-provided-table-s2 |

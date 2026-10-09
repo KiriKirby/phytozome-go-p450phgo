@@ -1,0 +1,531 @@
+# Selaginella moellendorffii
+
+Category: `plants`
+
+Records: 517
+
+Sequence audit: `517/517` records have an accepted sequence; short records (<100 aa): `22`; unusually long records (>1000 aa): `0`.
+
+Extraction method(s): `reviewed structured record`.
+
+A missing sequence means the current Dr. Nelson resource did not provide an unambiguous protein sequence for this exact record. No external database sequence is substituted.
+
+| CYP / ID | Sequence | Description | Source |
+|---|---|---|---|
+| CYP51G1v1 | present (494 aa) | CYP51G1v1 estExt_Genewise1Plus.C_470465\|Selmo1 98% to CYP51G1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP51G1v2 | present (426 aa) | CYP51G1v2 estExt_Genewise1.C_540443\|Selmo1 99% to CYP51G1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP51G1v2 | present (494 aa) | CYP51G1v2    Selaginella moellendorffii (Lycopod) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP73A56v1 | present (518 aa) | CYP73A56v1 estExt_Genewise1Plus.C_320377\|Selmo1 99% to estExt_Genewise1Plus.C_450434\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP73A56v2 | present (518 aa) | CYP73A56v2 estExt_Genewise1Plus.C_450434\|Selmo1 60% to CYP73A50 moss, 71% to 73A5 Arab. | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP77C1v1 | present (503 aa) | CYP77C1v1 gw1.14.347.1\|Selmo1 99% to e_gw1.37.107.1\|Selmo1 38% to CYP89A10 Cucumis | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP77C1v2 | present (502 aa) | CYP77C1v2 e_gw1.37.107.1\|Selmo1 44% to 77A14 Vitis, | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP77C2 | present (503 aa) | CYP77C2 e_gw1.14.162.1\|Selmo1 98% to e_gw1.37.107.1\|Selmo1, 42% to CYP77A9 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP77D1 | present (482 aa) | CYP77D1 gw1.4.1172.1\|Selmo1 36% to CYP77A4. N- and C- terminal added. 39% to CYP77C2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A30 | present (526 aa) | CYP78A30 e_gw1.41.89.1\|Selmo1 91% to e_gw1.41.91.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A43v1 | present (523 aa) | CYP78A43v1 e_gw1.35.149.1\|Selmo1 93% to e_gw1.41.91.1\|Selmo1 55% to CYP78A9 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A43v2 | present (523 aa) | CYP78A43v2 e_gw1.41.93.1\|Selmo1 92% to e_gw1.41.91.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A45v1 | present (524 aa) | CYP78A45v1 e_gw1.35.145.1\|Selmo1 89% to e_gw1.41.91.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A45v2 | present (522 aa) | CYP78A45v2 e_gw1.41.24.1\|Selmo1 96% to e_gw1.35.145.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A46v1 | present (522 aa) | CYP78A46v1 e_gw1.35.150.1\|Selmo1 92% to e_gw1.41.91.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A46v2 | present (522 aa) | CYP78A46v2 e_gw1.41.92.1\|Selmo1 92% to e_gw1.41.91.1\|Selmo1, 59% to CYP78A11 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A44v1 | present (521 aa) | CYP78A44v1 e_gw1.35.39.1\|Selmo1 97% to e_gw1.41.91.1\|Selmo1 91% to CYP78A43v1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A44v2 | present (521 aa) | CYP78A44v2 e_gw1.41.91.1\|Selmo1 64% to CYP78A28 moss, | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (218 aa) | fgenesh2_pg.C_scaffold_41000176\|Selmo1 93% to e_gw1.35.145.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (83 aa) | e_gw1.19.247.1\|Selmo1 79% to e_gw1.35.145.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A47v2 | present (545 aa) | CYP78A47v2 gw1.53.10.1\|Selmo1 53% to CYP78A7 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A47v1 | present (545 aa) | CYP78A47v1 gw1.7.29.1\|Selmo1 100% to gw1.53.10.1\|Selmo1 missing N-terminal | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A48v1 | present (530 aa) | CYP78A48v1 e_gw1.1.502.1\|Selmo1 99% to e_gw1.5.279.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A48v2 | present (530 aa) | CYP78A48v2 e_gw1.5.279.1\|Selmo1 69% to e_gw1.41.91.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A49v1 | present (45 aa) | CYP78A49v1 e_gw1.13.253.1 missing N-terminal | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP78A49v2 | present (552 aa) | CYP78A49v2 e_gw1.66.204.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP98A38v1 | present (524 aa) | CYP98A38v1 estExt_fgenesh1_kg.C_470009\|Selmo1 99% to 98A38 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP98A38v2 | present (524 aa) | CYP98A38v2 estExt_Genewise1Plus.C_540107\|Selmo1 99% to 98A38 same as SMCYP98 Jing-Ke | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP98A38v2 | present (524 aa) | CYP98A38v2   Selaginella moellendorffii | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP701C1v1 | present (500 aa) | CYP701C1v1 e_gw1.0.513.1\|Selmo1 99% to e_gw1.60.109.1\|Selmo1 missing small N-terminal | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP701C1v2 | present (500 aa) | CYP701C1v2 e_gw1.60.109.1\|Selmo1 48% to CYP701B1 moss, 43% to 701A3 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP701C2v1 | present (497 aa) | CYP701C2v1 fgenesh2_pg.C_scaffold_51000105\|Selmo1 76% to e_gw1.60.109.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP701C2v2 | present (468 aa) | CYP701C2v2 fgenesh2_pg.C_scaffold_71000012\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703C1v1 | present (517 aa) | CYP703C1v1  Selaginella moellendorffii | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703C1v1 | present (517 aa) | CYP703C1v1 fgenesh1_pm.C_scaffold_0000132\|Selmo1 100% to 703C1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703C1v2 | present (464 aa) | CYP703C1v2 estExt_Genewise1Plus.C_80237\|Selmo1 96% to CYP703C1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703C1v2 | present (516 aa) | CYP703C1v2 SM1588295 N-term exon is identical to estExt_Genewise1Plus.C_80237\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703C2v2 | present (525 aa) | CYP703C2v2 estExt_Genewise1.C_80352\|Selmo1 89% to CYP703C1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703C2v1 | present (495 aa) | CYP703C2v1 e_gw1.0.1187.1\|Selmo1 89% to CYP703C1, | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703D1v1 | present (541 aa) | CYP703D1v1 estExt_Genewise1Plus.C_71051\|Selmo1 43% to 703B1, 45% to CYP703A2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703D1v2 | present (693 aa) | CYP703D1v2 e_gw1.36.497.1\|Selmo1 99% to estExt_Genewise1Plus.C_71051\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703D2v1 | present (546 aa) | CYP703D2v1 fgenesh1_pm.C_scaffold_6000041\|Selmo1 95% to estExt_Genewise1.C_560078\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703D2v2 | present (480 aa) | CYP703D2v2 estExt_Genewise1.C_560078\|Selmo1 43% to 703A2 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703E1v1 | present (537 aa) | CYP703E1v1 fgenesh1_pm.C_scaffold_101000013\|Selmo1, 98% to gw1.104.62.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP703E1v2 | present (534 aa) | CYP703E1v2 gw1.104.62.1\|Selmo1 40% to 703A2, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797D1v1 | present (491 aa) | CYP797D1v1 e_gw1.5.245.1\|Selmo1 98% to e_gw1.33.70.1\|Selmo1 CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797D1v2 | present (491 aa) | CYP797D1v2 e_gw1.33.70.1\|Selmo1 38% to 75B1, 41% to 92A9 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E1v2 | present (508 aa) | CYP797E1v2 e_gw1.125.9.1\|Selmo1 40% to 92A9, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E1v1 | present (353 aa) | CYP797E1v1 e_gw1.43.465.1\|Selmo1 91% to e_gw1.125.9.1\|Selmo1 with some indels | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (238 aa) | fgenesh2_pg.C_scaffold_70000128\|Selmo1 76% to e_gw1.43.465.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (417 aa) | fgenesh2_pg.C_scaffold_23000207\|Selmo1 44% to e_gw1.125.9.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (91 aa) | gw1.133.17.1\|Selmo1 49% to e_gw1.43.465.1\|Selmo1 mid region | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP795A1v1 | present (501 aa) | CYP795A1v1 e_gw1.2.767.1\|Selmo1 97% to e_gw1.2.766.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP795A1v2 | present (501 aa) | CYP795A1v2 e_gw1.2.303.1\|Selmo1 97% to e_gw1.2.766.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP795A2v1 | present (501 aa) | CYP795A2v1 e_gw1.2.766.1\|Selmo1 40% to 703A2, 43% to 92A11, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP795A2v2 | present (501 aa) | CYP795A2v2 e_gw1.2.292.1\|Selmo1 97% to e_gw1.2.766.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (190 aa) | fgenesh2_pg.C_scaffold_2000295\|Selmo1 98% to e_gw1.2.766.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP783A1v1 | present (487 aa) | CYP783A1v1 e_gw1.57.83.1\|Selmo1 37% to 75B1, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP783A1v2 | present (487 aa) | CYP783A1v2 e_gw1.83.45.1\|Selmo1 99% to e_gw1.57.83.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A1v1 | present (503 aa) | CYP785A1v1 estExt_Genewise1.C_830110\|Selmo1 37% to 75B1 CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A1v2 | present (503 aa) | CYP785A1v2 fgenesh2_pg.C_scaffold_57000020\|Selmo1 95% to estExt_Genewise1.C_830110\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A2 | present (503 aa) | SMCN1 CYP785A2 Jing-Ke 91% to fgenesh2_pg.C_scaffold_57000020\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A3v1 | present (503 aa) | CYP785A3v1 e_gw1.57.197.1\|Selmo1 93% to estExt_Genewise1.C_830110\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A3v2 | present (503 aa) | CYP785A3v2 fgenesh2_pg.C_scaffold_83000058\|Selmo1 94% to estExt_Genewise1.C_830110\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (306 aa) | fgenesh2_pg.C_scaffold_7000376\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A4v1 | present (503 aa) | CYP785A4v1 e_gw1.57.90.1\|Selmo1 38% to 75B1 in the CYP71 clan, | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A4v2 | present (503 aa) | CYP785A4v2 estExt_fgenesh2_pg.C_3360001\|Selmo1 93% to estExt_Genewise1.C_830110\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A5v1 | present (493 aa) | CYP785A5v1 estExt_fgenesh2_pg.C_570026\|Selmo1 92% to estExt_Genewise1.C_830110\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (118 aa) | e_gw1.36.361.1\|Selmo1 92% to e_gw1.57.197.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (136 aa) | gw1.60.167.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (91 aa) | gw1.0.1002.1\|Selmo1 98% to gw1.60.167.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A6v1 | present (492 aa) | CYP785A6v1 e_gw1.57.80.1\|Selmo1 36% to CYP75B1, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A6v2 | present (492 aa) | CYP785A6v2 e_gw1.83.39.1\|Selmo1 97% to e_gw1.57.80.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (502 aa) | fgenesh2_pg.C_scaffold_42000190\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797A1v1 | present (508 aa) | CYP797A1v1 e_gw1.45.108.1\|Selmo1 99% to e_gw1.63.102.1\|Selmo1 = Jing-Ke SM147.5 100% | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797A1v2 | present (508 aa) | CYP797A1v2 e_gw1.63.102.1\|Selmo1 44% to CYP75B1, 44% to 92A9, CYP71 clan, 45% TO 736A12, 45% to CYP764 Panax | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790D1v1 | present (493 aa) | CYP790D1v1 SM1585879 42% to e_gw1.63.102.1\|Selmo1 new Jing-Ke not in JGI downloaded set | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790D1v2 | present (493 aa) | CYP790D1v2 SM1585879_2 has 5 aa diffs to CYP790D1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790D2v1 | present (493 aa) | CYP790D2v1 SM3781.1 40% to e_gw1.63.102.1\|Selmo1 new seq not in downloaded set from JGI | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790D2v2 | present (493 aa) | CYP790D2v2 SM1585879_3 3 aa diffs to CYP790D2v1 SM3781.1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP788A1v1 | present (521 aa) | CYP788A1v1 estExt_Genewise1Plus.C_31354\|Selmo1 99% to gw1.87.407.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP788A1v2 | present (498 aa) | CYP788A1v2  gw1.87.407.1\|Selmo1 46% to 92A11, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (207 aa) | e_gw1.23.273.1\|Selmo1 97% to e_gw1.11.363.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (207 aa) | e_gw1.11.363.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B17 | present (506 aa) | CYP797B17 e_gw1.110.82.1\|Selmo1 35% t 71B23, 36% to 92A11, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B1v1 | present (500 aa) | CYP797B1v1 e_gw1.11.382.1\|Selmo1 96% to e_gw1.110.82.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B16 | present (348 aa) | CYP797B16 fgenesh2_pg.C_scaffold_110000082\|Selmo1 79% to e_gw1.11.382.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B2 | present (458 aa) | CYP797B2 e_gw1.11.381.1\|Selmo1 93% to e_gw1.110.82.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP784B1v2 | present (497 aa) | CYP784B1v2 e_gw1.12.160.1\|Selmo1 35% to 75B1, 35% to 706A5, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP784B1v1 | present (497 aa) | CYP784B1v1 e_gw1.4.680.1\|Selmo1 99% to e_gw1.12.160.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (480 aa) | e_gw1.4.276.1\|Selmo1 36% to 75B1, 100% to e_gw1.4.680.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP784B2v1 | present (497 aa) | CYP784B2v1 e_gw1.91.39.1\|Selmo1 36% to 75B1, 99% to e_gw1.4.680.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (285 aa) | e_gw1.1.192.1\|Selmo1 48% to e_gw1.12.160.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (153 aa) | gw1.5.450.1\|Selmo1 75% to e_gw1.1.192.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP784B3P | present (420 aa) | CYP784B3P fgenesh2_pg.C_scaffold_91000059\|Selmo1 30% to 92A11 with some gaps, pseudogene? | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (551 aa) | fgenesh2_pg.C_scaffold_59000168\|Selmo1 30% to 706A5 partial | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (152 aa) | e_gw1.106.48.1\|Selmo1 96% to gw1.1.171.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (122 aa) | gw1.1.171.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (134 aa) | gw1.5.109.1\|Selmo1 97% to gw1.1.372.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (148 aa) | gw1.1.372.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (183 aa) | fgenesh2_pg.C_scaffold_1000572\|Selmo1 77% to gw1.1.372.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787B1v1 | present (389 aa) | CYP787B1v1 e_gw1.47.107.1\|Selmo1 39% to 75B1, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787B1v1 | present (242 aa) | CYP787B1v1 e_gw1.47.107.1  manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (157 aa) | fgenesh2_pg.C_scaffold_54000204\|Selmo1 100% to e_gw1.47.107.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787B1v2 | present (370 aa) | CYP787B1v2 fgenesh2_pg.C_scaffold_47000217\|Selmo1 97% to e_gw1.47.107.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A7v1 | present (485 aa) | CYP785A7v1 estExt_fgenesh1_pm.C_540040\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A8v1 | present (494 aa) | CYP785A8v1 e_gw1.47.77.1\|Selmo1 92% to estExt_fgenesh1_pm.C_540040\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP71 | present (80 aa) | gw1.0.1017.1\|Selmo1 86% to gw1.0.398.1\|Selmo1 CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (118 aa) | gw1.8.451.1\|Selmo1 94% to gw1.0.1017.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796C1v1 | present (495 aa) | CYP796C1v1 gw1.0.398.1\|Selmo1 85% to gw1.0.1017.1\|Selmo1, 38% to 75B1, 42% to 92A9. Missing N- and C-terminal | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796C4 | present (424 aa) | CYP796C4 gw1.8.204.1\|Selmo1 98% to gw1.0.398.1\|Selmo1 extend it | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (232 aa) | gw1.8.752.1\|Selmo1 95% to gw1.0.398.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (217 aa) | gw1.0.799.1\|Selmo1 95% to fgenesh2_pg.C_scaffold_8000404\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796C3 | present (274 aa) | CYP796C3 fgenesh2_pg.C_scaffold_8000404\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796C3 | present (490 aa) | CYP796C3 fgenesh2_pg.C_scaffold_8000404 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796C2 | present (186 aa) | CYP796C2 fgenesh2_pg.C_scaffold_8000403\|Selmo1 77% to gw1.0.398.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796C2 | present (482 aa) | CYP796C2 fgenesh2_pg.C_scaffold_8000403 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (112 aa) | gw1.85.73.1\|Selmo1 100% to gw1.85.139.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (79 aa) | gw1.85.139.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP793B3v2 | present (516 aa) | CYP793B3v2 fgenesh1_pm.C_scaffold_118000010\|Selmo1 99% to estExt_Genewise1.C_850155\|Selmo1, 40% to 92A14 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP793B3v1 | present (444 aa) | CYP793B3v1 estExt_Genewise1.C_850155\|Selmo1 extend it | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP793B1 | present (444 aa) | CYP793B1 estExt_Genewise1.C_850132\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP793B2v1 | present (504 aa) | CYP793B2v1 e_gw1.85.46.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP793B2v2 | present (361 aa) | CYP793B2v2 fgenesh2_pg.C_scaffold_118000033\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (111 aa) | gw1.73.89.1\|Selmo1 98% to e_gw1.90.44.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP793A1 | present (501 aa) | CYP793A1 e_gw1.90.44.1\|Selmo1 43% to fgenesh1_pm.C_scaffold_118000010\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP71 | present (57 aa) | gw1.139.27.1\|Selmo1 59% to 71V3, CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (58 aa) | gw1.44.49.1\|Selmo1 98% to estExt_Genewise1Plus.C_440490\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B9 | present (489 aa) | CYP797B9 e_gw1.2.293.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (489 aa) | estExt_Genewise1Plus.C_440490\|Selmo1 99% to e_gw1.2.293.1\|Selmo1 1 aa diff | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A4v1 | present (479 aa) | CYP792A4v1 e_gw1.47.87.1\|Selmo1 35% to 75B1, CYP71 Clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A4v2 | present (479 aa) | CYP792A4v2 e_gw1.54.99.1\|Selmo1 97% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A10P | present (474 aa) | CYP792A10P fgenesh2_pg.C_scaffold_16000364\|Selmo1 62% to 71Z2 Heme region fragment | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A5 | present (480 aa) | CYP792A5 fgenesh1_pm.C_scaffold_313000001\|Selmo1 92% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A3 | present (479 aa) | CYP792A3 gw1.47.81.1\|Selmo1 94% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A6 | present (479 aa) | CYP792A6 gw1.16.152.1\|Selmo1 93% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A2v1 | present (479 aa) | CYP792A2v1 gw1.47.82.1\|Selmo1 92% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A1v1 | present (482 aa) | CYP792A1v1 e_gw1.47.85.1\|Selmo1 92% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A1v2 | present (479 aa) | CYP792A1v2 e_gw1.54.91.1\|Selmo1 93% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (158 aa) | e_gw1.14.836.1\|Selmo1 89% to gw1.16.152.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (296 aa) | fgenesh2_pg.C_scaffold_37000101\|Selmo1 very similar to e_gw1.47.85.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A7 | present (443 aa) | CYP792A7 fgenesh2_pg.C_scaffold_37000101 annotated manually, still missing N-terminal | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A8v2 | present (472 aa) | CYP792A8v2 fgenesh1_pm.C_scaffold_14000031\|Selmo1 91% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A8v1 | present (419 aa) | CYP792A8v1 fgenesh2_pg.C_scaffold_1000223\|Selmo1 89% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP792A9 | present (354 aa) | CYP792A9 fgenesh2_pg.C_scaffold_54000102\|Selmo1 91% to e_gw1.47.87.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP794A1 | present (512 aa) | CYP794A1 e_gw1.74.75.1\|Selmo1 39% to CYP75B1 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B1v1 | present (494 aa) | CYP796B1v1 gw1.7.227.1\|Selmo1 37% to CYP75B1 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B2v2 | present (305 aa) | CYP796B2v2 e_gw1.53.138.1\|Selmo1 97% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B2v1 | present (494 aa) | CYP796B2v1 gw1.7.229.1\|Selmo1 98% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B1v2 | present (477 aa) | CYP796B1v2 gw1.53.67.1\|Selmo1 99% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B6v2 | present (494 aa) | CYP796B6v2 e_gw1.53.65.1\|Selmo1 91% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B7v2 | present (489 aa) | CYP796B7v2 gw1.53.130.1\|Selmo1 90% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B7v1 | present (497 aa) | CYP796B7v1 gw1.7.407.1\|Selmo1 89% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B4v1 | present (494 aa) | CYP796B4v1 e_gw1.7.221.1\|Selmo1 88% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B3v1 | present (494 aa) | CYP796B3v1 gw1.7.225.1\|Selmo1 88% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B3v2 | present (270 aa) | CYP796B3v2 fgenesh2_pg.C_scaffold_53000139\|Selmo1 89% to e_gw1.53.62.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B4v2 | present (494 aa) | CYP796B4v2 e_gw1.53.62.1\|Selmo1 87% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B5 | present (500 aa) | CYP796B5 e_gw1.7.596.1\|Selmo1 87% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B6v1 | present (494 aa) | CYP796B6v1 gw1.7.1059.1\|Selmo1 90% to gw1.7.227.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B8v1 | present (300 aa) | CYP796B8v1 e_gw1.14.364.1\|Selmo1 81% to e_gw1.53.65.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B8v1 | present (314 aa) | CYP796B8v1 e_gw1.14.364.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796B8v2 | present (300 aa) | CYP796B8v2 e_gw1.37.226.1\|Selmo1 98% to e_gw1.14.364.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E5 | present (485 aa) | CYP797E5 e_gw1.43.55.1\|Selmo1 43% to 92A9 IN CYP71 CLAN | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E3v2 | present (293 aa) | CYP797E3v2 e_gw1.125.26.1\|Selmo1 90% to e_gw1.43.55.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E3v1 | present (216 aa) | CYP797E3v1 e_gw1.43.151.1\|Selmo1 98% to e_gw1.14.364.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E3v1 | present (496 aa) | CYP797E3v1 e_gw1.43.151.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (254 aa) | fgenesh2_pg.C_scaffold_43000172\|Selmo1 61% to e_gw1.125.9.1\|Selmo1 premature stop codon, maybe pseudogene. | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E2 | present (422 aa) | CYP797E2 fgenesh2_pg.C_scaffold_43000172 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E4v1 | present (248 aa) | CYP797E4v1 fgenesh2_pg.C_scaffold_43000173\|Selmo1 pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797E4v2 | present (301 aa) | CYP797E4v2 fgenesh2_pg.C_scaffold_125000028\|Selmo1 42% to CYP76C1 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787A1v2 | present (489 aa) | CYP787A1v2 e_gw1.46.125.1\|Selmo1 40% to 71A21 in CYP71 clan, 43% to 92A11 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787A1v1 | present (532 aa) | CYP787A1v1 e_gw1.1.394.1\|Selmo1 98% to e_gw1.46.125.1\|Selmo1 44% TO CYP92A11, 45% to 92A9 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (112 aa) | FE498320 mRNA Selaginella | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787A1v1 | present (490 aa) | SM117.6 CYP787A1v1 100% to e_gw1.1.394.1\|Selmo1 except one boundary diff (remove K) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787A2v1 | present (228 aa) | CYP787A2v1 gw1.93.63.1\|Selmo1 63% to e_gw1.46.125.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787A2v1 | present (487 aa) | CYP787A2v1 gw1.93.63.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791B1v1 | present (452 aa) | CYP791B1v1 estExt_fgenesh2_pg.C_00766\|Selmo1 35% to 92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791B1v2 | present (493 aa) | CYP791B1v2 e_gw1.8.676.1\|Selmo1 95% to estExt_fgenesh2_pg.C_00766\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791B2v1 | present (491 aa) | CYP791B2v1 estExt_fgenesh1_pm.C_80016\|Selmo1 97% to estExt_fgenesh2_pg.C_00766\|Selmo1. N-terminal modified | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791B2v2 | present (491 aa) | CYP791B2v2 SM1583323 98% (5 aa diffs) to estExt_fgenesh1_pm.C_80016\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796A1v1 | present (520 aa) | CYP796A1v1 gw1.0.529.1\|Selmo1 97% to e_gw1.8.277.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP796A1v2 | present (520 aa) | CYP796A1v2 e_gw1.8.277.1\|Selmo1 42% to 92A12 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B10v2 | present (492 aa) | CYP797B10v2 e_gw1.52.118.1\|Selmo1 38% to 92A9, in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B10v1 | present (492 aa) | CYP797B10v1 e_gw1.7.404.1\|Selmo1 100% to e_gw1.52.118.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP782A1v1 | present (504 aa) | CYP782A1v1 estExt_Genewise1Plus.C_40491\|Selmo1 35% to 92A14 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP782A1v3 | present (504 aa) | CYP782A1v3 e_gw1.9.183.1\|Selmo1 98% to estExt_Genewise1Plus.C_40491\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B5 | present (497 aa) | CYP797B5 e_gw1.2.288.1\|Selmo1 38% to CYP92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B7 | present (497 aa) | CYP797B7 e_gw1.2.286.1\|Selmo1 98% to e_gw1.2.288.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B6 | present (80 aa) | CYP797B6 gw1.2.171.1\|Selmo1 96% to e_gw1.2.288.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B8 | present (240 aa) | CYP797B8 fgenesh2_pg.C_scaffold_2000335\|Selmo1 99% to e_gw1.2.286.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (247 aa) | fgenesh2_pg.C_scaffold_102000125\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B19 | present (245 aa) | CYP797B19 e_gw1.110.74.1\|Selmo1 68% to e_gw1.2.286.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B19 | present (383 aa) | CYP797B19 e_gw1.110.74.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B20v1 | present (448 aa) | CYP797B20v1 estExt_Genewise1.C_1100223\|Selmo1 84% to e_gw1.2.288.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (493 aa) | SMDN839545 2 aa diffs to estExt_Genewise1.C_1100223\|Selmo1 Jing-Ke | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B4 | present (186 aa) | CYP797B4 e_gw1.11.441.1\|Selmo1 100% to estExt_Genewise1.C_1100223\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B12 | present (206 aa) | CYP797B12 e_gw1.37.336.1\|Selmo1 96% to estExt_Genewise1.C_1100223\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B12 | present (433 aa) | CYP797B12 e_gw1.37.336.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B11v1 | present (307 aa) | CYP797B11v1 e_gw1.37.350.1\|Selmo1 95% to estExt_Genewise1.C_1100223\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B11v1 | present (433 aa) | CYP797B11v1 e_gw1.37.350.1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B11v2 | present (158 aa) | CYP797B11v2 e_gw1.691.2.1\|Selmo1 100% to e_gw1.37.350.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B3 | present (307 aa) | CYP797B3 e_gw1.11.633.1\|Selmo1  96% to e_gw1.37.350.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B13 | present (297 aa) | CYP797B13 e_gw1.87.42.1\|Selmo1 90% to estExt_Genewise1.C_1100223\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B13 | present (448 aa) | CYP797B13 e_gw1.87.42.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B14v1 | present (192 aa) | CYP797B14v1 e_gw1.102.86.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B14v1 | present (435 aa) | CYP797B14v1 e_gw1.102.86.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B14v2 | present (192 aa) | CYP797B14v2 e_gw1.11.259.1\|Selmo1 98% to e_gw1.102.86.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B14v2 | present (435 aa) | CYP797B14v2 e_gw1.11.259.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B15 | present (114 aa) | CYP797B15 fgenesh2_pg.C_scaffold_11000130\|Selmo1 83% to e_gw1.11.259.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B15 | present (497 aa) | CYP797B15 fgenesh2_pg.C_scaffold_11000130 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B18 | present (154 aa) | CYP797B18 e_gw1.110.25.1\|Selmo1 62% to e_gw1.11.633.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797B18 | present (383 aa) | CYP797B18 e_gw1.110.25.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791C1v1 | present (307 aa) | CYP791C1v1 e_gw1.1.476.1\|Selmo1 40% to 92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791C1v1 | present (432 aa) | CYP791C1v1 e_gw1.1.476.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791C1v2 | present (128 aa) | CYP791C1v2 gw1.106.51.1\|Selmo1 99% to e_gw1.1.476.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP786A1v1 | present (510 aa) | CYP786A1v1 e_gw1.42.52.1\|Selmo1 43% to 92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP786A1v2 | present (510 aa) | CYP786A1v2 e_gw1.88.42.1\|Selmo1 99% to e_gw1.42.52.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP786A2 | present (395 aa) | CYP786A2 e_gw1.42.487.1\|Selmo1 97% to e_gw1.42.52.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP786A2 | present (514 aa) | CYP786A2 e_gw1.42.487.1 mannually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP781B1v1 | present (438 aa) | CYP781B1v1 fgenesh1_kg.C_scaffold_42000004\|Selmo1 39% to 92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP781B1v2 | present (438 aa) | CYP781B1v2 fgenesh1_kg.C_scaffold_67000005\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP781B2 | present (513 aa) | CYP781B2 SM1580825 65% to fgenesh1_kg.C_scaffold_42000004\|Selmo1 new Jing-Ke | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP786B1v1 | present (501 aa) | CYP786B1v1 e_gw1.11.384.1\|Selmo1 37% to 75B1 in CYP71 clan, 41% to 92A7 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP786B1v2 | present (501 aa) | CYP786B1v2 e_gw1.110.37.1\|Selmo1 99% to e_gw1.11.384.1\|Selmo1 = Jing-Ke SM1726.1 100% | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797F1v1 | present (491 aa) | CYP797F1v1 e_gw1.1.364.1\|Selmo1 97% to e_gw1.16.155.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797F1v2 | present (491 aa) | CYP797F1v2 e_gw1.16.155.1\|Selmo1 37% to 75B1 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP781A1 | present (500 aa) | CYP781A1 estExt_Genewise1Plus.C_100834\|Selmo1 38% to 75B1 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (500 aa) | SM1583574 4 aa diffs to estExt_Genewise1Plus.C_100834\|Selmo1 Jing-Ke | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (204 aa) | e_gw1.29.388.1\|Selmo1 99% to estExt_Genewise1Plus.C_100834\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (43 aa) | scaffold_51 (-) strand new no model | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (126 aa) | scaffold_99 possible allele to 51:1189452-1189857 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (130 aa) | scaffold_51 1192219-1196603 (+) strand pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (25 aa) | scaffold_99 possible allele to 51:1192219-1196603 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (223 aa) | fgenesh2_pg.C_scaffold_51000158\|Selmo1 99% to e_gw1.99.33.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H2Pv1 | present (494 aa) | CYP797H2Pv1 fgenesh2_pg.C_scaffold_51000161\|Selmo1 1331425-1332958 (-) strand | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H1Pv2 | present (363 aa) | CYP797H1Pv2 scaffold_99 fgenesh2_pg.C_scaffold_99000007 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H1Pv1 | present (413 aa) | CYP797H1Pv1 fgenesh2_pg.C_scaffold_99000007 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H1Pv1 | present (175 aa) | CYP797H1Pv1 fgenesh2_pg.C_scaffold_99000007\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H1Pv1 | present (402 aa) | CYP797H1Pv1 fgenesh2_pg.C_scaffold_99000007 manually annotated pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H2 | present (505 aa) | CYP797H2 fgenesh2_pg.C_scaffold_51000163\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (66 aa) | scaffold_99 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (198 aa) | scaffold_99 possible allele to fgenesh2_pg.C_scaffold_51000163 95% | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H3 | present (398 aa) | CYP797H3 fgenesh2_pg.C_scaffold_51000164\|Selmo1 86% to e_gw1.51.93.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (332 aa) | scaffold_99 possible allele of fgenesh2_pg.C_scaffold_51000164 84% | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H4v1 | present (494 aa) | CYP797H4v1 e_gw1.51.102.1\|Selmo1 scaffold_51 1362312-1363852 (+) strand | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H4v2 | present (225 aa) | CYP797H4v2 scaffold_99 e_gw1.99.33.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H5 | present (498 aa) | CYP797H5 scaffold_51 = e_gw1.51.93.1\|Selmo1 40% to 75b1 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H6 | present (551 aa) | CYP797H6 fgenesh2_pg.C_scaffold_51000169\|Selmo1 40% to 75B1 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797H7 | present (450 aa) | CYP797H7 scaffold_51 = fgenesh2_pg.C_scaffold_51000170\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (24 aa) | scaffold_51 1403309-1403380 (+) strand pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (79 aa) | scaffold_51 1414418-1414731 (-) strand pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (87 aa) | scaffold_99 85% to scaffold_51 1403309-1403380, possible allele | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (270 aa) | e_gw1.51.187.1\|Selmo1 (-) strand pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (388 aa) | fgenesh2_pg.C_scaffold_51000173 [Selmo1:421441] 1417517-1419037 (+) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (151 aa) | scaffold_51 1419689-1420168 (+) strand pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP71 | present (494 aa) | e_gw1.99.33.1\|Selmo1 37% to 92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (128 aa) | e_gw1.225.4.1\|Selmo1 94% to e_gw1.99.33.1\|Selmo1 C-term | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791A1v1 | present (495 aa) | CYP791A1v1 e_gw1.7.405.1\|Selmo1 41% to 92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791A2v1 | present (123 aa) | CYP791A2v1 gw1.112.69.1\|Selmo1 95% to e_gw1.7.405.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791A2v1 | present (336 aa) | CYP791A2v1 gw1.112.69.1 manually annotated 94% to CYP791A1v1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP791A2v2 | present (477 aa) | CYP791A2v2 fgenesh2_pg.C_scaffold_24000217\|Selmo1 98% to gw1.112.69.1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790A1 | present (514 aa) | CYP790A1 SMCN2 40% to e_gw1.7.405.1\|Selmo1 new Jing-Ke not in JGI P450 downloaded set | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790C1 | present (498 aa) | CYP790C1 SM116.5 95% to SM1584064, 47% to e_gw1.7.405.1\|Selmo1 new Jing-Ke | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790C2 | present (489 aa) | CYP790C2 SM128.2 new Jing-Ke 44% to e_gw1.63.102.1\|Selmo1, 64% to SM1584064 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790B1v1 | present (487 aa) | CYP790B1v1 SM179.4 44% to e_gw1.7.405.1\|Selmo1 Jing-Ke new seq not in JGI P450 downloaded set | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790B1v1 | present (487 aa) | CYP790B1v1 e_gw1.14.326.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP790B1v2 | present (487 aa) | CYP790B1v2 e_gw1.37.203.1\|Selmo1 99% to e_gw1.14.326.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797G2v1 | present (504 aa) | CYP797G2v1 estExt_fgenesh1_kg.C_260005\|Selmo1 98% to estExt_Genewise1Plus.C_340233\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797G2v2 | present (504 aa) | CYP797G2v2 estExt_Genewise1Plus.C_340233\|Selmo1 38% to CYP81F3, 38% to 75B1 in the CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797G1v1 | present (318 aa) | CYP797G1v1 e_gw1.26.173.1\|Selmo1 76% to estExt_Genewise1Plus.C_340233\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797G1v1 | present (422 aa) | CYP797G1v1 e_gw1.26.173.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797G1v2 | present (143 aa) | CYP797G1v2 fgenesh2_pg.C_scaffold_55000176\|Selmo1 80% to e_gw1.26.173.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C1v1 | present (417 aa) | CYP797C1v1 gw1.24.101.1\|Selmo1 34% to 71A22 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C1v1 | present (436 aa) | CYP797C1v1 gw1.24.101.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C1v2 | present (125 aa) | CYP797C1v2 gw1.112.68.1\|Selmo1 98% to gw1.24.101.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C2v1 | present (255 aa) | CYP797C2v1 fgenesh2_pg.C_scaffold_40000077\|Selmo1 90% to gw1.24.101.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C4v1 | present (265 aa) | CYP797C4v1 fgenesh2_pg.C_scaffold_89000080\|Selmo1 89% to gw1.24.101.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C3v2 | present (157 aa) | CYP797C3v2 fgenesh2_pg.C_scaffold_69000014\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C3v2 | present (440 aa) | CYP797C3v2 fgenesh2_pg.C_scaffold_69000014 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C3v1 | present (173 aa) | CYP797C3v1 fgenesh2_pg.C_scaffold_40000078\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C5v1 | present (157 aa) | CYP797C5v1 fgenesh2_pg.C_scaffold_89000081\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP797C5v1 | present (517 aa) | CYP797C5v1 fgenesh2_pg.C_scaffold_89000081 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP784A1 | present (307 aa) | CYP784A1 e_gw1.74.110.1\|Selmo1 37% to 706A2, 43% to 92A11 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP784A1 | present (490 aa) | CYP784A1 e_gw1.74.110.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (130 aa) | scaffold_51 = gw1.51.183.1 1189452-1189857 (-) strand | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP71 | present (246 aa) | fgenesh2_pg.C_scaffold_54000202\|Selmo1 57% to e_gw1.47.107.1\|Selmo1 in CYP71 clan possible false positive | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (75 aa) | e_gw1.37.196.1\|Selmo1 48% to e_gw1.37.336.1\|Selmo1  possible false positive | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (75 aa) | e_gw1.75.73.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D1 | present (487 aa) | CYP787D1 estExt_Genewise1Plus.C_21159\|Selmo1 94% to estExt_fgenesh2_pg.C_750058\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D1 | present (487 aa) | CYP787D1 SM1582340 Jing-Ke 100% to estExt_Genewise1Plus.C_21159\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D4v1 | present (486 aa) | CYP787D4v1 estExt_Genewise1.C_750113\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D3v1 | present (486 aa) | CYP787D3v1 estExt_fgenesh2_pg.C_750058\|Selmo1 98% to CYP92/75   precursor fam.   Selaginella moellendorffii | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D3v2 | present (156 aa) | CYP787D3v2 e_gw1.111.64.1\|Selmo1 100% to SMDN837695 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D3v2 | present (487 aa) | CYP787D3v2 e_gw1.111.64.1 manually annotated 100% to SMDN837695 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D3v2 | present (487 aa) | CYP787D3v2 SMDN837695 95% to SM1582340, 98% to estExt_fgenesh2_pg.C_750058\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787D2 | present (487 aa) | CYP787D2 e_gw1.75.28.1\|Selmo1 99% to e_gw1.111.64.1\|Selmo1 100% to SMDN837695 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787C1v1 | present (488 aa) | CYP787C1v1 Scaffold_60 100% to Jing-Ke? SM413.4 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787C1v2 | present (488 aa) | CYP787C1v2 Scaffold_0 = allele of SM413.4 (96%) (-) strand) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787C2v1 | present (492 aa) | CYP787C2v1 SM1581020 51% to estExt_fgenesh2_pg.C_750058\|Selmo1 Jing-Ke new model not in downloaded set from JGI (on scaffold_0 from 1514368-1512841, (-) strand) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP787C2v2 | present (491 aa) | CYP787C2v2 This seq is downstream of SM413.4 686bp.  There is no filtered model for | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (155 aa) | fgenesh2_pg.C_scaffold_41000202\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP71 | present (166 aa) | fgenesh2_pg.C_scaffold_188000009\|Selmo1 30% to 92A9 rice mid region, CYP71 clan only partial sequence | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A9v1 | present (513 aa) | CYP785A9v1 estExt_fgenesh1_kg.C_820002\|Selmo1 1 aa diff to estExt_Genewise1Plus.C_820077\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A9v2 | present (513 aa) | CYP785A9v2 fgenesh1_pm.C_scaffold_142000016\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A10v1 | present (513 aa) | CYP785A10v1 estExt_Genewise1Plus.C_820077\|Selmo1 same as Jing-Ke SM1581610 100% | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP785A11P | present (121 aa) | CYP785A11P gw1.49.98.1\|Selmo1 88% to estExt_fgenesh1_kg.C_820002\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (976 aa) | fgenesh2_pg.C_scaffold_50000058\|Selmo1 possible pseudogene fragment | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (53 aa) | gw1.37.173.1\|Selmo1 84% to fgenesh2_pg.C_scaffold_11000221\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (130 aa) | fgenesh2_pg.C_scaffold_11000221\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (57 aa) | e_gw1.33.157.1\|Selmo1 94% to gw1.5.535.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP71 | present (57 aa) | gw1.5.535.1\|Selmo1 57% to 81F2 in CYP71 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E9v1 | present (518 aa) | 1 CYP779E9v1 estExt_fgenesh1_pm.C_10041\|Selmo1 98% to e_gw1.16.569.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E9v2 | present (518 aa) | CYP779E9v2 e_gw1.16.569.1\|Selmo1 42% to CYP735A2, 42% to CYP709C1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E3v1 | present (510 aa) | 13 CYP779E3v1  estExt_Genewise1Plus.C_120760\|Selmo1 43% to 709C5 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E3v2 | present (511 aa) | CYP779E3v2 estExt_Genewise1Plus.C_150304\|Selmo1 98% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E5v1 | present (486 aa) | CYP779E5v1 e_gw1.12.695.1\|Selmo1 96% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E5v2 | present (510 aa) | 15 CYP779E5v2 e_gw1.15.285.1\|Selmo1 98% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E4v1 | present (510 aa) | 14 CYP779E4v1 fgenesh2_pg.C_scaffold_12000349\|Selmo1 97% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E4v2 | present (510 aa) | CYP779E4v2 estExt_Genewise1.C_150325\|Selmo1 97% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E1v1 | present (510 aa) | 11 CYP779E1v1 fgenesh2_pg.C_scaffold_12000323\|Selmo1 95% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E1v2 | present (510 aa) | CYP779E1v2 e_gw1.15.275.1\|Selmo1 95% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E8v1 | present (458 aa) | CYP779E8v1 estExt_fgenesh1_pm.C_120070\|Selmo1 96% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E8v2 | present (510 aa) | 18 CYP779E8v2 estExt_fgenesh2_pg.C_150170\|Selmo1 95% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (298 aa) | fgenesh2_pg.C_scaffold_53000099\|Selmo1 97% to e_gw1.15.285.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E6v1 | present (510 aa) | 16 CYP779E6v1 estExt_Genewise1Plus.C_120779\|Selmo1 94% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E6v2 | present (487 aa) | CYP779E6v2 e_gw1.15.471.1\|Selmo1 90% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E7v1 | present (510 aa) | 17 CYP779E7v1 fgenesh2_pg.C_scaffold_12000361\|Selmo1 94% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E7v2 | present (510 aa) | CYP779E7v2 e_gw1.15.281.1\|Selmo1 95% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E2v1 | present (510 aa) | 12 CYP779E2v1 e_gw1.15.463.1\|Selmo1 93% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779E2v2 | present (482 aa) | CYP779E2v2 fgenesh2_pg.C_scaffold_12000345\|Selmo1 93% to estExt_Genewise1Plus.C_120760\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779A1v1 | present (492 aa) | 2 CYP779A1v1 estExt_Genewise1.C_30845\|Selmo1 41% to 709C9 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779A1v2 | present (519 aa) | CYP779A1v2 estExt_fgenesh2_pg.C_250220\|Selmo1 98% to estExt_Genewise1.C_30845\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (220 aa) | e_gw1.25.135.1\|Selmo1 possible false possitive | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (250 aa) | e_gw1.3.706.1\|Selmo1 40% to 709C1, 98% to e_gw1.25.135.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (357 aa) | fgenesh2_pg.C_scaffold_9000021\|Selmo1 36% to 709C9 partial fragment | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (282 aa) | fgenesh2_pg.C_scaffold_50000123\|Selmo1    partial fragment | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779C1v1 | present (514 aa) | 4 CYP779C1v1 e_gw1.3.1146.1\|Selmo1 41% to 72A15, 40% to 709E1, CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779C1v2 | present (514 aa) | CYP779C1v2 e_gw1.87.292.1\|Selmo1 98% to e_gw1.3.1146.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779C2v1 | present (519 aa) | 3 CYP779C2v1 estExt_Genewise1Plus.C_870041\|Selmo1 40% to 72A13, 40% to 709C5, CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779C2v2 | present (303 aa) | CYP779C2v2 fgenesh2_pg.C_scaffold_3000573\|Selmo1 96% to estExt_Genewise1Plus.C_870041\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP709C3 | present (337 aa) | fgenesh2_pg.C_scaffold_15000176\|Selmo1 48% to CYP709C3, 49% to CYP709B2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (503 aa) | fgenesh1_kg.C_scaffold_23000015\|Selmo1 47% to 709B2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP775B1v1 | present (542 aa) | 7 CYP775B1v1 e_gw1.9.465.1\|Selmo1 98% to e_gw1.50.177.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP775B1v2 | present (542 aa) | CYP775B1v2 e_gw1.50.177.1\|Selmo1 40% to 735A2, CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778B1v1 | present (515 aa) | 20 CYP778B1v1 e_gw1.13.765.1\|Selmo1 35% to 735A1, CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778B1v2 | present (515 aa) | CYP778B1v2 e_gw1.66.334.1\|Selmo1 94% to e_gw1.13.765.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778B2v1 | present (190 aa) | CYP778B2v1 e_gw1.13.461.1\|Selmo1 86% to e_gw1.13.765.1\|Selmo1  partial sequence | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779A2v1 | present (504 aa) | 8 CYP779A2v1 estExt_Genewise1.C_100136\|Selmo1 37% to CYP735A2, CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779A2v2 | present (504 aa) | CYP779A2v2 estExt_fgenesh2_pg.C_140284\|Selmo1 97% to estExt_Genewise1.C_100136\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (79 aa) | e_gw1.137.23.1\|Selmo1 61% to 72A17, 91% to e_gw1.19.689.1\|Selmo1 bad sequence | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779D1v1 | present (529 aa) | 22 CYP779D1v1 e_gw1.19.689.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779D1v2 | present (529 aa) | CYP779D1v2 estExt_Genewise1Plus.C_1370087\|Selmo1 98% to e_gw1.19.689.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (200 aa) | fgenesh2_pg.C_scaffold_19000184\|Selmo1 98% to e_gw1.19.689.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779D2v1 | present (508 aa) | 23 CYP779D2v1 estExt_Genewise1Plus.C_190497\|Selmo1 40% to 735A1 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779D2v2 | present (508 aa) | CYP779D2v2 e_gw1.137.32.1\|Selmo1 98% to estExt_Genewise1Plus.C_190497\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (134 aa) | fgenesh2_pg.C_scaffold_61000064\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779D3v1 | present (512 aa) | 24 CYP779D3v1 estExt_fgenesh2_pg.C_190185\|Selmo1 89% to estExt_Genewise1Plus.C_190497\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779D3v2 | present (512 aa) | CYP779D3v2 estExt_fgenesh2_pg.C_1370032\|Selmo1 88% to estExt_Genewise1Plus.C_190497\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (293 aa) | fgenesh2_pg.C_scaffold_590000001\|Selmo1 69% to estExt_fgenesh2_pg.C_190185\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779B1v1 | present (509 aa) | 26 CYP779B1v1 e_gw1.29.321.1\|Selmo1 41% to 72A21 IN CYP72 CLAN | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779B1v2 | present (499 aa) | CYP779B1v2 fgenesh1_pm.C_scaffold_332000001\|Selmo1 96% TO e_gw1.29.321.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779B2v1 | present (504 aa) | 9 CYP779B2v1 e_gw1.10.477.1\|Selmo1 95% TO e_gw1.29.321.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP779B2v2 | present (504 aa) | CYP779B2v2 e_gw1.29.317.1\|Selmo1 96% TO e_gw1.29.321.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP775A1v1 | present (480 aa) | 10 CYP775A1v1 fgenesh1_pm.C_scaffold_10000087\|Selmo1 41% to CYP735A2 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP775A1v2 | present (524 aa) | CYP775A1v2 fgenesh2_pg.C_scaffold_29000144\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP774A1v1 | present (516 aa) | 25 CYP774A1v1 estExt_fgenesh1_kg.C_240013\|Selmo1 32% to 735A2 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP774A1v2 | present (516 aa) | CYP774A1v2 estExt_fgenesh1_kg.C_690008\|Selmo1 99% to estExt_fgenesh1_kg.C_240013\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP777A1v1 | present (507 aa) | CYP777A1v1 fgenesh1_pm.C_scaffold_85000002\|Selmo1 37% to 734A1 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP777A1v2 | present (506 aa) | 28 CYP777A1v2 e_gw1.180.33.1\|Selmo1 99% to fgenesh1_pm.C_scaffold_85000002\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP776A1v1 | present (529 aa) | CYP776A1v1 estExt_fgenesh2_pg.C_130176\|Selmo1 98% to fgenesh2_pg.C_scaffold_48000168\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP776A1v2 | present (529 aa) | 19 CYP776A1v2 fgenesh2_pg.C_scaffold_48000168\|Selmo1 36% to 735A2 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP773A1v1 | present (518 aa) | 27 CYP773A1v1 e_gw1.59.173.1\|Selmo1 98% to e_gw1.109.86.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP773A1v2 | present (518 aa) | CYP773A1v2 e_gw1.109.86.1\|Selmo1 38% to 735A2 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A2v1 | present (497 aa) | 29 CYP778A2v1 fgenesh2_pg.C_scaffold_130000004\|Selmo1 30% to CYP734 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A2v2 | present (216 aa) | CYP778A2v2 e_gw1.269.2.1\|Selmo1 100% to fgenesh2_pg.C_scaffold_130000004\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A3v2 | present (452 aa) | CYP778A3v2 fgenesh2_pg.C_scaffold_130000008\|Selmo1 96% to e_gw1.269.2.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A3v1 | present (504 aa) | 6 CYP778A3v1 fgenesh2_pg.C_scaffold_7000212\|Selmo1 96% to e_gw1.269.2.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A1v1 | present (504 aa) | 5 CYP778A1v1 fgenesh2_pg.C_scaffold_4000053\|Selmo1 95% to e_gw1.269.2.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A1v2 | present (504 aa) | CYP778A1v2 fgenesh2_pg.C_scaffold_9000313\|Selmo1 94% to e_gw1.269.2.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A4v1 | present (504 aa) | 21 CYP778A4v1 e_gw1.53.305.1 manually annotated | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP778A4v1 | present (333 aa) | CYP778A4v1 e_gw1.53.305.1\|Selmo1 93% to e_gw1.269.2.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP72 | present (126 aa) | e_gw1.13.535.1\|Selmo1 72% to e_gw1.13.461.1\|Selmo1, 40% to 735A2 in CYP72 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74J1 | present (509 aa) | 1 CYP74J1 e_gw1.118.29.1\|Selmo1 47% to CYP74A1 arab., 48% to 74A6v2 NO INTRONS | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74K3v1 | present (467 aa) | CYP74K3v1 estExt_Genewise1Plus.C_380386\|Selmo1 53% to e_gw1.118.29.1\|Selmo1, 46% to 74A1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74K3v1 | present (485 aa) | 2 CYP74K3v1 estExt_Genewise1Plus.C_380386_JKW_manual | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74K3v2 | present (421 aa) | CYP74K3v2 estExt_fgenesh2_pg.C_630172\|Selmo1 99% to estExt_Genewise1Plus.C_380386\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74K2v1 | present (485 aa) | 3 CYP74K2v1 fgenesh1_kg.C_scaffold_38000017\|Selmo1 98% to estExt_Genewise1Plus.C_630406\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74K2v2 | present (485 aa) | CYP74K2v2 estExt_Genewise1Plus.C_630406\|Selmo1 95% to estExt_Genewise1Plus.C_380386\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74K1 | present (485 aa) | 4 CYP74K1 estExt_fgenesh1_kg.C_380015\|Selmo1 no introns | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74L1v1 | present (478 aa) | 5 CYP74L1v1 e_gw1.13.341.1\|Selmo1 43% to 74A5, CYP74 clan no introns | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74L1v2 | present (478 aa) | CYP74L1v2 e_gw1.48.185.1\|Selmo1 98% to e_gw1.13.341.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74L2v1 | present (475 aa) | 6 CYP74L2v1 e_gw1.20.297.1\|Selmo1 98% to fgenesh1_pm.C_scaffold_86000049\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74L2v2 | present (464 aa) | CYP74L2v2 fgenesh1_pm.C_scaffold_86000049\|Selmo1 45% to CYP74A5 rice | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74L3 | present (451 aa) | 7 CYP74L3 fgenesh2_pg.C_scaffold_20000018\|Selmo1 94% to fgenesh1_pm.C_scaffold_86000049\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74M1v1 | present (475 aa) | 8 CYP74M1v1 estExt_Genewise1Plus.C_400042\|Selmo1 38% to CYP74A1, CYP74 clan no introns | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74M1v2 | present (475 aa) | CYP74M1v2 estExt_Genewise1Plus.C_890047\|Selmo1 98% to estExt_Genewise1Plus.C_400042\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74M2v1 | present (483 aa) | 9 CYP74M2v1 e_gw1.20.113.1\|Selmo1 97% to e_gw1.62.73.1\|Selmo1 no introns | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74M2v2 | present (483 aa) | CYP74M2v2 e_gw1.62.73.1\|Selmo1 38% to 74A4 in CYP74 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74M3v1 | present (495 aa) | 10 CYP74M3v1 e_gw1.4.256.1\|Selmo1 57% to e_gw1.62.73.1\|Selmo1 in CYP74 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP74M3v2 | present (495 aa) | CYP74M3v2 e_gw1.9.482.1\|Selmo1 98% to e_gw1.4.256.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88E1v2 | present (478 aa) | CYP88E1v2     Selaginella moellendorffii | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88E1v2 | present (458 aa) | CYP88E1v2 gw1.161.7.1\|Selmo1 one intron diff and 1 aa diff to 88E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88E1v2 | present (480 aa) | CYP88E1v2 e_gw1.161.7.1\|Selmo1 46% to CYP88A4, 98% to e_gw1.28.126.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88E1v1 | present (579 aa) | 19 CYP88E1v1 e_gw1.28.126.1\|Selmo1 96% to 88E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88E2v2 | present (475 aa) | 33 CYP88E2v2 e_gw1.88.172.1\|Selmo1 61% to CYP88E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88E2v1 | present (449 aa) | 24 CYP88E2v1 fgenesh2_pg.C_scaffold_42000205\|Selmo1 61% to 88E1 Selaginella | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716N1 | present (470 aa) | 34 CYP716N1 estExt_fgenesh2_pg.C_480139\|Selmo1 32% to CYP728, 34% to 716A2 in CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (271 aa) | fgenesh2_pg.C_scaffold_3000006\|Selmo1 87% to e_gw1.88.172.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (128 aa) | fgenesh2_pg.C_scaffold_12000196\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (190 aa) | fgenesh2_pg.C_scaffold_177000009\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (171 aa) | fgenesh2_pg.C_scaffold_159000012\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (149 aa) | fgenesh2_pg.C_scaffold_1000082\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (149 aa) | fgenesh2_pg.C_scaffold_260000002\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88F1v1 | present (480 aa) | 13 CYP88F1v1 e_gw1.52.57.1\|Selmo1 41% to 88A4 in the CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88F1v2 | present (474 aa) | CYP88F1v2 e_gw1.7.590.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP88F1v2 | present (438 aa) | SMCYP88 CYP88F1v2 4 aa diffs to e_gw1.7.590.1\|Selmo1 Jing-Ke, differs at yellow N-term | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (363 aa) | estExt_fgenesh2_pg.C_520040\|Selmo1 50% to 88A4 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E1v2 | present (475 aa) | CYP90E1v2 Selaginella moellendorffii | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E1v2 | present (475 aa) | CYP90E1v2 fgenesh1_pm.C_scaffold_41000045\|Selmo1 100% to 90E1 except for one boundary | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E1v1 | present (469 aa) | 22 CYP90E1v1 fgenesh2_pg.C_scaffold_35000039\|Selmo1 97% to 90E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E2v1 | present (428 aa) | CYP90E2v1 estExt_Genewise1.C_330361\|Selmo1 89% to CYP90E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E2v2 | present (475 aa) | 21 CYP90E2v2 fgenesh1_pm.C_scaffold_129000008\|Selmo1 88% to CYP90E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E3v2 | present (467 aa) | CYP90E3v2 e_gw1.78.162.1\|Selmo1 82% to CYP90E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E3v1 | present (490 aa) | 32 CYP90E3v1 estExt_Genewise1.C_680079\|Selmo1 75% to 90E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90E3v1 | present (473 aa) | SMCYP90 CYP90E3v1 same as estExt_Genewise1.C_680079\|Selmo1 after intron removal | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90F1v1 | present (441 aa) | 15 CYP90F1v1 e_gw1.10.148.1\|Selmo1 42% to CYP90A1, 36% to 90E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP90F1v2 | present (441 aa) | CYP90F1v2 e_gw1.29.84.1\|Selmo1 99% to e_gw1.10.148.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707A20v1 | present (473 aa) | CYP707A20v1   Selaginella moellendorffii (lycopod, Gemmiferous spike moss) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707A20v1 | present (464 aa) | 14 CYP707A20v1 e_gw1.10.347.1\|Selmo1 98% to CYP707A20 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707A20v2 | present (464 aa) | CYP707A20v2 e_gw1.29.314.1\|Selmo1 98% to CYP707A20 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707A43v2 | present (471 aa) | 17 CYP707A43v2 e_gw1.19.692.1\|Selmo1 96% to e_gw1.18.604.1\|Selmo1 69% to CYP707A20 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707A43v1 | present (473 aa) | CYP707A43v1 e_gw1.18.604.1\|Selmo1 70% to CYP707A20 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707B2v2 | present (465 aa) | CYP707B2v2 e_gw1.44.472.1\|Selmo1 39% to 707A4, CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707B2v1 | present (465 aa) | 20 CYP707B2v1 e_gw1.2.299.1\|Selmo1 99% to e_gw1.44.472.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707B1v2 | present (473 aa) | CYP707B1v2 e_gw1.70.264.1\|Selmo1 70% to e_gw1.44.472.1\|Selmo1, 39% to 707A4, CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707B1v1 | present (473 aa) | 31 CYP707B1v1 e_gw1.64.270.1\|Selmo1 99% to e_gw1.70.264.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A4v2 | present (459 aa) | CYP780A4v2 e_gw1.9.357.1\|Selmo1 35% to CYP707A1 probable CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A4v1 | present (457 aa) | 7 CYP780A4v1 e_gw1.4.1247.1\|Selmo1 96% to e_gw1.9.357.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780B1v1 | present (459 aa) | 8 CYP780B1v1 fgenesh2_pg.C_scaffold_6000297\|Selmo1 40% to 707A3 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A8v1 | present (463 aa) | 27 CYP780A8v1 e_gw1.46.123.1\|Selmo1 83% to e_gw1.9.357.1\|Selmo1 35% to CYP707A1, CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A8v2 | present (461 aa) | CYP780A8v2 e_gw1.96.66.1\|Selmo1 96% to e_gw1.46.123.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A10 | present (471 aa) | 37 CYP780A10 e_gw1.150.42.1\|Selmo1 81% to e_gw1.46.123.1\|Selmo1, CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A5v1 | present (549 aa) | 9 CYP780A5v1 fgenesh2_pg.C_scaffold_6000055\|Selmo1 93% to e_gw1.150.42.1\|Selmo1 with indel | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A9 | present (423 aa) | 36 CYP780A9 fgenesh2_pg.C_scaffold_150000002\|Selmo1 29% to 707A2 some gaps in seq | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A6P | present (400 aa) | 11 CYP780A6P fgenesh2_pg.C_scaffold_6000095\|Selmo1 38% to 707A3 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A7 | present (449 aa) | 12 CYP780A7 fgenesh2_pg.C_scaffold_6000096\|Selmo1 36% to 707A6 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A1v1 | present (469 aa) | 4 CYP780A1v1 estExt_Genewise1Plus.C_11081\|Selmo1 33% to CYP707A2, CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A1v2 | present (469 aa) | CYP780A1v2 estExt_Genewise1.C_160031\|Selmo1 98% to estExt_Genewise1Plus.C_11081\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A2v1 | present (419 aa) | 5 CYP780A2v1 fgenesh2_pg.C_scaffold_1000487\|Selmo1 33% to 707A2 (missing N-term) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP780A3v1 | present (419 aa) | 6 CYP780A3v1 e_gw1.1.1451.1\|Selmo1 34% to 707A3, 88% to e_gw1.150.42.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (345 aa) | fgenesh2_pg.C_scaffold_16000018\|Selmo1 28% to 707A1 pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707C1v1 | present (486 aa) | 18 CYP707C1v1 e_gw1.21.206.1\|Selmo1 37% to 707A5 38% to 707A2 in the CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP707C1v2 | present (486 aa) | CYP707C1v2 e_gw1.31.155.1\|Selmo1 98% to e_gw1.21.206.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716J1v2 | present (486 aa) | CYP716J1v2  Selaginella moellendorffii (lycopod, Gemmiferous spike moss) | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716J1v1 | present (480 aa) | 1 CYP716J1v1 fgenesh2_pg.C_scaffold_0000292\|Selmo1 96% to CYP716J1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716J1v2 | present (486 aa) | estExt_ CYP716J1v2 Genewise1.C_81429\|Selmo1 99% to CYP716J1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716M1v1 | present (443 aa) | 26 CYP716M1v1 fgenesh1_pm.C_scaffold_45000005\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716M1v2 | present (471 aa) | CYP716M1v2 e_gw1.63.104.1\|Selmo1 44% to 716B2, 38% to CYP716A1, CYP85 clan | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P7 | present (478 aa) | 30 CYP716P7 fgenesh1_pm.C_scaffold_57000069\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P4 | present (467 aa) | 3 CYP716P4 fgenesh2_pg.C_scaffold_0001034\|Selmo1 38% to 716A1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P6 | present (469 aa) | 29 CYP716P6 gw1.57.22.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P1v2 | present (454 aa) | CYP716P1v2 estExt_Genewise1.C_1230105\|Selmo1 40% to CYP716A1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P1v1 | present (454 aa) | 35 CYP716P1v1 e_gw1.100.31.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (239 aa) | fgenesh2_pg.C_scaffold_119000093\|Selmo1 80% to estExt_Genewise1.C_1230105\|Selmo1 possible psedogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P2 | present (398 aa) | 38 CYP716P2 fgenesh2_pg.C_scaffold_174000009\|Selmo1 60% to e_gw1.100.31.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P3 | present (478 aa) | 2 CYP716P3 estExt_Genewise1Plus.C_02337\|Selmo1 37% to CYP716A2, 39% to 716A1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716K1v1 | present (469 aa) | 10 CYP716K1v1 e_gw1.6.26.1\|Selmo1 37% to CYP716A2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716K1v2 | present (454 aa) | CYP716K1v2 fgenesh1_pm.C_scaffold_17000007\|Selmo1 99% to e_gw1.6.26.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (123 aa) | e_gw1.17.896.1\|Selmo1 98% to e_gw1.6.26.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P5v2 | present (479 aa) | CYP716P5v2 e_gw1.81.12.1\|Selmo1 90% to estExt_Genewise1Plus.C_02337\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716P5v1 | present (476 aa) | 25 CYP716P5v1 e_gw1.43.434.1\|Selmo1 89% to estExt_Genewise1Plus.C_02337\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (397 aa) | fgenesh2_pg.C_scaffold_57000215\|Selmo1 31% to 716A2 some gaps in seq | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (131 aa) | fgenesh2_pg.C_scaffold_76000035\|Selmo1 83% to e_gw1.43.434.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+|  | present (98 aa) | e_gw1.415.10.1\|Selmo1 100% to e_gw1.43.434.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716L1v1 | present (474 aa) | 16 CYP716L1v1 fgenesh1_pm.C_scaffold_13000015\|Selmo1, 47% to 716B1 Picea | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP716L1v2 | present (480 aa) | CYP716L1v2 e_gw1.48.17.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP86F3v1 | present (503 aa) | 1 CYP86F3v1 e_gw1.73.49.1\|Selmo1 53% to CYP86B3, 54% to 86F1 moss | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP86F3v2 | present (505 aa) | CYP86F3v2 e_gw1.90.39.1\|Selmo1 98% to e_gw1.73.49.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J1v1 | present (503 aa) | 2 CYP94J1v1 e_gw1.42.412.1\|Selmo1 48% to CYP94H1 moss, 44% to CYP94D10, 43% to 94C3, | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J1v2 | present (503 aa) | CYP94J1v2 e_gw1.67.26.1\|Selmo1 98% to e_gw1.42.412.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J1v2 | present (330 aa) | CYP94J1v2 e_gw1.67.26.1\|Selmo1 98% to e_gw1.42.412.1\|Selmo1_JKW_mannual | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J2v1 | present (491 aa) | CYP94J2v1 e_gw1.40.98.1\|Selmo1 98% to e_gw1.89.58.1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J2v2 | present (491 aa) | 3 CYP94J2v2 e_gw1.89.58.1\|Selmo1 59% to e_gw1.42.412.1\|Selmo1 49% to 94D2, 42% to 94B4 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J3 | present (461 aa) | 4 CYP94J3 fgenesh1_pm.C_scaffold_40000038\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J4v1 | present (490 aa) | CYP94J4v1 e_gw1.1.371.1\|Selmo1 99% to e_gw1.5.239.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J4v2 | present (490 aa) | CYP94J4v2 e_gw1.5.239.1\|Selmo1 48% to 94D13, 49% to 94D2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J5Pv1 | present (210 aa) | CYP94J5Pv1 fgenesh2_pg.C_scaffold_1000655\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP94J5Pv2 | present (210 aa) | CYP94J5Pv2 fgenesh2_pg.C_scaffold_5000158\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B13 | present (497 aa) | CYP704B13  Selaginella | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B13v1 | present (512 aa) | CYP704B13v1 e_gw1.47.233.1\|Selmo1 95% to 704B13 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B13v2 | present (538 aa) | CYP704B13v2 e_gw1.54.222.1\|Selmo1 46% to 704B1, very similar to 704B13 with intron | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B14v1 | present (504 aa) | 10 CYP704B14v1 e_gw1.3.656.1\|Selmo1 49% to CYP704B2 45% to CYP704B1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B14v2 | present (504 aa) | CYP704B14v2 e_gw1.25.324.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B15v1 | present (496 aa) | 11 CYP704B15v1 fgenesh2_pg.C_scaffold_3000389\|Selmo1 89% to e_gw1.3.656.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B15v2 | present (496 aa) | CYP704B15v2 fgenesh2_pg.C_scaffold_25000230\|Selmo1 89% to e_gw1.3.656.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B16v1 | present (501 aa) | 12 CYP704B16v1 e_gw1.47.231.1\|Selmo1 98% to e_gw1.54.224.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B16v2 | present (501 aa) | CYP704B16v2 e_gw1.54.224.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B17v1 | present (469 aa) | 6 CYP704B17v1 e_gw1.3.1201.1\|Selmo1 99% to e_gw1.25.575.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B17v2 | present (469 aa) | CYP704B17v2 e_gw1.25.575.1\|Selmo1 57% to CYP704B2, 59% to 704B1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B18Pv1 | present (209 aa) | 5 CYP704B18Pv1  fgenesh2_pg.C_scaffold_625000001\|Selmo1 pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704B18Pv2 | present (236 aa) | CYP704B18Pv2 gw1.10.48.1\|Selmo1 pseudogene | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704H1v1 | present (545 aa) | 8 CYP704H1v1 e_gw1.42.260.1\|Selmo1 48% to 704B7 moss, | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704H1v2 | present (546 aa) | CYP704H1v2 e_gw1.88.109.1\|Selmo1 98% to e_gw1.42.260.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704H2v1 | present (520 aa) | 9 CYP704H2v1 fgenesh2_pg.C_scaffold_38000029\|Selmo1 49% to CYP704E1 moss, 48% to 704B2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704H2v2 | present (520 aa) | CYP704H2v2 fgenesh2_pg.C_scaffold_63000059\|Selmo1 49% to CYP704E1 moss, 48% to 704B2 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704J1v1 | present (537 aa) | CYP704J1v1 estExt_Genewise1.C_320109\|Selmo1 97% to e_gw1.45.396.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP704J1v2 | present (537 aa) | CYP704J1v2 e_gw1.45.396.1\|Selmo1 49% to CYP704E1, 46% to 704B6, 46% to 704F1 moss, | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP97A14v1 | present (553 aa) | CYP97A14v1 fgenesh2_pg.C_scaffold_6000545\|Selmo1 67% to 97A8 moss | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP97A14v2 | present (399 aa) | CYP97A14v2 fgenesh1_pm.C_scaffold_17000029\|Selmo1 98% to fgenesh2_pg.C_scaffold_6000545\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP97B18v1 | present (563 aa) | CYP97B18v1 estExt_Genewise1.C_100697\|Selmo1 74% to 97B8 moss | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP97B18v2 | present (541 aa) | CYP97B18v2 estExt_Genewise1Plus.C_290486\|Selmo1 99% to estExt_Genewise1.C_100697\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP97C15v1 | present (525 aa) | CYP97C15v1 estExt_Genewise1Plus.C_1240027\|Selmo1 99% to estExt_Genewise1Plus.C_1460029\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP97C15v2 | present (525 aa) | CYP97C15v2 estExt_Genewise1Plus.C_1460029\|Selmo1 73% to 97C5 moss | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP710A21v1 | present (527 aa) | CYP710A21v1 e_gw1.0.2197.1\|Selmo1 CYP710 62% to moss 710A14 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP710A21v2 | present (500 aa) | CYP710A21v2 fgenesh1_pm.C_scaffold_60000011\|Selmo1 98% to e_gw1.0.2197.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP711A17v1 | present (512 aa) | CYP711A17v1 e_gw1.18.593.1\|Selmo1 99% to e_gw1.19.137.1\|Selmo1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
+| CYP711A17v2 | present (512 aa) | CYP711A17v2 e_gw1.19.137.1\|Selmo1 42% to CYP711A7 Populus, 40% to 711A1 Arab., | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Selaginella.P450s.doc |
