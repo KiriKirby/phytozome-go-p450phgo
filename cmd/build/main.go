@@ -724,7 +724,10 @@ func readReviewedSources(root string) ([]record, error) {
 		}
 		for _, row := range rows[1:] {
 			get := func(name string) string {
-				i := header[name]
+				i, ok := header[name]
+				if !ok {
+					return ""
+				}
 				if i >= len(row) {
 					return ""
 				}
@@ -736,10 +739,36 @@ func readReviewedSources(root string) ([]record, error) {
 			if id == "" || species == "" {
 				continue
 			}
-			out = append(out, record{ID: id, RecordKey: get("record_key"), Category: get("category"), Species: species, Symbol: symbol, Description: get("source_note"), Sequence: get("sequence"), SourceURL: get("source_url"), ReviewStatus: get("review_status")})
+			recordKey := get("record_key")
+			// Table S2 is a reviewed relationship table, not a FASTA source. Its
+			// legacy CSV predates the record_key column, so never let its empty key
+			// become a shared bucket/category identity in the PGD. Keep each
+			// placeholder independently addressable and auditable.
+			if recordKey == "" && strings.EqualFold(get("source_url"), "user-provided-table-s2") {
+				recordKey = "table-s2:" + stableKeyPart(species) + ":" + stableKeyPart(first(id, symbol))
+			}
+			out = append(out, record{ID: id, RecordKey: recordKey, Category: get("category"), Species: species, Symbol: symbol, Description: get("source_note"), Sequence: get("sequence"), SourceURL: get("source_url"), ReviewStatus: get("review_status")})
 		}
 	}
 	return out, nil
+}
+
+func stableKeyPart(value string) string {
+	value = strings.ToLower(strings.TrimSpace(value))
+	var b strings.Builder
+	lastDash := false
+	for _, r := range value {
+		if (r >= 'a' && r <= 'z') || (r >= '0' && r <= '9') {
+			b.WriteRune(r)
+			lastDash = false
+			continue
+		}
+		if !lastDash && b.Len() > 0 {
+			b.WriteByte('-')
+			lastDash = true
+		}
+	}
+	return strings.Trim(b.String(), "-")
 }
 func first(values ...string) string {
 	for _, v := range values {
