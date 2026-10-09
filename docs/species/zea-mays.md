@@ -2,9 +2,9 @@
 
 Category: `plants`
 
-Records: 28
+Records: 26
 
-Sequence audit: `18/28` records have an accepted sequence; short records (<100 aa): `8`; unusually long records (>1000 aa): `0`.
+Sequence audit: `18/26` records have an accepted sequence; short records (<100 aa): `8`; unusually long records (>1000 aa): `0`.
 
 Extraction method(s): `reviewed structured record`.
 
@@ -12,8 +12,6 @@ A missing sequence means the current Dr. Nelson resource did not provide an unam
 
 | CYP / ID | Sequence | Description | Source |
 |---|---|---|---|
-| CYP84A33 | missing | Table S2: Sequence identities among CAld5H (CYP84) proteins | user-provided-table-s2 |
-| CYP84A34 | missing | Table S2: Sequence identities among CAld5H (CYP84) proteins | user-provided-table-s2 |
 | CYP51 | present (219 aa) | Zea 1999 EST group 1 at normalized line 8; literal protein lines 9-12; complete source header=AI770623, AI621427, AI649583, AI621417, T12664 = CYP51 98% to sorghum CYP51 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/zea.doc |
 | CYP51 | present (68 aa) | Zea 1999 EST group 2 at normalized line 14; literal protein lines 15-16; complete source header=AI065779 a second CYP51 gene in Zea 83% identical to the other CYP51 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/zea.doc |
 | CYP71A5/CYP71E1 | present (59 aa) | Zea 1999 EST group 3 at normalized line 18; literal protein lines 19-19; complete source header=T15323   56% to 71A5 N-term also 71E1 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/zea.doc |

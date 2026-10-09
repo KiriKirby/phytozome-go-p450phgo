@@ -7,7 +7,7 @@ Listed species/resource entries: 167
 | Category | Reviewed PGD records | Literal source sequences |
 |---|---:|---:|
 | animals | 0 | 0 |
-| plants | 18187 | 18013 |
+| plants | 18172 | 18013 |
 | fungi | 0 | 0 |
 | bacteria | 0 | 0 |
 

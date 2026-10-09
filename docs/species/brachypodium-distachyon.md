@@ -2,9 +2,9 @@
 
 Category: `plants`
 
-Records: 279
+Records: 278
 
-Sequence audit: `278/279` records have an accepted sequence; short records (<100 aa): `9`; unusually long records (>1000 aa): `0`.
+Sequence audit: `278/278` records have an accepted sequence; short records (<100 aa): `9`; unusually long records (>1000 aa): `0`.
 
 Extraction method(s): `reviewed structured record`.
 
@@ -12,7 +12,6 @@ A missing sequence means the current Dr. Nelson resource did not provide an unam
 
 | CYP / ID | Sequence | Description | Source |
 |---|---|---|---|
-| CYP84A5 | missing | Table S2: CYP84A5 (Bradi3g30590.1) | user-provided-table-s2 |
 | CYP51G1 | present (490 aa) | Brachypodium Word block 1 at normalized line 1; literal protein lines 2-6; header=CYP51G1 Brachypodium distachyon Bradi4g25930 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
 | CYP51G3 | present (497 aa) | Brachypodium Word block 2 at normalized line 8; literal protein lines 9-13; header=CYP51G3 Brachypodium distachyon Bradi1g24340 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |
 | CYP51G11P | present (494 aa) | Brachypodium Word block 3 at normalized line 15; literal protein lines 16-24; header=CYP51G11P Brachypodium distachyon Bradi1g55330 | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Brachypodium.FASTA.doc |

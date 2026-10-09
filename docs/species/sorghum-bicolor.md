@@ -2,9 +2,9 @@
 
 Category: `plants`
 
-Records: 629
+Records: 628
 
-Sequence audit: `628/629` records have an accepted sequence; short records (<100 aa): `20`; unusually long records (>1000 aa): `4`.
+Sequence audit: `628/628` records have an accepted sequence; short records (<100 aa): `20`; unusually long records (>1000 aa): `4`.
 
 Extraction method(s): `reviewed structured record`.
 
@@ -12,7 +12,6 @@ A missing sequence means the current Dr. Nelson resource did not provide an unam
 
 | CYP / ID | Sequence | Description | Source |
 |---|---|---|---|
-| CYP84A-like1 | missing | Table S2: CYP84A-like1 (SORBI_01g017270) | user-provided-table-s2 |
 | CYP71K10 | present (142 aa) | Sorghum gene-model block 1; normalized source line 15; complete header=Sb01g035160\|Sorbi1 79% to CYP71K10, no partner | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
 | CYP71C18 | present (72 aa) | Sorghum gene-model block 2; normalized source line 19; complete header=Sb07g000496\|Sorbi1 61% to CYP71C18, no partner | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |
 | CYP76N3 | present (124 aa) | Sorghum gene-model block 3; normalized source line 22; complete header=Sb10g009400\|Sorbi1 50% to CYP76N3, no partner | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/sorghum.doc |

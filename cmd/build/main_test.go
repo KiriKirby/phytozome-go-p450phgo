@@ -236,50 +236,6 @@ func TestReviewedSourceAllowsExplicitlyUnannotatedRecord(t *testing.T) {
 	}
 }
 
-func TestReviewedCAld5HTableSpeciesRelationships(t *testing.T) {
-	rows, err := readReviewedSources("../../sources")
-	if err != nil {
-		t.Fatal(err)
-	}
-	want := map[string][]string{"Oryza sativa": {"CYP84A6", "CYP84A7"}, "Arabidopsis thaliana": {"CYP84A1"}, "Liquidambar styraciflua": {"CYP84A3"}, "Populus trichocarpa": {"CYP84A10", "CYP84A11"}, "Eucalyptus globulus": {"CYP84A-like"}, "Medicago sativa": {"CYP84A20"}, "Setaria italica": {"CYP84A-like"}, "Zea mays": {"CYP84A33", "CYP84A34"}, "Sorghum bicolor": {"CYP84A-like1"}, "Brachypodium distachyon": {"CYP84A5"}, "Panicum virgatum": {"CYP84A-like1", "CYP84A-like2"}}
-	got := map[string]map[string]bool{}
-	for _, r := range rows {
-		if got[r.Species] == nil {
-			got[r.Species] = map[string]bool{}
-		}
-		got[r.Species][r.Symbol] = true
-	}
-	for species, symbols := range want {
-		for _, symbol := range symbols {
-			if !got[species][symbol] {
-				t.Errorf("missing %s -> %s", species, symbol)
-			}
-		}
-	}
-}
-
-func TestReviewedCAld5HTableRowsHaveStableKeys(t *testing.T) {
-	rows, err := readReviewedSources("../../sources")
-	if err != nil {
-		t.Fatal(err)
-	}
-	seen := map[string]bool{}
-	count := 0
-	for _, r := range rows {
-		if r.SourceURL != "user-provided-table-s2" {
-			continue
-		}
-		count++
-		if r.RecordKey == "" || r.RecordKey == "plants" || seen[r.RecordKey] {
-			t.Fatalf("invalid Table S2 record key: %#v", r)
-		}
-		seen[r.RecordKey] = true
-	}
-	if count != 15 {
-		t.Fatalf("Table S2 rows=%d, want 15", count)
-	}
-}
-
 func TestMergeRecordsDoesNotCrossAssignSpecies(t *testing.T) {
 	rows := mergeRecords([]record{{Category: "plants", Species: "Oryza sativa", Symbol: "CYP84A6"}, {Category: "plants", Species: "Arabidopsis thaliana", Symbol: "CYP84A1"}})
 	if len(rows) != 2 {
@@ -287,6 +243,18 @@ func TestMergeRecordsDoesNotCrossAssignSpecies(t *testing.T) {
 	}
 	if rows[0].Species == rows[1].Species {
 		t.Fatal("species relationships collapsed")
+	}
+}
+
+func TestScreenshotsAndLiteratureTablesAreNotPGDSources(t *testing.T) {
+	rows, err := readReviewedSources("../../sources")
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, r := range rows {
+		if strings.Contains(strings.ToLower(r.SourceURL), "user-provided-table") || strings.Contains(strings.ToLower(r.Description), "table s2") {
+			t.Fatalf("non-resource fixture entered reviewed PGD inputs: %#v", r)
+		}
 	}
 }
 

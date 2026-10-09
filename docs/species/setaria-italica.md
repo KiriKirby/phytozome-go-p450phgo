@@ -2,9 +2,9 @@
 
 Category: `plants`
 
-Records: 414
+Records: 413
 
-Sequence audit: `413/414` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
+Sequence audit: `413/413` records have an accepted sequence; short records (<100 aa): `0`; unusually long records (>1000 aa): `0`.
 
 Extraction method(s): `explicit sequence column`.
 
@@ -12,7 +12,6 @@ A missing sequence means the current Dr. Nelson resource did not provide an unam
 
 | CYP / ID | Sequence | Description | Source |
 |---|---|---|---|
-| CYP84A-like | missing | Table S2: CYP84A-like (Si035174m) | user-provided-table-s2 |
 | CYP51G1 | present (488 aa) | Setaria italica workbook row 2; Gotoh source ID=Setaital8.26299 Setaital8 +; seq ID=Setaital8.26299; best hit=CYP51G1; %ID=93.5; assigned CYP column=J; sequence column=K | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
 | CYP51G | present (493 aa) | Setaria italica workbook row 3; Gotoh source ID=Setaital8.26364 Setaital8 +; seq ID=Setaital8.26364; best hit=CYP51G1; %ID=73.78; assigned CYP column=J; sequence column=K | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |
 | CYP51G | present (500 aa) | Setaria italica workbook row 4; Gotoh source ID=Setaital8.26317 Setaital8 +; seq ID=Setaital8.26317; best hit=CYP51G1b; %ID=75.56; assigned CYP column=J; sequence column=K | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Setaria.italica.xlsx |

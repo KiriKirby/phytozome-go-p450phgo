@@ -2,9 +2,9 @@
 
 Category: `plants`
 
-Records: 808
+Records: 806
 
-Sequence audit: `806/808` records have an accepted sequence; short records (<100 aa): `2`; unusually long records (>1000 aa): `0`.
+Sequence audit: `806/806` records have an accepted sequence; short records (<100 aa): `2`; unusually long records (>1000 aa): `0`.
 
 Extraction method(s): `explicit sequence column`.
 
@@ -12,8 +12,6 @@ A missing sequence means the current Dr. Nelson resource did not provide an unam
 
 | CYP / ID | Sequence | Description | Source |
 |---|---|---|---|
-| CYP84A-like1 | missing | Table S2: CYP84A-like1 (Pariv.1a01427.1) | user-provided-table-s2 |
-| CYP84A-like2 | missing | Table S2: CYP84A-like2 (Pariv.1b03743.1) | user-provided-table-s2 |
 | CYP51G | present (289 aa) | Panicum virgatum workbook row 2; Gotoh source ID=Panivirg24881.7; seq ID=Panivirg24881.7; best hit=CYP51G1; %ID=89.74; assigned CYP column=F; sequence column=G | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Panicum.virgatum.xlsx |
 | CYP51G | present (296 aa) | Panicum virgatum workbook row 3; Gotoh source ID=Panivirg150367.1; seq ID=Panivirg150367.1; best hit=CYP51G1; %ID=89.1; assigned CYP column=F; sequence column=G | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Panicum.virgatum.xlsx |
 | CYP51G | present (432 aa) | Panicum virgatum workbook row 4; Gotoh source ID=Panivirg113494.2; seq ID=Panivirg113494.2; best hit=CYP51G1; %ID=95.54; assigned CYP column=F; sequence column=G | https://drnelson.uthsc.edu/wp-content/uploads/sites/130/resources/Panicum.virgatum.xlsx |

@@ -3,7 +3,7 @@
 ## Plant rebuild authority
 
 - The immediate release target is the complete `plants` section from the Dr. Nelson plants page. Work through the page resources one at a time in page/manifest order.
-- Current checkpoint (2026-10-09): all 59 plant resources are complete in manifest order through Red Algae. Their reviewed resource totals are 18,172 records and 18,013 literal sequences; together with 15 pre-existing CAld5H relationships, the formal PGD target is 18,187 records. The plant release gate is satisfied; non-plant resources remain disabled until independently reviewed.
+- Current checkpoint (2026-10-09): all 59 plant resources are complete in manifest order through Red Algae. Their reviewed resource totals are 18,172 records and 18,013 literal sequences. The plant release gate is satisfied; non-plant resources remain disabled until independently reviewed. User screenshots and literature tables are test fixtures only and are not PGD sources.
 - Download and inspect every plant resource independently. A resource is not approved merely because it has been Office-normalized or mentioned in an audit document.
 - Do not publish plant records produced by a category-wide CYP regex scan, printable-byte scan, guessed delimiter, guessed FASTA boundary, or a generic "sequence-looking token" rule.
 - Every approved plant resource must have its own parser/profile implementation or a reviewed structured CSV whose columns and row relationships were checked against that exact source file.
